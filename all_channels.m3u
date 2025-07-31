@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVRI" group-title="Nasional",TVRI Nasional
+https://raw.githubusercontent.com/mubin-asrori/iptv-indonesia/main/tvri.m3u
+#EXTINF:-1 tvg-id="Lokal" group-title="Lokal",TV Lokal
+https://raw.githubusercontent.com/mubin-asrori/iptv-indonesia/main/tvlokal.m3u
+#EXTINF:-1 tvg-id="Playlist" group-title="Campuran",Semua Channel
+https://raw.githubusercontent.com/mubin-asrori/iptv-indonesia/main/playlist.m3u
