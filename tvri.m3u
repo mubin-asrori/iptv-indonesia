@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-name=""tvg-id="RCTI.id"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/RCTI_OKE.png/revision/latest/scale-to-width-down/250?cb=20170506092211"group-title="Indonesia Channels":http-user-agent="",2 RCTI
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/1/12/The_Indonesian_Channel.png/revision/latest?cb=20210404111131"group-title="Indonesia Channels":http-user-agent="",1 MNC TV
+https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://dl.dropboxusercontent.com/s/fcc2sbh556rtp08/gtv.png"group-title="Indonesia Channels":http-user-agent="",1 GTV
+https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/4dHCNy2m/trans7.png"group-title="Indonesia Channels":http-user-agent="",1 TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
