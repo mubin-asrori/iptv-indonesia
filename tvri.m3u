@@ -449,13 +449,13 @@ https://stream.hownetwork.xyz/xxx/kuch-kuch-hota-hai-1998-bluray/2/480.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://stream.hownetwork.xyz/xxx/blue-crush-2002-bluray/16/480.m3u8
 
-#EXTINF:-10.0 tvg-id="" tvg-name="" group-title="🎬 MOVIE JETPACK 💳 ⭐VIP⭐",⭐ tvg-logo="https://i.imgur.com/up5vzDS.png",⭐ Mr. Vampire Part 1 (1985) SUB INDO
+#EXTINF:-10.0 tvg-id="" tvg-name="" group-title="🎬 MOVIE JETPACK 💳 ⭐VIP⭐", tvg-logo="https://i.imgur.com/up5vzDS.png",⭐ Mr. Vampire Part 1 (1985) SUB INDO
 http://abf.filmbluray.id/tsybssh
-#EXTINF:-10.0 tvg-id="" tvg-name="" group-title="🎬 MOVIE JETPACK 💳 ⭐VIP⭐",⭐ tvg-logo="https://i.imgur.com/X9Kf3YL.png",⭐ Mr. Vampire Part 2 (1986) SUB INDO
+#EXTINF:-10.0 tvg-id="" tvg-name="" group-title="🎬 MOVIE JETPACK 💳 ⭐VIP⭐", tvg-logo="https://i.imgur.com/X9Kf3YL.png",⭐ Mr. Vampire Part 2 (1986) SUB INDO
 http://abf.filmbluray.id/1jfvnjo
-#EXTINF:-10.0 tvg-id="" tvg-name="" group-title="🎬 MOVIE JETPACK 💳 ⭐VIP⭐",⭐ tvg-logo="https://i.imgur.com/8T2FVIB.png",⭐ Mr. Vampire Part 3 (1987) SUB INDO
+#EXTINF:-10.0 tvg-id="" tvg-name="" group-title="🎬 MOVIE JETPACK 💳 ⭐VIP⭐", tvg-logo="https://i.imgur.com/8T2FVIB.png",⭐ Mr. Vampire Part 3 (1987) SUB INDO
 http://abf.filmbluray.id/wusl36h
-#EXTINF:-10.0 tvg-id="" tvg-name="" group-title="🎬 MOVIE JETPACK 💳 ⭐VIP⭐",⭐ tvg-logo="https://i.imgur.com/vXWQfMx.png",⭐ Mr. Vampire Saga (1988) SUB INDO
+#EXTINF:-10.0 tvg-id="" tvg-name="" group-title="🎬 MOVIE JETPACK 💳 ⭐VIP⭐", tvg-logo="https://i.imgur.com/vXWQfMx.png",⭐ Mr. Vampire Saga (1988) SUB INDO
 http://abf.filmbluray.id/9pok5wl
 
 #EXTINF:-10.0 tvg-logo="https://i.imgur.com/oqDvvds.jpeg" group-title="🎬 MOVIE JETPACK 💳 ⭐VIP⭐",⭐Ms.vampire
@@ -8433,3 +8433,5 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fb3886d940521074e
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c533f8f06fc563bbce4511857f4686d:ae291e961486e5f553f0dc1c4e7650aa
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c912c75ba74fe65548cba69_hbovodsd/dash0/IDN_index.mpd
+
+
