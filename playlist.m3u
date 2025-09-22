@@ -1,33 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="EVENT 22/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/08/Logo_Livoli_Divisi_Utama.png", 16:00 WIB Putri: Bharata Muda vs Kota Impian Wahana
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://jlbfpc.jlbfyh.com
-#EXTVLCOPT:http-referrer=https://jlbfpc.jlbfyh.com/
-https://bf.jlbflive.cc/live/322665_hd01.m3u8?txSecret=849624468e8b5c17e8051f14296a7844&txTime=68d111de
-
-#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://iili.io/KfT7PJ2.jpg", Testing
-#EXTVLCOPT:http-origin=https://ppdd02.playerktidfintkd.shop
-#EXTVLCOPT:http-referrer=https://ppdd02.playerktidfintkd.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-
-<================>
-
-#EXTINF:-1 group-title="EVENT 22/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB Arema vs Persib
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=a8088b6fac3ed37b249958e196f0dd8f&wsABSTime=1758561238
-
-#EXTINF:-1 group-title="EVENT 22/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB Arema vs Persib
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://hlsplayer.net/
-https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/stream.titanlivescore.com/live/LXSCORE-4879796.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=aedb3c40d88b092523d71d5f25e5fdda
-
-#EXTINF:-1 group-title="EVENT 22/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB Arema vs Persib
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://www.instreamtv.xyz
-#EXTVLCOPT:http-referrer=https://www.instreamtv.xyz/
-https://play-cdn.sportsbal.com/sport/202_3937747_1.m3u8?hls_ctx=q37s205u&sign=Ys__0dI0vAMK-vlRwO3QbbuBeT4WiavyF0W36X7JWGttbUdxrs1nvApP3gyGHYQNxIPCMCuDtFPiZ4ReQEB54--A15ufXKIHFqORthdBbM7OYlZNZ8vsVtYgnsKCTYP-DV0l6bEN64xrGl1GSn90o3-QNGaev-xfWd-0zmp7rh8FlhryscK3Ir2K7OGyziaXVvnXpF7IhKA1pBor-33gaDpFx7tec-AGIWYBFB4kVbjXNBP3VmjYP-q2Ioy40wv2qNNEnOWg4nVWWZYNNsIvLeZ7yoURCrKUuwsry_Vak_dztyQaWUcjBp0wfD_jzQgB_IcIGaoSy7R5zYSHJiz0cQ&timestamp=1758530081194
-
 #EXTINF:-1 group-title="EVENT 22/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Borneo vs Persis Solo
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
