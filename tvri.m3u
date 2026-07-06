@@ -31,8 +31,6 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 
 #EXTINF:-1 tvg-name="VTV " tvg-logo="https://i.imgur.com/1F0683P.jpeg" tvg-id="VTV.id" group-title="Indonesia",VTV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 http://tvratu.my.id/oxygen/index.m3u8?id=vtv
 
 #EXTINF:- 1 tvg-name="Indonesiana tv" tvg-logo="https://i.imgur.com/e7ZVFQL.jpeg" tvg-id="TV One.id" group-title="Indonesia",Indonesiana TV
@@ -54,8 +52,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #EXTINF:- 1 tvg-name="MNCTV (RCTI+)" tvg-logo="https://i.imgur.com/CuEkKIL.jpeg" tvg-id="Mnctv.id" group-title="Indonesia", MNCTV (RCTI+)
 $EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
-#https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
+https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 
 #EXTINF:-1 tvg-name="GTV (RCTI+)" tvg-logo="https://i.imgur.com/V6CUNdE.jpeg" tvg-id="Gtv.id" group-title="Indonesia",GTV (RCTI+)
 #EXTVLCOPT:http-user-agent=android-R+
