@@ -49,11 +49,6 @@ http://iptv.kilas7.com/live/kaukia/asdfrewq/7.m3u8
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
-#EXTINF:- 1 tvg-name="MNCTV (RCTI+)" tvg-logo="https://i.imgur.com/CuEkKIL.jpeg" tvg-id="Mnctv.id" group-title="Indonesia", MNCTV (RCTI+)
-$EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
-
 #EXTINF:-1 tvg-name="GTV (RCTI+)" tvg-logo="https://i.imgur.com/V6CUNdE.jpeg" tvg-id="Gtv.id" group-title="Indonesia",GTV (RCTI+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -134,15 +129,7 @@ https://ayo.maling.pl/Vision/index.mpd?id=4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
-#https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
-
-#EXTINF:-1 tvg-name="Sindonews" tvg-logo="https://i.imgur.com/UPapG4S.jpeg" tvg-id="sindonews.id" group-title="Indonesia",SindoNews (VISION+)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvku.family/Vis1/index.drm?id=5
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://tvku.family/Vis1/index.mpd?id=5
+https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 
 __________________________________________TransVision_________________________________________
 
