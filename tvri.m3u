@@ -5,11 +5,6 @@
 #EXTVLCOPT:http-referrer=https://www.cnbcindonesia.com/
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="CNN Indonesia" tvg-logo="https://i.imgur.com/HjSuW1B.jpeg" tvg-id="CNNIndonesia.id" group-title="Indonesia",CNN Indonesia
-EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.cncindonesia.com/
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-name=" CNN Indonesia (1)" tvg-logo="https://i.imgur.com/HjSuW1B.jpeg" group-title="Indonesia",CNN Indonesia (1)
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
@@ -50,8 +45,6 @@ https://tvstreamcast.com/indonesiana.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://streamo.web.id/api/1/post/license/iptvsys/1
 http://iptv.kilas7.com/live/kaukia/asdfrewq/7.m3u8
 
-__________________________________________RCTI+_________________________________________
-
 #EXTINF:-1 tvg-name="RCTI (RCTI+)" tvg-logo="https://i.imgur.com/mRGl1yP.jpeg" tvg-id="Rcti.id" group-title="Indonesia",RCTI (RCTI+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -75,15 +68,6 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #https://inews-cutv.rctiplus.id/inews-sdi.m3u8
-
-__________________________________________VISION+_________________________________________
-
-#EXTINF:-1 tvg-name="ANTV (VISION+)" tvg-logo="https://i.imgur.com/mmgqQhz.jpeg" tvg-id="ANTV.id" group-title="Indonesia",ANTV (VISION+)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://fta1-cdn-flr.visionplus.id/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
 #EXTINF:-1 tvg-name="RCTI (VISION+) 1" tvg-logo="https://i.imgur.com/YIeqwco.jpeg" tvg-id="RCTI.id" group-title="Indonesia", RCTI (VISION+) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3791,30 +3775,10 @@ http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179175
 
 __________________________________________AVC Men's Volleyball Cup_________________________________________
 
-(Template)
-
-#EXTINF:-1 tvg-name="Volleyball" tvg-logo="" tvg-id="itzreisa.id" group-title="Volleyball", AVC Men's Volleyball Cup 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช&#3656;น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-(Play)
-
 #EXTINF:-1 tvg-name="Volleyball" tvg-logo="https://i.imgur.com/XBTp4uX.jpeg" tvg-id="itzreisa.id" group-title="Volleyball", AVC Men's Volleyball Cup (Moji Digital 1)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179175
 
-#EXTINF:-1 tvg-name="Volleyball" tvg-logo="https://i.imgur.com/XBTp4uX.jpeg" tvg-id="itzreisa.id" group-title="Volleyball", AVC Men's Volleyball Cup (Moji Digital 2)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C85t_z0_MBwZtd69IGhbSfdg/ts
-##http://202.169.224.202:8800/udp/239.9.1.32:1234
-##http://103.46.10.145:9981/stream/channelid/1687232794?ticket=263AE984B301239602755A78F23AB29A0E3F41BE&profile=pass
-##http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
-
-#EXTINF:-1 tvg-name="Volleyball" tvg-logo="https://i.imgur.com/XBTp4uX.jpeg" tvg-id="itzreisa.id" group-title="Volleyball", AVC Men's Volleyball Cup (Moji Digital 3)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://opplextv.cyou:8080/nasir6160/nasir/350997
 
 
 
