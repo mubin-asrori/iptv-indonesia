@@ -1,8 +1,4 @@
-#EXTM3U billed-msg="Welcome To Itz Play (Selamat Menikmati) Facebook : Itz Reisa ID. Instagram : Itz Reisa ID."
-
-///////////////////////////////////// Indonesia //////////////////////////////////////////////////
-
-#EXTINF:-1 group-logo="https://i.imgur.com/R2SHo5Q.png" group-title="Indonesia"
+#EXTM3U
 
 #EXTINF:-1 tvg-name="CNBC Indonesia" tvg-logo="https://i.imgur.com/2ozDdpl.jpeg" tvg-id="CNBCIndonesia.id" group-title="Indonesia",CNBC Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
@@ -17,11 +13,6 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-name=" CNN Indonesia (1)" tvg-logo="https://i.imgur.com/HjSuW1B.jpeg" group-title="Indonesia",CNN Indonesia (1)
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
-
-#EXTINF:- 1tvg-name="Trans TV" tvg-logo="https://i.imgur.com/LDNOuJc.jpeg" tvg-id="Trans TV.id" group-title="Indonesia", Trans TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://20.detik.com/
-https:/rtmp://f13h.mine.nu/sat/tv731/video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:- 1 tvg-name="Trans 7" tvg-logo="https://i.imgur.com/FYzmEPL.jpeg" tvg-id="Trans 7.id" group-title="Indonesia", Trans 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
