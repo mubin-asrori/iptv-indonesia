@@ -124,222 +124,9 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/in
 https://ayo.maling.pl/Vision/index.mpd?id=4
 #https://d84q7nw4qf3j3.cloudfront.net/out/v1/cd26ccf057804cd78c89474a9302031c/index.mpd
 
-#EXTINF:-1 tvg-name="iNews (VISION+) 1" tvg-logo="https://i.imgur.com/G5vVGhx.jpeg" tvg-id="iNews.id" group-title="Indonesia", iNews (VISION+) 
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
-https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
-
-__________________________________________TransVision_________________________________________
-
 #EXTINF:-1 tvg-name="MDTV " tvg-logo="https://i.imgur.com/OKnzQcD.jpeg" tvg-id="MDTV Nasional.id" group-title="Indonesia",MDTV (TransVision)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://202.150.161.212:5000/live/channel31/playlist.m3u8
-
-#EXTINF:-1 tvg-name="CNBC Indonesia" tvg-logo="https://i.imgur.com/9MiE5QV.jpeg" tvg-id="CNBCIndonesia.id" group-title="Indonesia",CNBC Indonesia (TransVision)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://cubmu.adptv.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c68565fa79ce01665868040a343f/manifest.mpd
-
-#EXTINF:-1 tvg-name="CNN Indonesia" tvg-logo="https://i.imgur.com/EIMC36m.jpeg" tvg-id="CNNIndonesia.id" group-title="Indonesia",CNN Indonesia (TransVision)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://cubmu.adptv.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685651d7bcc01651f0e4ce10098/manifest.mpd
-
-#EXTINF:- 1tvg-name="Trans TV" tvg-logo="https://i.imgur.com/SMW9L34.jpeg" tvg-id="Trans TV.id" group-title="Indonesia", Trans TV (TransVision)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://cubmu.adptv.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
-
-#EXTINF:- 1 tvg-name="Trans 7" tvg-logo="https://i.imgur.com/fPSdXat.jpeg" tvg-id="Trans 7.id" group-title="Indonesia", Trans 7 (TransVision)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://cubmu.adptv.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
-
-#EXTINF:-1 tvg-name="BeritaSatu" tvg-logo="https://i.imgur.com/sTpHg2X.jpeg" tvg-id="BeritaSatu.id" group-title="Indonesia",BeritaSatu (TransVision)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://cubmu.adptv.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6859645ee4801965cd06bed442f/manifest.mpd
-
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://i.imgur.com/FeyVo2D.jpeg" tvg-id="BTV Nasional.id" group-title="Indonesia", BTV  (TransVision)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://cubmu.adptv.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c80f0d63bfc/manifest.mpd
-
-#EXTINF:-1 tvg-name="MetroTV" tvg-logo="https://i.imgur.com/9mUqoPH.jpeg" tvg-id="MetroTv.id" group-title="Indonesia", MetroTV (TransVision)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://cubmu.adptv.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e548c62390/manifest.mpd
-
-#EXTINF:-1 tvg-name="Moji " tvg-logo="https://i.imgur.com/f8m10M1.jpeg" tvg-id="Moji Nasional.id" group-title="Indonesia",Moji  (TransVision)
-
-#EXTINF:- 1 tvg-name="Indosiar " tvg-logo="https://i.imgur.com/KQHH40R.jpeg" tvg-id="Indosiar Nasional.id" group-title="Indonesia", Indosiar (TransVision)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://cubmu.adptv.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
-
-#EXTINF:-1 tvg-name="Kompas TV " tvg-logo="https://i.imgur.com/l4ZsnBp.jpeg" tvg-id="Kompas TV Nasional.id" group-title="Indonesia", Kompas TV (TransVision)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROPOP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://cubmu.adptv.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce2a0d83c16/manifest.mpd
-
-#EXTINF:-1 tvg-name="RTV " tvg-logo="https://i.imgur.com/94tU4xb.jpeg" tvg-id="RTV Nasional.id" group-title="Indonesia", RTV (TransVision) 
-KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://cubmu.adptv.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce4a1343c17/manifest.mpd
-
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-logo="https://i.imgur.com/6MNo1gz.jpeg" tvg-id="TVRI Nasional.id" group-title="Indonesia", TVRI Nasional (TransVision)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://cubmu.adptv.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68570f25e2e01716841059b3e25/manifest.mpd
-
-#EXTINF:- 1 tvg-name="TVRI Sport" tvg-logo="https://i.imgur.com/QMDLXBK.jpeg" tvg-id="TVRI Sport.id"  group-title="Indonesia",TVRI Sport (TransVision)
-
-#EXTINF:- 1 tvg-name="TVRI World" tvg-logo="https://i.imgur.com/mP6V7Sf.jpeg" tvg-id="TVRI World.id" group-title="Indonesia", TVRI World (TransVision)
-
-#EXTINF:- 1 tvg-name="Nusantara TV" tvg-logo="https://i.imgur.com/1mUyCK9.jpeg" tvg-id="Nusantara TV.id" group-title="Indonesia", Nusantara TV (TransVision)
-
-#EXTINF:- 1 tvg-name="TVOne" tvg-logo="https://i.imgur.com/Oh0T76C.jpeg" tvg-id="TV One.id" group-title="Indonesia",TvOne (TransVision)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://cubmu.adptv.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/108/2c9f9082998232e0019b35e58e2f5b62/manifest.mpd
-
-#EXTINF:-1 tvg-name="Garuda TV " tvg-logo="https://i.imgur.com/551sa9e.jpeg" tvg-id="Garuda TV Nasional.id" group-title="Indonesia",Garuda TV (TransVision)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://cubmu.adptv.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6859645ee4801965cf102264bf3/manifest.mpd
-
-#EXTINF:-1 tvg-name="SCTV " tvg-logo="https://i.imgur.com/OV8Uoxa.jpeg" tvg-id="SCTV Nasional.id" group-title="Indonesia",SCTV (TransVision) 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://cubmu.adptv.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd
--
-#EXTINF:-1 tvg-name="Sin Po tv " tvg-logo="https://i.imgur.com/w9I0Etr.jpeg" tvg-id=" Sin Po tv.id" group-title="Indonesia",Sin Po TV (TransVision) 
-l
-#EXTINF:-1 tvg-name="VTV " tvg-logo="https://i.imgur.com/1F0683P.jpeg" tvg-id="VTV.id" group-title="Indonesia",VTV (TransVision)
-
-#EXTINF:-1 tvg-name="Mentari TV" tvg-logo="https://i.imgur.com/V2gS21w.jpeg" tvg-id="mentari tv.id" group-title="Indonesia", Mentari TV (TransVision) 
-
-#EXTINF:- 1 tvg-name="Magna Channel" tvg-logo="https://i.imgur.com/veNM09a.jpeg" tvg-id="TV One.id" group-title="Indonesia",Magna Channel (TransVision)
-
-#EXTINF:- 1 tvg-name="IDX Channel" tvg-logo="https://i.imgur.com/uwrlE8z.jpeg" tvg-id="TV One.id" group-title="Indonesia",IDX Channel (TransVision)
-
-#EXTINF:- 1 tvg-name="BN Channel" tvg-logo="https://i.imgur.com/FnXmPCM.jpeg" tvg-id="TV One.id" group-title="Indonesia",BN Channel (TransVision)
-
-#EXTINF:- 1 tvg-name="Indonesiana tv" tvg-logo="https://i.imgur.com/e7ZVFQL.jpeg" tvg-id="TV One.id" group-title="Indonesia",Indonesiana TV (TransVision)
-
-#EXTINF:-1 tvg-name="ANTV" tvg-logo="https://i.imgur.com/4qyrsun.jpeg" tvg-id=" antv.id" group-title="Indonesia",ANTV (TransVision)
-
-#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://i.imgur.com/cHaPCSn.jpeg" tvg-id="Rcti.id" group-title="Indonesia",RCTI (TransVision)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://cubmu.adptv.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd
-
-#EXTINF:- 1 tvg-name="MNCTV" tvg-logo="https://i.imgur.com/haLkYWc.jpeg" tvg-id="Mnctv.id" group-title="Indonesia", MNCTV (TransVision)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://cubmu.adptv.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd
-
-#EXTINF:-1 tvg-name="GTV" tvg-logo="https://i.imgur.com/jcfZpJZ.jpeg" tvg-id="Gtv.id" group-title="Indonesia",GTV (TransVision)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://cubmu.adptv.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.mpd
-
-#EXTINF:-1 tvg-name="iNews" tvg-logo="https://i.imgur.com/yS8WNhH.jpeg" tvg-id="iNews.id" group-title="Indonesia",iNews (TransVision)
-#
-
-__________________________________________Max Stream TV_____________________________________
-
-#EXTINF:-1 tvg-name="Sindonews" tvg-logo="https://i.imgur.com/1cZavFg.jpeg" tvg-id="sindonews.id" group-title="Indonesia",SindoNews (Max Stream TV)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
-
-#EXTINF:- 1 tvg-name="Indosiar " tvg-logo="https://i.imgur.com/a0gWwzs.jpeg" tvg-id="Indosiar Nasional.id" group-title="Indonesia", Indosiar (Max Stream TV)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
-
-#EXTINF:- 1 tvg-name="TVOne" tvg-logo="https://i.imgur.com/iYJzpBP.jpeg" tvg-id="TV One.id" group-title="Indonesia",TvOne (Max Stream TV)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
-
-#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://i.imgur.com/cBTRIib.jpeg" tvg-id="RCTI.id" group-title="Indonesia", RCTI (Max Stream TV)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://indihuy.streamized.net/atm/DASH/rcti/manifest.mpd
-
-#EXTINF:-1 tvg-name="iNews" tvg-logo="https://i.imgur.com/FfUmj2W.jpeg" tvg-id="iNews.id" group-title="Indonesia",iNews (Max Stream TV)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
-
-#EXTINF:- 1 tvg-name="Nusantara TV" tvg-logo="https://i.imgur.com/af0M5TG.jpeg" tvg-id="Nusantara TV.id" group-title="Indonesia", Nusantara TV (Max Stream TV)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://cdn10jtedge.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
-
-__________________________________________Vidio________________________________________________
-
-#EXTINF:-1 tvg-name="Mentari TV (Vidio)" tvg-logo="https://i.imgur.com/hqGEKpD.jpeg" tvg-id="mentari tv.id" group-title="Indonesia", Mentari TV (Vidio)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/8237.drm
-https://aspaltvpasti.top/11111/8237.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VyquD34.jpeg" group-title="Indonesia", Indosiar (Vidio)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
@@ -353,43 +140,11 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HLI0Kah.jpeg" group-title="Indonesia",RCTI (Vidio)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=665&type=drm
-https://ratuvidio.adptv.workers.dev/index.mpd?id=665&type=dash
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GKV3f0x.jpeg" group-title="Indonesia",MNCTV (Vidio)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=870&type=drm
-https://ratuvidio.adptv.workers.dev/index.mpd?id=870&type=dash
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e2tAscQ.jpeg" group-title="Indonesia",GTV (Vidio)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=778&type=drm
-https://ratuvidio.adptv.workers.dev/index.mpd?id=778&type=dash
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xmbj3Eg.jpeg" group-title="Indonesia",Metro TV (Vidio)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=777&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=777&type=dash
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JD1DB7c.jpeg" group-title="Indonesia",iNews (Vidio)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=5409&type=drm
-https://ratuvidio.adptv.workers.dev/index.mpd?id=5409&type=dash
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a0VCnfW.jpeg" group-title="Indonesia",TvOne (Vidio)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
@@ -428,9 +183,6 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=874&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=1561&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=1561&type=dash
 
-/////////////////////////////////////////// beIN Sports //////////////////////////////////////////////////
-
-#EXTINF:-1 group-logo="https://i.imgur.com/BZs06V0.png" group-title="beIN Sports"
 
 #EXTINF:-1 tvg-name="beIN Sport ID" tvg-logo="https://i.imgur.com/nJc9JSR.jpeg" tvg-id="Bein Sport.id" group-title="beIN Sports",beIN Sports Indonesia 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -440,82 +192,13 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=1561&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-#EXTINF:-1 tvg-name="beIN Sport ID" tvg-logo="https://i.imgur.com/oSuuPli.jpeg" tvg-id="Bein Sport.id" group-title="beIN Sports",beIN Sports Indonesia 2
-KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
-
-#EXTINF:-1 tvg-name="beIN Sport ID" tvg-logo="https://i.imgur.com/Uv4eQTW.jpeg" tvg-id="Bein Sport.id" group-title="beIN Sports",beIN Sports Indonesia 3
-KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
-
-#EXTINF:-1 tvg-name="beIN Sport ID" tvg-logo="https://i.imgur.com/EnM9LDO.jpeg" group-title="beIN Sports",beIN Sports Indonesia 4
+#EXTINF:-1 tvg-name="beIN Sport ID" tvg-logo="https://i.imgur.com/EnM9LDO.jpeg" group-title="beIN Sports",beIN Sports Indonesia 2
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tMwst4O.jpeg" group-title="beIN Sports",beIN Sports Indonesia 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tMwst4O.jpeg" group-title="beIN Sports",beIN Sports Indonesia 3
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
-
-#EXTINF:-1 tvg-name="beIN Sport AU" tvg-logo="https://i.imgur.com/iVjsJzk.jpeg" tvg-id="Bein Sport.au" group-title="beIN Sports",beIN Sports Australia 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
-
-#EXTINF:-1 tvg-name="beIN Sport AU" tvg-logo="https://i.imgur.com/IdWf8Jj.jpeg" tvg-id="Bein Sport.au" group-title="beIN Sports",beIN Sports Australia 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
-https://www.livesoccertv.com/id/channels/bein-sports-3-australia/
-#EXTINF:-1 tvg-name="beIN Sport AU" tvg-logo="https://i.imgur.com/oAIYqMe.jpeg" tvg-id="Bein Sport.au" group-title="beIN Sports",beIN Sports Australia 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 tvg-name="beIN Sport TR" tvg-logo="https://i.imgur.com/4gO9A9b.jpeg" tvg-id="Bein Sport.tr" group-title="beIN Sports",beIN Sports Türkiye 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd.is
-#https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sbeinsports-1/playlist.m3u8
-http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/141361
-
-#EXTINF:-1 tvg-name="beIN Sport TR" tvg-logo="https://i.imgur.com/4872Cnh.jpeg" tvg-id="Bein Sport.tr" group-title="beIN Sports",beIN Sports Türkiye 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd.is
-#https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sbeinsports-2/playlist.m3u8
-http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/141363
-
-#EXTINF:-1 tvg-name="beIN Sport TR" tvg-logo="https://i.imgur.com/O9p20iB.jpeg" tvg-id="Bein Sport.tr" group-title="beIN Sports",beIN Sports Türkiye 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd.is
-#https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sbeinsports-3/playlist.m3u8
-http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/141365
-
-#EXTINF:-1 tvg-name="Bein Sport TR" tvg-logo="https://i.imgur.com/uICq5CP.jpeg" tvg-id="Bein Sport.tr" group-title="beIN Sports",beIN Sports Türkiye 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd.is
-#https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sbeinsports-4/playlist.m3u8
-http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/141367
-
-#EXTINF:-1 tvg-name="beIN Sport TR" tvg-logo="https://i.imgur.com/i5tPQEm.jpeg" tvg-id="Bein Sport.tr" group-title="beIN Sports",beIN Sports Türkiye 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd.is
-#https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sbeinsports-5/playlist.m3u8
-http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/141368
 
 #EXTINF:-1 tvg-name="beIN Sport US" tvg-logo="https://i.imgur.com/4GceL51.jpeg" tvg-id="Bein Sport.us" group-title="beIN Sports",beIN Sports USA 
 http://23.237.104.106:8080/USA_BEIN/index.m3u8
