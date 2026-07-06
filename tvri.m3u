@@ -212,21 +212,6 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="beIN Sport AR" tvg-logo="https://i.imgur.com/JXfLTDC.jpeg" tvg-id="Bein Sport.ar" group-title="beIN Sports",beIN Sports Arabian 1
 http://185.160.192.64:80/mangin15/85784/13682
 
-#EXTINF:-1 tvg-name="beIN Sport AR" tvg-logo="https://i.imgur.com/2lY6dfj.jpeg" tvg-id="Bein Sport.ar" group-title="beIN Sports",beIN Sports Arabian 2
-http://185.160.192.64:80/mangin15/85784/13680
-
-#EXTINF:-1 tvg-name="beIN Sport AR" tvg-logo="https://i.imgur.com/uAkQ8jS.jpeg" tvg-id="Bein Sport.ar" group-title="beIN Sports",beIN Sports Arabian 3
-http://185.160.192.64:80/mangin15/85784/13678
-
-#EXTINF:-1 tvg-name="beIN Sport AR" tvg-logo="https://i.imgur.com/ZzMYcK0.jpeg" tvg-id="Bein Sport.ar" group-title="beIN Sports",beIN Sports Arabian 4
-http://185.160.192.64:80/mangin15/85784/13676
-
-#EXTINF:-1 tvg-name="beIN Sport AR" tvg-logo="https://i.imgur.com/LXyzvv5.jpeg" tvg-id="Bein Sport.ar" group-title="beIN Sports",beIN Sports Arabian 5
-http://185.160.192.64:80/mangin15/85784/13674
-
-#EXTINF:-1 tvg-name="beIN Sport AR" tvg-logo="https://i.imgur.com/kIQKIIL.jpeg" tvg-id="Bein Sport.ar" group-title="beIN Sports",beIN Sports Arabian 6
-http://185.160.192.64:80/mangin15/85784/13672
-
 #EXTINF:-1 tvg-name="beIN Sport AR" tvg-logo="https://i.imgur.com/uLjRsz2.jpeg" tvg-id="Bein Sport.ar" group-title="beIN Sports",beIN Sports Arabian 7
 http://185.160.192.64:80/mangin15/85784/13576
 
@@ -235,76 +220,6 @@ http://185.160.192.64:80/mangin15/85784/13688
 
 #EXTINF:-1 tvg-name="beIN Sport AR" tvg-logo="https://i.imgur.com/FslK1uD.jpeg" tvg-id="Bein Sport.ar" group-title="beIN Sports",beIN Sports Arabian 9
 http://185.160.192.64:80/mangin15/85784/13686
-
-#EXTINF:-1 tvg-name="beIN Sport CA" tvg-logo="https://i.imgur.com/JbxZwFY.jpeg" tvg-id="Bein Sport.ca" group-title="beIN Sports",beIN Sports Canada
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#http://fastream.xyz:8080/977605802tv/2k0mdjk34/33360
-http://opplextv.cyou:8080/nasir6160/nasir/348998
-
-#EXTINF:-1 tvg-name="beIN Sport" tvg-logo="https://i.imgur.com/yoPLEwt.jpeg" tvg-id="Bein Sport.es" group-title="beIN Sports",beIN Sports en Español
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://opplextv.cyou:8080/nasir6160/nasir/381359
-
-#EXTINF:-1 tvg-name="beIN Sport QA" tvg-logo="https://i.imgur.com/D2ZhYaL.jpeg" tvg-id="Bein Sport.ar" group-title="beIN Sports",beIN Sports Qatar 1
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://opplextv.cyou:8080/nasir6160/nasir/353014
-
-#EXTINF:-1 tvg-name="beIN Sport QA" tvg-logo="https://i.imgur.com/MNFx6a3.jpeg" tvg-id="Bein Sport.ar" group-title="beIN Sports",beIN Sports Qatar 2
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://opplextv.cyou:8080/nasir6160/nasir/353015
-
-#EXTINF:-1 tvg-name="beIN Sport QA" tvg-logo="https://i.imgur.com/YxGmshZ.jpeg" tvg-id="Bein Sport.ar" group-title="beIN Sports",beIN Sports Qatar 3
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://opplextv.cyou:8080/nasir6160/nasir/353016
-
-#EXTINF:-1 tvg-name="beIN Sport QA" tvg-logo="https://i.imgur.com/9EzgStG.jpeg" tvg-id="Bein Sport.ar" group-title="beIN Sports",beIN Sports Qatar 4
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://opplextv.cyou:8080/nasir6160/nasir/353017
-
-#EXTINF:-1 tvg-name="beIN Sport QA" tvg-logo="https://i.imgur.com/UPZenH8.jpeg" tvg-id="Bein Sport.ar" group-title="beIN Sports",beIN Sports Qatar 5
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://opplextv.cyou:8080/nasir6160/nasir/353018
-
-#EXTINF:-1 tvg-name="beIN Sport QA" tvg-logo="https://i.imgur.com/fpqo70K.jpeg" tvg-id="Bein Sport.ar" group-title="beIN Sports",beIN Sports Qatar 6
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://opplextv.cyou:8080/nasir6160/nasir/353019
-
-#EXTINF:-1 tvg-name="beIN Sport QA" tvg-logo="https://i.imgur.com/Sr1rAy5.jpeg" tvg-id="Bein Sport.ar" group-title="beIN Sports",beIN Sports Qatar 7
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://opplextv.cyou:8080/nasir6160/nasir/353020
-
-#EXTINF:-1 tvg-name="beIN Sport TH" tvg-logo="https://i.imgur.com/0vTnm9V.jpeg" tvg-id="Bein Sport.th" group-title="beIN Sports",beIN Sports Thailand 1 (True Visions)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช&#3656;น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://love.9xrie8ecms.workers.dev/vx-origin/epl-bein1_720/chunks.m3u8
-
-#EXTINF:-1 tvg-name="beIN Sport TH" tvg-logo="https://i.imgur.com/XsYa6yG.jpeg" tvg-id="Bein Sport.th" group-title="beIN Sports",beIN Sports Thailand 2 (True Visions)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช&#3656;น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://love.9xrie8ecms.workers.dev/vx-origin/epl-bein2_720/chunks.m3u8
-https://www.livedoomovies.com:4431/02_epl2_720p/playlist.m3u8?_t=1773179685053
-
-#EXTINF:-1 tvg-name="beIN Sport TH" tvg-logo="https://i.imgur.com/53PVc9M.jpeg" tvg-id="Bein Sport.th" group-title="beIN Sports",beIN Sports Thailand 3 (True Visions)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช&#3656;น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://love.9xrie8ecms.workers.dev/vx-origin/epl-bein3_720/chunks.m3u8
-
-#EXTINF:-1 tvg-name="beIN Sport fr" tvg-logo="https://i.imgur.com/0vTnm9V.jpeg" tvg-id="Bein Sport.th" group-title="beIN Sports",beIN Sports France 1
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2499/index.m3u8
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2499/index.m3u8
-
-#EXTINF:-1 tvg-name="beIN Sport fr" tvg-logo="https://i.imgur.com/XsYa6yG.jpeg" tvg-id="Bein Sport.th" group-title="beIN Sports",beIN Sports France 2
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2500/index.m3u8
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2500/index.m3u8
-
-/////////////////////////////////////////// VISION+ Sports //////////////////////////////////////////////////
-
-#EXTINF:-1 group-logo="https://i.imgur.com/ujZ1dWI.png" group-title="VISION+ Sports "
 
 #EXTINF:-1 tvg-name="Soccer Channel" tvg-logo="https://i.imgur.com/OOfBzLz.jpeg" tvg-id="Soccer Channel.id" group-title="VISION+ Sports ", Soccer Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
@@ -315,30 +230,12 @@ http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2500/index.m3u8
 ###KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=115
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
-#EXTINF:-1 tvg-name="Sportstars" tvg-logo="https://i.imgur.com/VHE8IER.jpeg" tvg-id="Sportstars.id" group-title="VISION+ Sports ", Sportstars 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
-#https://wahyu1ptv.pages.dev/SportStars1-HD.m3u8
-
 #EXTINF:-1 tvg-name="Sportstars 2" tvg-logo="https://i.imgur.com/nfEsclb.jpeg" tvg-id="Sportstars.id" group-title="VISION+ Sports ", Sportstars 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-
-#EXTINF:-1 tvg-name="Sportstars 3" tvg-logo="https://i.imgur.com/Utjq6r8.jpeg" tvg-id="Sportstars.id" group-title="VISION+ Sports ", Sportstars 3
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=9999&type=fitnah
-##KODIPROP:inputstream.adaptive.license_key=https://visplus.caranytv.workers.dev/drm?id=114&type=drm
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 #EXTINF:-1 tvg-name="Sportstars 4" tvg-logo="https://i.imgur.com/xTpJ7vE.jpeg" tvg-id="Sportstars.id" group-title="VISION+ Sports ", Sportstars 4
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -373,22 +270,6 @@ https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-#EXTINF:-1 tvg-name="Bein Sport ID 2" tvg-logo="https://i.imgur.com/oSuuPli.jpeg" tvg-id="Bein Sport.id" group-title="VISION+ Sports ",Bein Sport ID 2
-KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
-
-#EXTINF:-1 tvg-name="Bein Sport ID 3" tvg-logo="https://i.imgur.com/Uv4eQTW.jpeg" tvg-id="Bein Sport.id" group-title="VISION+ Sports ",Bein Sport ID 3
-KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
-
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
@@ -400,19 +281,6 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/ind
 #KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IsYUnnT.jpeg" group-title="VISION+ Sports ",beIN Sports ID 5
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
-
-#EXTINF:-1 tvg-name="Fight Sports" tvg-logo="https://i.imgur.com/JhgokDv.jpeg" tvg-id="SPOTV.id" group-title="VISION+ Sports ", Fight Sports 
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa00f320f06247dcaf8e3cea1fb07f44:6169dd042bb5e59d709272b614011bbb
-https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
-
-/////////////////////////////////////////// TV Lokal Indonesia //////////////////////////////////////////////////
-
-#EXTINF:-1 group-logo="https://i.imgur.com/txX7aj0.png" group-title="TV Lokal Indonesia"
-
-#EXTINF:-1 tvg-name="Riau TV" tvg-logo="https://i.imgur.com/NzIN9vd.jpeg" tvg-id="Banjar TV.id" group-title="TV Lokal Indonesia",Riau TV
-http://122.248.43.242:1935/RIAUTV/_definst_/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Banjar TV" tvg-logo="https://i.imgur.com/X0J8sGX.jpeg" tvg-id="Banjar TV.id" group-title="TV Lokal Indonesia",Banjar TV
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -439,346 +307,10 @@ https://cianjur.staratv.id/hls/0/stream.m3u8
 #EXTINF:-1 tvg-name="Stara TV" tvg-logo="https://i.imgur.com/q7zSomX.jpeg" tvg-id="Tabalong TV.id" group-title="TV Lokal Indonesia",Stara TV Malang
 https://malang.staratv.id/hls/0/stream.m3u8
 
-#EXTINF:-1 tvg-name="Bungo TV" tvg-logo="https://i.imgur.com/7XbQHZ0.jpeg" tvg-id="Tabalong TV.id" group-title="TV Lokal Indonesia",Bungo TV
-KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
-
 #EXTINF:-1 tvg-name="TATV" tvg-logo="https://i.imgur.com/sgLkRTk.jpeg" tvg-id="TATV.id" group-title="TV Lokal Indonesia",TATV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-name="MBG TV" tvg-logo="https://i.imgur.com/Fjo1jD0.jpeg" tvg-id="TATV.id" group-title="TV Lokal Indonesia",Jupnas Gizi (MBG TV)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8
-
-////////////////////////////////// (Kadang Mati) TV Digital Sports //////////////////////////////////////////////////
-
-#EXTINF:-1 group-logo="https://i.imgur.com/JgLvd6W.png" group-title=" (Kadang Mati) TV Digital Sports"
-
-#EXTINF:-1 tvg-name="ANTV Digital (server 1)" tvg-logo="https://i.imgur.com/4qyrsun.jpeg" tvg-id=" Digital.id" group-title=" (Kadang Mati) TV Digital Sports",ANTV Digital (server 1)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=antv
-https://wahyu1ptv.pages.dev/AnTV-HD.m3u8|User-Agent=Player (Linux; Android 12)
-
-#EXTINF:-1 tvg-name="ANTV Digital (server 2)" tvg-logo="https://i.imgur.com/4qyrsun.jpeg" tvg-id=" Digital.id" group-title=" (Kadang Mati) TV Digital Sports",ANTV Digital (server 2)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#http://aflaxtv.xyz:8080/F36591/3f1a2b5c/165072
-http://iptv.kilas7.com:80/live/kaukia/asdfrewq/7.m3u8
-
-#EXTINF:-1 tvg-name="ANTV Digital (server 3)" tvg-logo="https://i.imgur.com/4qyrsun.jpeg" tvg-id=" Digital.id" group-title=" (Kadang Mati) TV Digital Sports",ANTV Digital (server 3)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://streamo.web.id/api/1/post/license/iptvsys/1
-http://iptv.kilas7.com/live/kaukia/asdfrewq/7.m3u8
-#http://opplextv.cyou:8080/nasir6160/nasir/350892
-
-#EXTINF:-1 tvg-name="ANTV Digital (server 4)" tvg-logo="https://i.imgur.com/4qyrsun.jpeg" tvg-id=" Digital.id" group-title=" (Kadang Mati) TV Digital Sports",ANTV Digital (server 4)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://baka.semar.my.id:8000/play/a05h/index.m3u8
-
-#EXTINF:-1 tvg-name="Indosiar Digital (server 1)" tvg-logo="https://i.imgur.com/4KiVDER.jpeg" tvg-id=" Digital.id" group-title=" (Kadang Mati) TV Digital Sports", Indosiar Digital (server 1)
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-##EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-##KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
-http://baka.semar.my.id:8000/play/a05c/index.m3u8
-http://202.169.224.202:8800/udp/239.9.1.25:1234
-#https://raw.githubusercontent.com/quuen2024/EmyLie/refs/heads/queen/indo.m3u8
-
-#EXTINF:-1 tvg-name="Indosiar Digital (Server 2)" tvg-logo="https://i.imgur.com/4KiVDER.jpeg" tvg-id=" Digital.id" group-title=" (Kadang Mati) TV Digital Sports", Indosiar Digital (server 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505849.ts
-
-#EXTINF:-1 tvg-name="Indosiar Digital (Server 3)" tvg-logo="https://i.imgur.com/4KiVDER.jpeg" tvg-id=" Digital.id" group-title=" (Kadang Mati) TV Digital Sports", Indosiar Digital (server 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
-https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C8-1Z2Rp7JvQhncgXXsV4UVM/ts
-
-#EXTINF:-1 tvg-name="Indosiar Digital (Server 4)" tvg-logo="https://i.imgur.com/4KiVDER.jpeg" tvg-id=" Digital.id" group-title=" (Kadang Mati) TV Digital Sports", Indosiar Digital (server 4)
-KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-#KODIPROP:inputstream=ffmpegdirect
-#KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
-#KODIPROP:network-caching=2000
-http://103.148.44.38:8000/play/a05c/index.m3u8
-
-#EXTINF:-1 tvg-name="Indosiar Digital (Server 5)" tvg-logo="https://i.imgur.com/4KiVDER.jpeg" tvg-id=" Digital.id" group-title=" (Kadang Mati) TV Digital Sports", Indosiar Digital (server 5)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://opplextv.cyou:8080/nasir6160/nasir/350972
-
-#EXTINF:-1 tvg-name="Indosiar Digital (Server 6)" tvg-logo="https://i.imgur.com/4KiVDER.jpeg" tvg-id=" Digital.id" group-title=" (Kadang Mati) TV Digital Sports", Indosiar Digital (server 6)
-#http://103.172.71.153:9981/stream/channelid/1185426831?profile=pass
-https://s.id/Shareext_liga1_m3u8
-#http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/162138
-#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/indosiar.m3u8
-
-#EXTINF:-1 tvg-name="Indosiar Digital (Server 7)" tvg-logo="https://i.imgur.com/4KiVDER.jpeg" tvg-id=" Digital.id" group-title=" (Kadang Mati) TV Digital Sports", Indosiar Digital (server 7)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://bintangstreaming.my.id/connect/index.m3u8?channel=live4&type=m3u8
-
-#EXTINF:-1 tvg-name="MNCTV Digital (server 1)" tvg-logo="https://i.imgur.com/bzNunmj.jpeg" tvg-id=" Digital.id" group-title=" (Kadang Mati) TV Digital Sports",MNCTV Digital (server 1)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165910.ts
-
-#EXTINF:-1 tvg-name="MNCTV Digital (server 2)" tvg-logo="https://i.imgur.com/bzNunmj.jpeg" tvg-id=" Digital.id" group-title=" (Kadang Mati) TV Digital Sports",MNCTV Digital (server 2)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505855.ts
-
-#EXTINF:-1 tvg-name="MNCTV Digital (server 3)" tvg-logo="https://i.imgur.com/bzNunmj.jpeg" tvg-id=" Digital.id" group-title=" (Kadang Mati) TV Digital Sports",MNCTV Digital (server 3)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#http://aflaxtv.xyz:8080/F36591/3f1a2b5c/165054
-https://tv.ngebutz.my.id/live/2359819BA55280038B6D0B1419EAFD37/7.ts
-
-#EXTINF:-1 tvg-name="MNCTV Digital (server 4)" tvg-logo="https://i.imgur.com/bzNunmj.jpeg" tvg-id=" Digital.id" group-title=" (Kadang Mati) TV Digital Sports",MNCTV Digital (server 4)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://103.172.71.153:9981/stream/channelid/1781718036?profile=pass
-
-#EXTINF:-1 tvg-name="MNCTV Digital (server 5)" tvg-logo="https://i.imgur.com/bzNunmj.jpeg" tvg-id=" Digital.id" group-title=" (Kadang Mati) TV Digital Sports",MNCTV Digital (server 5)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://opplextv.cyou:8080/nasir6160/nasir/350996
-
-#EXTINF:-1 tvg-name="RCTI Digital (server 1)" tvg-logo="https://i.imgur.com/d78b8H8.jpeg" tvg-id=" Digital.id" group-title=" (Kadang Mati) TV Digital Sports", RCTI Digital (server 1)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://raw.githubusercontent.com/Fireredst/Play-Stream/refs/heads/main/Plastream.mpd
-https://raw.githubusercontent.com/hnnyo/lgi/363e735fb8bddd76d26d523ed95909c3c596e1d3/trs7.mpd
-http://filex.me:8080/live/000003/000003/302297.m3u8
-http://103.146.197.250:25461/daeng/tmgrh/10.m3u8
-http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505835.m3u8
-http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165918.ts
-
-#EXTINF:-1 tvg-name="RCTI Digital (server 2)" tvg-logo="https://i.imgur.com/d78b8H8.jpeg" tvg-id=" Digital.id" group-title=" (Kadang Mati) TV Digital Sports", RCTI Digital (server 2)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165918.ts
-
-#EXTINF:-1 tvg-name="RCTI Digital (server 3)" tvg-logo="https://i.imgur.com/d78b8H8.jpeg" tvg-id=" Digital.id" group-title=" (Kadang Mati) TV Digital Sports", RCTI Digital (server 3)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://xtv.ooo:8080/12296515/19216918/351023
-
-#EXTINF:-1 tvg-name="RCTI Digital (server 4)" tvg-logo="https://i.imgur.com/d78b8H8.jpeg" tvg-id=" Digital.id" group-title=" (Kadang Mati) TV Digital Sports", RCTI Digital (server 4)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://103.172.71.153:9981/stream/channelid/353195065?profile=pass
-
-#EXTINF:-1 tvg-name="RCTI Digital (server 5)" tvg-logo="https://i.imgur.com/d78b8H8.jpeg" tvg-id=" Digital.id" group-title=" (Kadang Mati) TV Digital Sports", RCTI Digital (server 5)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://opplextv.cyou:8080/nasir6160/nasir/351023
-
-#EXTINF:-1 tvg-name="GTV Digital (server 1)" tvg-logo="https://i.imgur.com/mCyfpwO.jpeg" tvg-id="Digital.id" group-title=" (Kadang Mati) TV Digital Sports", GTV Digital (server 1)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505835.ts
-
-#EXTINF:-1 tvg-name="GTV Digital (server 2)" tvg-logo="https://i.imgur.com/mCyfpwO.jpeg" tvg-id="Digital.id" group-title=" (Kadang Mati) TV Digital Sports", GTV Digital (server 2)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#http://aflaxtv.xyz:8080/F36591/3f1a2b5c/157578
-https://wahyu1ptv.pages.dev/gTV-HD.m3u8|User-Agent=Player (Linux; Android 12)
-
-#EXTINF:-1 tvg-name="GTV Digital (server 3)" tvg-logo="https://i.imgur.com/mCyfpwO.jpeg" tvg-id="Digital.id" group-title=" (Kadang Mati) TV Digital Sports", GTV Digital (server 3)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505835.ts
-
-#EXTINF:-1 tvg-name="GTV Digital (server 4)" tvg-logo="https://i.imgur.com/mCyfpwO.jpeg" tvg-id="Digital.id" group-title=" (Kadang Mati) TV Digital Sports", GTV Digital (server 4)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://103.172.71.153:9981/stream/channelid/87868683?profile=pass
-
-#EXTINF:-1 tvg-name="GTV Digital (server 5)" tvg-logo="https://i.imgur.com/mCyfpwO.jpeg" tvg-id="Digital.id" group-title=" (Kadang Mati) TV Digital Sports", GTV Digital (server 5)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://opplextv.cyou:8080/nasir6160/nasir/350954
-
-#EXTINF:-1 tvg-name="Moji Digital (server 1)" tvg-logo="https://i.imgur.com/f8m10M1.jpeg" tvg-id="Digital.id" group-title=" (Kadang Mati) TV Digital Sports",Moji Digital (server 1)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C85t_z0_MBwZtd69IGhbSfdg/ts
-##http://202.169.224.202:8800/udp/239.9.1.32:1234
-##http://103.46.10.145:9981/stream/channelid/1687232794?ticket=263AE984B301239602755A78F23AB29A0E3F41BE&profile=pass
-##http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
-
-#EXTINF:-1 tvg-name="Moji Digital(server 2)" tvg-logo="https://i.imgur.com/f8m10M1.jpeg" tvg-id="Digital.id" group-title=" (Kadang Mati) TV Digital Sports",Moji Digital (server 2)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#http://aflaxtv.xyz:8080/F36591/3f1a2b5c/298550
-http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179175
-
-#EXTINF:-1 tvg-name="Moji Digital(server 3)" tvg-logo="https://i.imgur.com/f8m10M1.jpeg" tvg-id="Digital.id" group-title=" (Kadang Mati) TV Digital Sports",Moji Digital (server 3)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://opplextv.cyou:8080/nasir6160/nasir/350997
-
-#EXTINF:-1 tvg-name="iNews Digital (server 1)" tvg-logo="https://i.imgur.com/Lo0fDGQ.jpeg" tvg-id="Digital.id" group-title=" (Kadang Mati) TV Digital Sports", iNews Digital (server 1)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/157579
-
-#EXTINF:-1 tvg-name="iNews Digital (server 2)" tvg-logo="https://i.imgur.com/Lo0fDGQ.jpeg" tvg-id="Digital.id" group-title=" (Kadang Mati) TV Digital Sports", iNews Digital (server 2)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#https://tv.ngebutz.my.id/live/2359819BA55280038B6D0B1419EAFD37/11.ts
-http://202.169.224.202:8800/udp/238.2.2.27:1234
-
-#EXTINF:-1 tvg-name="iNews Digital (server 3)" tvg-logo="https://i.imgur.com/Lo0fDGQ.jpeg" tvg-id="Digital.id" group-title=" (Kadang Mati) TV Digital Sports", iNews Digital (server 3)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://103.172.71.153:9981/stream/channelid/1431393783?profile=pass
-
-#EXTINF:-1 tvg-name="iNews Digital (server 4)" tvg-logo="https://i.imgur.com/Lo0fDGQ.jpeg" tvg-id="Digital.id" group-title=" (Kadang Mati) TV Digital Sports", iNews Digital (server 4)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://opplextv.cyou:8080/nasir6160/nasir/350973
-
-#EXTINF:-1 tvg-name="Kompas TV Digital (server 1)" tvg-logo="https://i.imgur.com/BFQMkOI.jpeg" tvg-id="Digital.id" group-title=" (Kadang Mati) TV Digital Sports", Kompas TV Digital (server 1)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#http://aflaxtv.xyz:8080/F36591/3f1a2b5c/165060
-http://202.169.224.202:8800/udp/239.1.4.2:1234
-
-#EXTINF:-1 tvg-name="Kompas TV Digital (server 2)" tvg-logo="https://i.imgur.com/BFQMkOI.jpeg" tvg-id="Digital.id" group-title=" (Kadang Mati) TV Digital Sports", Kompas TV Digital (server 2)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://opplextv.cyou:8080/nasir6160/nasir/350984
-
-#EXTINF:-1 tvg-name="Trans 7 Digital (server 1)" tvg-logo="https://i.imgur.com/FYzmEPL.jpeg"" tvg-id="Digital.id" group-title=" (Kadang Mati) TV Digital Sports", Trans 7 Digital (server 1)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://iptv.kilas7.com/live/kaukia/asdfrewq/4.m3u8
-
-#EXTINF:-1 tvg-name="Trans 7 Digital (server 2)" tvg-logo="https://i.imgur.com/FYzmEPL.jpeg"" tvg-id="Digital.id" group-title=" (Kadang Mati) TV Digital Sports", Trans 7 Digital (server 2)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://opplextv.cyou:8080/nasir6160/nasir/351040
-
-#EXTINF:-1 tvg-name="Trans 7 Digital (server 3)" tvg-logo="https://i.imgur.com/FYzmEPL.jpeg"" tvg-id="Digital.id" group-title=" (Kadang Mati) TV Digital Sports", Trans 7 Digital (server 3)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://103.66.62.83:8000/play/a00u/index.m3u8
-#http://202.169.224.202:8800/udp/239.4.1.2:1234
-
-#EXTINF:-1 tvg-name="Trans 7 Digital (server 4)" tvg-logo="https://i.imgur.com/FYzmEPL.jpeg"" tvg-id="Digital.id" group-title=" (Kadang Mati) TV Digital Sports", Trans 7 Digital (server 4)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://103.148.44.38:8000/play/a05f/index.m3u8
-#http://103.58.160.157:8278/720-TRANS7/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Trans 7 Digital (server 5)" tvg-logo="https://i.imgur.com/FYzmEPL.jpeg"" tvg-id="Digital.id" group-title=" (Kadang Mati) TV Digital Sports", Trans 7 Digital (server 5)
-http://baka.semar.my.id:8000/play/a05f/index.m3u8
-
-#EXTINF:-1 tvg-name="Trans TV Digital (server 1)" tvg-logo="https://i.imgur.com/LDNOuJc.jpeg" tvg-id="Digital.id" group-title=" (Kadang Mati) TV Digital Sports", Trans TV Digital (server 1)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://iptv.kilas7.com/live/kaukia/asdfrewq/3.m3u8
-
-#EXTINF:-1 tvg-name="Trans TV Digital (server 2)" tvg-logo="https://i.imgur.com/LDNOuJc.jpeg" tvg-id="Digital.id" group-title=" (Kadang Mati) TV Digital Sports", Trans TV Digital (server 2)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://opplextv.cyou:8080/nasir6160/nasir/351041
-
-#EXTINF:-1 tvg-name="Trans TV Digital (server 3)" tvg-logo="https://i.imgur.com/LDNOuJc.jpeg" tvg-id="Digital.id" group-title=" (Kadang Mati) TV Digital Sports", Trans TV Digital (server 3)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://202.169.224.202:8800/udp/239.4.1.1:1234
-
-#EXTINF:-1 tvg-name="Trans TV Digital (server 4)" tvg-logo="https://i.imgur.com/LDNOuJc.jpeg" tvg-id="Digital.id" group-title=" (Kadang Mati) TV Digital Sports", Trans TV Digital (server 4)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://103.148.44.38:8000/play/a05e/index.m3u8
-
-#EXTINF:-1 tvg-name="Trans TV Digital (server 5)" tvg-logo="https://i.imgur.com/LDNOuJc.jpeg" tvg-id="Digital.id" group-title=" (Kadang Mati) TV Digital Sports", Trans TV Digital (server 5)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://103.58.160.157:8278/720-TRANSTV/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-
-#EXTINF:-1 tvg-name="TvOne Digital (server 1)" tvg-logo="https://i.imgur.com/zxZFZbh.jpeg" tvg-id="Digital.id" group-title=" (Kadang Mati) TV Digital Sports", TvOne Digital (server 1)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/266808
-
-#EXTINF:-1 tvg-name="TvOne Digital (server 2)" tvg-logo="https://i.imgur.com/zxZFZbh.jpeg" tvg-id="Digital.id" group-title=" (Kadang Mati) TV Digital Sports", TvOne Digital (server 2)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://opplextv.cyou:8080/nasir6160/nasir/351044
-
-#EXTINF:-1 tvg-name="TvOne Digital (server 3)" tvg-logo="https://i.imgur.com/zxZFZbh.jpeg" tvg-id="Digital.id" group-title=" (Kadang Mati) TV Digital Sports", TvOne Digital (server 3)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-
-#EXTINF:-1 tvg-name="TVRI Sport Digital (server 1)" tvg-logo="https://i.imgur.com/QMDLXBK.jpeg" tvg-id="Digital.id" group-title=" (Kadang Mati) TV Digital Sports",TVRI Sport Digital (server 1)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-https://tvri.cob.web.id/hls2/index.m3u8
-
-#EXTINF:-1 tvg-name="TVRI Sport Digital (server 2)" tvg-logo="https://i.imgur.com/QMDLXBK.jpeg" tvg-id="Digital.id" group-title=" (Kadang Mati) TV Digital Sports",TVRI Sport Digital (server 2)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2 
-#EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDk4MjUyODgsImV4cCI6MTc0OTgzNjA4OCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxODIuMi40Ny4yNDQifX0.mEa4egyO_TJd6jQSisnDlhhGrGqTg19FN9oTnsikoAs", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDk4MjUyODgsImV4cCI6MTc0OTgzNjA4OCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxODIuMi40Ny4yNDQifX0.cwl3cPdjq3-DSHHho8uVGwAbojwa_Vk7waJHZ6Bxtks"} 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2 
-#https://gooo.blog/opix/genx.m3u8?id=tvrisport&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDk4MjUyODgsImV4cCI6MTc0OTgzNjA4OCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxODIuMi40Ny4yNDQifX0.mEa4egyO_TJd6jQSisnDlhhGrGqTg19FN9oTnsikoAs 
-https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=tvri-sport
-#http://202.169.224.202:8800/udp/239.1.2.3:1234
-
-#EXTINF:-1 tvg-name="TVRI Sport Digital (server 3)" tvg-logo="https://i.imgur.com/QMDLXBK.jpeg" tvg-id="Digital.id" group-title=" (Kadang Mati) TV Digital Sports",TVRI Sport Digital (server 3)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://103.148.44.38:8000/play/a05u/index.m3u8
-
-#EXTINF:-1 tvg-name="TVRI Sport Digital (server 4)" tvg-logo="https://i.imgur.com/QMDLXBK.jpeg" tvg-id="Digital.id" group-title=" (Kadang Mati) TV Digital Sports",TVRI Sport Digital (server 4)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://opplextv.cyou:8080/nasir6160/nasir/351052
-
-#EXTINF:-1 tvg-name="Mentari TV Digital (server 1)" tvg-logo="https://i.imgur.com/V2gS21w.jpeg" tvg-id="mentari tv.id" group-title=" (Kadang Mati) TV Digital Sports", Mentari TV Digital (server 1)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
-https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C80nmAc3kfgfnlJ4q2odTO7M/ts
-
-#EXTINF:-1 tvg-name="Mentari TV Digital (server 2)" tvg-logo="https://i.imgur.com/V2gS21w.jpeg" tvg-id="mentari tv.id" group-title=" (Kadang Mati) TV Digital Sports", Mentari TV Digital (server 2) 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://103.172.71.153:9981/stream/channelid/33693761?profile=pass
-
-#EXTINF:-1 tvg-name="Mentari TV Digital (server 3)" tvg-logo="https://i.imgur.com/V2gS21w.jpeg" tvg-id="mentari tv.id" group-title=" (Kadang Mati) TV Digital Sports", Mentari TV Digital (server 3)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://opplextv.cyou:8080/nasir6160/nasir/350989
-
-#EXTINF:-1 tvg-name="SCTV Digital (server 1)" tvg-logo="https://i.imgur.com/Y6lIWkc.jpeg" tvg-id="Digital.id" group-title=" (Kadang Mati) TV Digital Sports", SCTV Digital (server 1)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://baka.semar.my.id:8000/play/a05g/index.m3u8
-#http://main.light-ott.net/play/live.php?mac=00:1A:79:3A:93:FD&stream=1058980&extension=ts&play_token=sL1r1lBem2
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#https://wahyu1ptv.pages.dev/ScTv-HD.m3u8|User-Agent=Player (Linux; Android 12)
-#http://main.light-ott.net/play/live.php?mac=00:1A:79:3A:93:FD&stream=1058980&extension=ts&play_token=sL1r1lBem2
-#http://iptvtree.net:8080/F33848/cbd9779b/162141
-
-#EXTINF:-1 tvg-name="SCTV Digital (server 2)" tvg-logo="https://i.imgur.com/Y6lIWkc.jpeg" tvg-id="Digital.id" group-title=" (Kadang Mati) TV Digital Sports", SCTV Digital (server 2)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#http://103.172.71.153:9981/stream/channelid/1147120909?profile=pass
-http://103.58.160.157:8278/720-SCTV/playlist.m3u8
-http://iptvtree.net:8080/F33848/cbd9779b/162141
-
-#EXTINF:-1 tvg-name="SCTV Digital (server 3)" tvg-logo="https://i.imgur.com/Y6lIWkc.jpeg" tvg-id="Digital.id" group-title=" (Kadang Mati) TV Digital Sports", SCTV Digital (server 3)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://103.148.44.38:8000/play/a05g/index.m3u8
-http://103.148.44.38:8000/play/a05g/index.m3u8
-
-#EXTINF:-1 tvg-name="SCTV Digital (server 4)" tvg-logo="https://i.imgur.com/Y6lIWkc.jpeg" tvg-id="Digital.id" group-title=" (Kadang Mati) TV Digital Sports", SCTV Digital (server 4)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://opplextv.cyou:8080/nasir6160/nasir/351030
-
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-logo="https://i.imgur.com/7sVyTpC.jpeg" tvg-id="digital.id" group-title=" (Kadang Mati) TV Digital Sports", TVRI Nasional Digital (Server 1)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://pildun.cob.web.id/hls2/index.m3u8
-https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=tvri
-#http://opplextv.cyou:8080/nasir6160/nasir/351047
-
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-logo="https://i.imgur.com/7sVyTpC.jpeg" tvg-id="digital.id" group-title=" (Kadang Mati) TV Digital Sports", TVRI Nasional Digital (Server 2)
-EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://iptv.kilas7.com:80/kaukia/asdfrewq/8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#http://103.58.160.157:8278/720-TVRI/playlist.m3u8
-
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-logo="https://i.imgur.com/7sVyTpC.jpeg" tvg-id="digital.id" group-title=" (Kadang Mati) TV Digital Sports", TVRI Nasional Digital (Server 3)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://103.148.44.38:8000/play/a03t/index.m3u8
-
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://i.imgur.com/HjSuW1B.jpeg" tvg-id="digital.id" group-title=" (Kadang Mati) TV Digital Sports",CNN Indonesia Digital (Server 1)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://opplextv.cyou:8080/nasir6160/nasir/350928
-
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://i.imgur.com/HjSuW1B.jpeg" tvg-id="digital.id" group-title=" (Kadang Mati) TV Digital Sports",CNN Indonesia Digital (Server 2)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://202.169.224.202:8800/udp/239.4.1.3:1234
-
-#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://i.imgur.com/2ozDdpl.jpeg" tvg-id="digital.id" group-title=" (Kadang Mati) TV Digital Sports",CNBC Indonesia Digital (server 1)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://opplextv.cyou:8080/nasir6160/nasir/350927
-
-#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://i.imgur.com/2ozDdpl.jpeg" tvg-id="digital.id" group-title=" (Kadang Mati) TV Digital Sports",CNBC Indonesia Digital (server 2)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://202.169.224.202:8800/udp/239.4.1.4:1234
-
-#EXTINF:-1 tvg-name="MDTV Digital (server 1)" tvg-logo="https://i.imgur.com/5CHyBxe.jpeg" tvg-id="Digital.id" group-title=" (Kadang Mati) TV Digital Sports",MDTV Digital (server 1)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 
 //////////////////////////// Live Event Liga Indonesia //////////////////////////////////////////////////
 
