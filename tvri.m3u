@@ -19,47 +19,9 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 #EXTVLCOPT:http-referrer=https://20.detik.com/
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="BeritaSatu" tvg-logo="https://i.imgur.com/TYlZi0Y.jpeg" tvg-id="BeritaSatu.id" group-title="Indonesia",BeritaSatu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://delta.dens.tv/
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/BeritaSatu.m3u8
-
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://i.imgur.com/i3RscQh.jpeg" tvg-id="BTV Nasional.id" group-title="Indonesia", BTV 
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
-
-#EXTINF:-1 tvg-name="MetroTV" tvg-logo="https://i.imgur.com/98fimlt.jpeg" tvg-id="MetroTv.id" group-title="Indonesia", MetroTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="MDTV " tvg-logo="https://i.imgur.com/5CHyBxe.jpeg" tvg-id="MDTV Nasional.id" group-title="Indonesia",MDTV 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
-
-#EXTINF:-1 tvg-name="Moji " tvg-logo="https://i.imgur.com/f8m10M1.jpeg" tvg-id="Moji Nasional.id" group-title="Indonesia",Moji 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-
-#EXTINF:- 1 tvg-name="Indosiar " tvg-logo="https://i.imgur.com/4KiVDER.jpeg" tvg-id="Indosiar Nasional.id" group-title="Indonesia", Indosiar  
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505849.ts
-#https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
-
-#EXTINF:-1 tvg-name="Kompas TV " tvg-logo="https://i.imgur.com/BFQMkOI.jpeg" tvg-id="Kompas TV Nasional.id" group-title="Indonesia", Kompas TV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
-
-#EXTINF:-1 tvg-name="RTV " tvg-logo="https://i.imgur.com/z0R0eFH.jpeg" tvg-id="RTV Nasional.id" group-title="Indonesia", RTV 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
-
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-logo="https://i.imgur.com/7sVyTpC.jpeg" tvg-id="TVRI Nasional.id" group-title="Indonesia", TVRI Nasional
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-
-#EXTINF:- 1 tvg-name="TVRI Sport" tvg-logo="https://i.imgur.com/QMDLXBK.jpeg" tvg-id="TVRI Sport.id"  group-title="Indonesia",TVRI Sport
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 #EXTINF:- 1 tvg-name="TVRI World" tvg-logo="https://i.imgur.com/mP6V7Sf.jpeg" tvg-id="TVRI World.id" group-title="Indonesia", TVRI World
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -69,31 +31,16 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
-#EXTINF:- 1 tvg-name="TVOne" tvg-logo="https://i.imgur.com/zxZFZbh.jpeg" tvg-id="TV One.id" group-title="Indonesia",TvOne
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
-
 #EXTINF:-1 tvg-name="Garuda TV " tvg-logo="https://i.imgur.com/3gmFORP.jpeg" tvg-id="Garuda TV Nasional.id" group-title="Indonesia",Garuda TV 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
-
-#EXTINF:-1 tvg-name="SCTV " tvg-logo="https://i.imgur.com/Y6lIWkc.jpeg" tvg-id="SCTV Nasional.id" group-title="Indonesia",SCTV 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://opplextv.cyou:8080/nasir6160/nasir/351030
-#http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-
-#EXTINF:-1 tvg-name="Sin Po tv " tvg-logo="https://i.imgur.com/w9I0Etr.jpeg" tvg-id=" Sin Po tv.id" group-title="Indonesia",Sin Po TV 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://ratu77.adptv.workers.dev/index.mpd?id=19046&type=dash|User-Agent=VidioPlayer/6.31.6
 
 #EXTINF:-1 tvg-name="VTV " tvg-logo="https://i.imgur.com/1F0683P.jpeg" tvg-id="VTV.id" group-title="Indonesia",VTV (YouTV)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 #EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-#https://gooo.blog/opix/genx.m3u8?id=vtv&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
-https://flv.intechmedia.net/live/ch107.m3u8
+https://gooo.blog/opix/genx.m3u8?id=vtv&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
 
 #EXTINF:-1 tvg-name="VTV " tvg-logo="https://i.imgur.com/1F0683P.jpeg" tvg-id="VTV.id" group-title="Indonesia",VTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
