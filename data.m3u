@@ -14,7 +14,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 #EXTVLCOPT:http-referrer=https://20.detik.com/
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-logo="https://i.imgur.com/7sVyTpC.jpeg" tvg-id="TVRI Nasional.id" group-title="Indonesia", TVRI Nasional
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-logo="https://i.imgur.com/7sVyTpC.jpeg" tvg-id="TVRI.id" group-title="Indonesia", TVRI Nasional
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
