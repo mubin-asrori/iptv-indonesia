@@ -37,7 +37,7 @@ http://tvratu.my.id/oxygen/index.m3u8?id=vtv
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://tvstreamcast.com/indonesiana.m3u8
 
-#EXTINF:-1 tvg-name="ANTV" tvg-logo="https://i.imgur.com/4qyrsun.jpeg" tvg-id=" antv.id" group-title="Indonesia",ANTV
+#EXTINF:-1 tvg-name="ANTV" tvg-logo="https://i.imgur.com/4qyrsun.jpeg" tvg-id="ANTV.id" group-title="Indonesia",ANTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://streamo.web.id/api/1/post/license/iptvsys/1
