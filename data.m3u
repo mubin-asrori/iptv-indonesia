@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/mubin-asrori/iptv-indonesia/main/indonesia.xml"
 
 #EXTINF:-1 tvg-name="CNBC Indonesia" tvg-logo="https://i.imgur.com/2ozDdpl.jpeg" tvg-id="CNBCIndonesia.id" group-title="Indonesia",CNBC Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
@@ -368,6 +368,7 @@ http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505849.ts
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=18189&type=drm
 https://ratuvidio.adptv.workers.dev/index.mpd?id=18189&type=dash
+<<<<<<< HEAD
 
 #EXTINF:-1 tvg-name="Champions Fight" tvg-logo="https://i.imgur.com/adcaZm6.jpeg" tvg-id="Champions TV.id" group-title=" (Kadang Mati) Vidio Sports",Champions Fight (server 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -2231,3 +2232,5 @@ http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179175
 
 
 #EXTM3U
+=======
+>>>>>>> 2918c3ed81bbed78d422de4fb3c2823e10ef5cf0
