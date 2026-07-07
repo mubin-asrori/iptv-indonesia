@@ -601,8 +601,6 @@ https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg0
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8 
 
-/////////////////////////////////////////// FIFA+ //////////////////////////////////////////////////
-
 #EXTINF:-1 group-logo="https://i.imgur.com/mx01FB9.png" group-title="FIFA+"
 
 #EXTINF:-1  tvg-id="GBBD1100008YW" tvg-logo="https://i.imgur.com/cGvdDNY.jpeg" group-title="FIFA+" , FIFA+ 
