@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="VIDEO", TV EXP
+
+#EXTINF:-1 group-title="Video Saya", Mati
 https://drive.google.com/uc?export=download&id=1_98XNaEKCFj1kwH1m6Dc0r0qApVYCnnL
+
+#EXTINF:-1 group-title="Video Saya", admin
+https://drive.google.com/uc?export=download&id=1gOXNSytSy95o-Qpr93wi75xbnVMAzEGT
