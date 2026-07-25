@@ -50,22 +50,10 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=dash
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c1Nykgw.jpeg" tvg-id="itzplay.id" group-title="Indonesia;Lainnya;General",TvOne
 https://op-flashcon-digdayahd-1.dens.tv/h/h40/01.m3u8
 
-#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://i.imgur.com/nZkEVmb.jpeg" group-title="INDONESIA;NASIONAL",Trans TV
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
-
-#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_Trans_TV.png" group-title="INDONESIA;NASIONAL",Trans TV (Alt 2)
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_Trans_TV.png" group-title="INDONESIA;NASIONAL",Trans TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://20.detik.com/
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_Trans_TV.png" group-title="INDONESIA;NASIONAL",Trans TV (Alt 3)
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
-
-#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://i.imgur.com/WZ5h0LV.jpeg" group-title="INDONESIA;NASIONAL",Trans TV (Alt 4)
-https:/rtmp://f13h.mine.nu/sat/tv731/video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/960px-Trans_TV_2013.svg.png" group-title="INDONESIA;NASIONAL",Trans TV (Alt 5)
-https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png" group-title="INDONESIA;NASIONAL",Trans7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
