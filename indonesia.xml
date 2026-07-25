@@ -1,0 +1,1268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- File pelengkap: definisi channel Indonesia (nama + logo) yang belum tercakup -->
+<!-- di EPG utama https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml -->
+<!-- Jadwal acara (programme) sesungguhnya diambil dari EPG utama tsb via url-tvg ganda. -->
+<!-- File ini TIDAK berisi data jadwal acara palsu/karangan. -->
+<tv generator-info-name="iptv-indonesia" generator-info-url="https://github.com/mubin-asrori/iptv-indonesia">
+  <channel id="TVRI.id">
+    <display-name>TVRI Nasional</display-name>
+    <icon src="https://i.imgur.com/CVT61CC.jpeg"/>
+  </channel>
+  <channel id="TVRISport.id">
+    <display-name>TVRI Sport</display-name>
+    <icon src="https://i.imgur.com/KJpxxtL.jpeg"/>
+  </channel>
+  <channel id="TVRIWorld.id">
+    <display-name>TVRI World</display-name>
+    <icon src="https://i.imgur.com/zWT1D4x.jpeg"/>
+  </channel>
+  <channel id="RCTI.id">
+    <display-name>RCTI</display-name>
+    <icon src="https://i.imgur.com/SXPdO7L.jpeg"/>
+  </channel>
+  <channel id="MNCTV.id">
+    <display-name>MNCTV</display-name>
+    <icon src="https://i.imgur.com/4euv3TX.jpeg"/>
+  </channel>
+  <channel id="GTV.id">
+    <display-name>GTV</display-name>
+    <icon src="https://i.imgur.com/hCjYsYV.jpeg"/>
+  </channel>
+  <channel id="iNews.id">
+    <display-name>iNews</display-name>
+    <icon src="https://i.imgur.com/Uh6DXoh.jpeg"/>
+  </channel>
+  <channel id="SCTV.id">
+    <display-name>SCTV</display-name>
+    <icon src="https://i.imgur.com/9nGJaOL.jpeg"/>
+  </channel>
+  <channel id="Indosiar.id">
+    <display-name>Indosiar</display-name>
+    <icon src="https://i.imgur.com/SjCylM5.jpeg"/>
+  </channel>
+  <channel id="Moji.id">
+    <display-name>Moji</display-name>
+    <icon src="https://i.imgur.com/rtylD4X.jpeg"/>
+  </channel>
+  <channel id="ANTV.id">
+    <display-name>ANTV</display-name>
+    <icon src="https://i.imgur.com/39OgfY9.jpeg"/>
+  </channel>
+  <channel id="tvOne.id">
+    <display-name>tvOne</display-name>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHrRRqImnkd9qU4rJ9HNFuEWskwvRD0hOZdg&amp;s"/>
+  </channel>
+  <channel id="TransTV.id">
+    <display-name>Trans TV</display-name>
+    <icon src="https://i.imgur.com/nZkEVmb.jpeg"/>
+  </channel>
+  <channel id="Trans7.id">
+    <display-name>Trans7</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png"/>
+  </channel>
+  <channel id="MetroTV.id">
+    <display-name>Metro TV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/LogoMetroTVsince2010.svg/250px-LogoMetroTVsince2010.svg.png"/>
+  </channel>
+  <channel id="KompasTV.id">
+    <display-name>Kompas TV</display-name>
+    <icon src="https://i.imgur.com/tv1OIsG.jpeg"/>
+  </channel>
+  <channel id="MDTV.id">
+    <display-name>MDTV</display-name>
+    <icon src="https://i.imgur.com/oaBCedP.jpeg"/>
+  </channel>
+  <channel id="RTV.id">
+    <display-name>RTV</display-name>
+    <icon src="https://i.imgur.com/RygqpXd.jpeg"/>
+  </channel>
+  <channel id="BTV.id">
+    <display-name>BTV</display-name>
+    <icon src="https://i.imgur.com/f6VdpxF.jpeg"/>
+  </channel>
+  <channel id="CNNIndonesia.id">
+    <display-name>CNN Indonesia</display-name>
+    <icon src="https://i.imgur.com/PfH7DFq.jpeg"/>
+  </channel>
+  <channel id="CNBCIndonesia.id">
+    <display-name>CNBC Indonesia</display-name>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzkYJ6pIswJ939aAjKZ0VERVaLGs0YD4q41g&amp;s"/>
+  </channel>
+  <channel id="GarudaTV.id">
+    <display-name>Garuda TV</display-name>
+    <icon src="https://i.imgur.com/sXsAcZ3.png"/>
+  </channel>
+  <channel id="NusantaraTV.id">
+    <display-name>Nusantara TV</display-name>
+    <icon src="https://i.imgur.com/EzirkhZ.jpeg"/>
+  </channel>
+  <channel id="BeritaSatu.id">
+    <display-name>BeritaSatu</display-name>
+    <icon src="https://www.lyngsat.com/logo/tv/bb/berita-satu-news-channel-id.png"/>
+  </channel>
+  <channel id="DAAITV.id">
+    <display-name>DAAI TV</display-name>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsESlZzrBmSfJgLESkGisoFXxwQRGlqzIDDA&amp;s"/>
+  </channel>
+  <channel id="MentariTV.id">
+    <display-name>Mentari TV</display-name>
+    <icon src="https://i.imgur.com/QTJzCUJ.jpeg"/>
+  </channel>
+  <channel id="BNChannel.id">
+    <display-name>BN Channel</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/5/54/BN_Channel.png"/>
+  </channel>
+  <channel id="VTV.id">
+    <display-name>VTV</display-name>
+    <icon src="https://i.imgur.com/WlXlnto.jpeg"/>
+  </channel>
+  <channel id="itzplay.id">
+    <display-name>TvOne</display-name>
+    <icon src="https://i.imgur.com/vl3hQsO.jpeg"/>
+  </channel>
+  <channel id="GTVWorld.in">
+    <display-name>GTV World</display-name>
+    <icon src="https://www.visionplus.id/images/repository/424/173424-LOGO-m.png"/>
+  </channel>
+  <channel id="IDX.id">
+    <display-name>IDX</display-name>
+    <icon src="https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg"/>
+  </channel>
+  <channel id="IndosianaTV.id">
+    <display-name>Indosiana TV</display-name>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrPBBXIe3JzmXVf8_u9oeo2LTR2HvoGEwFOQ&amp;s"/>
+  </channel>
+  <channel id="JawaPosTV.id">
+    <display-name>Jawa Pos TV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/300px-Logo_Jawapos_TV.png"/>
+  </channel>
+  <channel id="MNCTVWorld.in">
+    <display-name>MNCTV World</display-name>
+    <icon src="https://www.visionplus.id/images/repository/425/173425-LOGO-m.png"/>
+  </channel>
+  <channel id="MagnaChannel.id@SD">
+    <display-name>Magna Channel (1080p) [Not 24/7]</display-name>
+    <icon src="https://i.imgur.com/tfJo0SO.png"/>
+  </channel>
+  <channel id="MetroGlobeNetwork.id">
+    <display-name>Metro Globe Network</display-name>
+    <icon src="https://thumbor.prod.vidiocdn.com/OKs6W73lGGE835lgmojVmts24NY=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8815/metro-globe-network-1ab3f1.jpg"/>
+  </channel>
+  <channel id="RCTIWorld.in">
+    <display-name>RCTI World</display-name>
+    <icon src="https://www.visionplus.id/images/repository/426/173426-LOGO-m.png"/>
+  </channel>
+  <channel id="SindoNewsTV.id">
+    <display-name>SindoNews</display-name>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPlAtPGRHW6gEgAZMn916nIPyS0yqblsFZqg&amp;s"/>
+  </channel>
+  <channel id="SinPoTV.id">
+    <display-name>Sinpo TV</display-name>
+    <icon src="https://i.imgur.com/5ADGyWF.jpeg"/>
+  </channel>
+  <channel id="UGTV.id">
+    <display-name>UGTV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/8/87/UGTV_Indonesia.png"/>
+  </channel>
+  <channel id="BandungTV.id">
+    <display-name>Bandung TV</display-name>
+    <icon src="https://static.mncnow.id/images/channel/d4154d1c/d082_r32.jpg"/>
+  </channel>
+  <channel id="DhammaTV.in">
+    <display-name>Dhamma TV</display-name>
+    <icon src="https://iili.io/JbtnPvR.png"/>
+  </channel>
+  <channel id="DhohoTV.in">
+    <display-name>Dhoho TV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/id/8/86/DhohoTV.png"/>
+  </channel>
+  <channel id="ElshintaTV.id@SD">
+    <display-name>Elshinta TV</display-name>
+    <icon src="https://i.imgur.com/x5uoy2H.png"/>
+  </channel>
+  <channel id="JITV.in">
+    <display-name>JITV</display-name>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpHeeejMBNPU0qFoo-J9Vg8IaaceROkNndrg&amp;s"/>
+  </channel>
+  <channel id="JITVJogja.in">
+    <display-name>JITV Jogja</display-name>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpHeeejMBNPU0qFoo-J9Vg8IaaceROkNndrg&amp;s"/>
+  </channel>
+  <channel id="JTV.in">
+    <display-name>JTV</display-name>
+    <icon src="https://static.mncnow.id/images/channel/9e658daa/252e_r32.jpg"/>
+  </channel>
+  <channel id="JayaTV.in">
+    <display-name>Jaya TV</display-name>
+    <icon src="https://iili.io/Jbto9af.png"/>
+  </channel>
+  <channel id="KilisuciTVKediri.in">
+    <display-name>Kilisuci TV Kediri</display-name>
+    <icon src="https://wiki.edunitas.com/_sepakbola/_baca_image.php?td=21&amp;kodegb=200px-Kilisuci_TV.png"/>
+  </channel>
+  <channel id="LINGKARTV.in">
+    <display-name>LINGKARTV</display-name>
+    <icon src="https://lingkartv.com/assets/img/logo-square.png"/>
+  </channel>
+  <channel id="NasionalTv.in">
+    <display-name>Nasional Tv</display-name>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK-m4WY2-vxOyZ3HfQGwkm5LY-OsXSwddqSw&amp;s"/>
+  </channel>
+  <channel id="PrimaTV.in">
+    <display-name>Prima TV</display-name>
+    <icon src="https://iili.io/JbtoTuV.png"/>
+  </channel>
+  <channel id="RCTV.in">
+    <display-name>RCTV</display-name>
+    <icon src="https://iili.io/JbtnILX.png"/>
+  </channel>
+  <channel id="SemarangTV.id@SD">
+    <display-name>Semarang TV</display-name>
+    <icon src="https://i.imgur.com/KFC2WSB.png"/>
+  </channel>
+  <channel id="Bali TV">
+    <display-name>Bali TV</display-name>
+    <icon src="https://static.mncnow.id/images/channel/cda6a457/7e41_r32.jpg"/>
+  </channel>
+  <channel id="TimorTV.id@HD">
+    <display-name>Timor TV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Timor_TV.png"/>
+  </channel>
+  <channel id="BandungTV.in">
+    <display-name>Bandung TV</display-name>
+    <icon src="https://iili.io/Jbtnh2j.png"/>
+  </channel>
+  <channel id="BantenTV.in">
+    <display-name>Banten TV</display-name>
+    <icon src="https://iili.io/JbtnwkQ.png"/>
+  </channel>
+  <channel id="ElshintaTV.in">
+    <display-name>Elshinta TV</display-name>
+    <icon src="https://iili.io/JbtnQjI.png"/>
+  </channel>
+  <channel id="MQTV.in">
+    <display-name>MQTV</display-name>
+    <icon src="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MqTv.png"/>
+  </channel>
+  <channel id="BMSTV.in">
+    <display-name>BMS TV</display-name>
+    <icon src="https://iili.io/JbtnSCF.png"/>
+  </channel>
+  <channel id="JogjaTV.in">
+    <display-name>Jogja TV</display-name>
+    <icon src="https://iili.io/Jbto3jS.png"/>
+  </channel>
+  <channel id="SemarangTV.in">
+    <display-name>Semarang TV</display-name>
+    <icon src="https://iili.io/JbtnA1s.png"/>
+  </channel>
+  <channel id="TATV.in">
+    <display-name>TATV</display-name>
+    <icon src="https://iili.io/Jbtnakl.png"/>
+  </channel>
+  <channel id="DhohoTV2.in">
+    <display-name>Dhoho TV</display-name>
+    <icon src="https://imgs.search.brave.com/2l424MY67Zj1YYcsreW8IV9oLfCYNI1X2XJdW8kMkd4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvaWQvdGh1bWIv/OC84Ni9EaG9ob1RW/LnBuZy8yMDBweC1E/aG9ob1RWLnBuZw"/>
+  </channel>
+  <channel id="JTV.id@SD">
+    <display-name>JTV</display-name>
+    <icon src="https://i.imgur.com/mIDWIQk.png"/>
+  </channel>
+  <channel id="SaktiTV">
+    <display-name>Sakti TV</display-name>
+    <icon src="https://i.imgur.com/IDNjMfQ.png"/>
+  </channel>
+  <channel id="SurabayaTV.in">
+    <display-name>Surabaya TV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Surabaya_TV_%282017%29.png"/>
+  </channel>
+  <channel id="BalikpapanTV.id@SD">
+    <display-name>Balikpapan TV</display-name>
+    <icon src="https://i.imgur.com/P3whqna.png"/>
+  </channel>
+  <channel id="BanjarTV.in">
+    <display-name>Banjar TV</display-name>
+    <icon src="https://iili.io/JbtnNpV.png"/>
+  </channel>
+  <channel id="DutaTV">
+    <display-name>Duta TV</display-name>
+    <icon src="https://i.imgur.com/B4JW54M.png"/>
+  </channel>
+  <channel id="TVTabalong.in">
+    <display-name>TV Tabalong</display-name>
+    <icon src="https://tvtabalong.com/wp-content/uploads/2022/03/logo-tv-tabalong.png"/>
+  </channel>
+  <channel id="FajarTV.id@SD">
+    <display-name>Fajar TV (720p) [Not 24/7]</display-name>
+    <icon src="https://i.imgur.com/mkuXxRK.png"/>
+  </channel>
+  <channel id="BETV.in">
+    <display-name>BETV</display-name>
+    <icon src="https://iili.io/Jbtn43J.png"/>
+  </channel>
+  <channel id="BatamTV.id@SD">
+    <display-name>Batam TV (480p) [Not 24/7]</display-name>
+    <icon src="https://i.imgur.com/lo7YXnW.png"/>
+  </channel>
+  <channel id="BungoTV.in">
+    <display-name>Bungo TV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/id/f/f1/Bungo_TV.png"/>
+  </channel>
+  <channel id="JambiTV.id@SD">
+    <display-name>Jambi TV</display-name>
+    <icon src="https://static.wikia.nocookie.net/logopedia/images/1/15/Jambi_TV.png"/>
+  </channel>
+  <channel id="PadangTV.id@SD">
+    <display-name>Padang TV (720p) [Not 24/7]</display-name>
+    <icon src="https://i.imgur.com/EL2BfxY.png"/>
+  </channel>
+  <channel id="RiauTV.id@SD">
+    <display-name>Riau TV (1080p) [Not 24/7]</display-name>
+    <icon src="https://i.imgur.com/1g8FtJi.png"/>
+  </channel>
+  <channel id="SriwijayaTV.id@SD">
+    <display-name>Sriwijaya TV (720p) [Not 24/7]</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/id/7/75/SriwijayaTV_2014.png"/>
+  </channel>
+  <channel id="TVRIAceh.in">
+    <display-name>TVRI Aceh</display-name>
+    <icon src="https://iili.io/JmF1BWb.png"/>
+  </channel>
+  <channel id="TVRIBali.in">
+    <display-name>TVRI Bali</display-name>
+    <icon src="https://iili.io/JmF1x0Q.png"/>
+  </channel>
+  <channel id="TVRIBangkaBelitung.in">
+    <display-name>TVRI Bangka Belitung</display-name>
+    <icon src="https://iili.io/JmF1zgV.png"/>
+  </channel>
+  <channel id="TVRIBengkulu.in">
+    <display-name>TVRI Bengkulu</display-name>
+    <icon src="https://iili.io/JmF1TdB.png"/>
+  </channel>
+  <channel id="TVRIGorontalo.in">
+    <display-name>TVRI Gorontalo</display-name>
+    <icon src="https://iili.io/JmF1Ae1.png"/>
+  </channel>
+  <channel id="TVRIJakarta.in">
+    <display-name>TVRI Jakarta</display-name>
+    <icon src="https://iili.io/JmF17zg.png"/>
+  </channel>
+  <channel id="TVRIJambi.in">
+    <display-name>TVRI Jambi</display-name>
+    <icon src="https://iili.io/JmF1RmF.png"/>
+  </channel>
+  <channel id="TVRIJawaBarat.in">
+    <display-name>TVRI Jawa Barat</display-name>
+    <icon src="https://iili.io/JmF1YXa.png"/>
+  </channel>
+  <channel id="TVRIJawaTengah.in">
+    <display-name>TVRI Jawa Tengah</display-name>
+    <icon src="https://iili.io/JmF1GdN.png"/>
+  </channel>
+  <channel id="TVRIJawaTimur.in">
+    <display-name>TVRI Jawa Timur</display-name>
+    <icon src="https://iili.io/JmF101R.png"/>
+  </channel>
+  <channel id="TVRIKalimantanBarat.in">
+    <display-name>TVRI Kalimantan Barat</display-name>
+    <icon src="https://iili.io/JmF1M7I.png"/>
+  </channel>
+  <channel id="TVRIKalimantanSelatan.in">
+    <display-name>TVRI Kalimantan Selatan</display-name>
+    <icon src="https://iili.io/JmF1WmX.png"/>
+  </channel>
+  <channel id="TVRIKalimantanTengah.in">
+    <display-name>TVRI Kalimantan Tengah</display-name>
+    <icon src="https://iili.io/JmF1hIn.png"/>
+  </channel>
+  <channel id="TVRIKalimantanTimur.in">
+    <display-name>TVRI Kalimantan Timur</display-name>
+    <icon src="https://iili.io/JmF1jXs.png"/>
+  </channel>
+  <channel id="TVRILampung.in">
+    <display-name>TVRI Lampung</display-name>
+    <icon src="https://iili.io/JmF1krl.png"/>
+  </channel>
+  <channel id="TVRIMaluku.in">
+    <display-name>TVRI Maluku</display-name>
+    <icon src="https://iili.io/JmF1wLG.png"/>
+  </channel>
+  <channel id="TVRINTB.in">
+    <display-name>TVRI NTB</display-name>
+    <icon src="https://iili.io/JmF1e14.png"/>
+  </channel>
+  <channel id="TVRINTT.in">
+    <display-name>TVRI NTT</display-name>
+    <icon src="https://iili.io/JmF1gp9.png"/>
+  </channel>
+  <channel id="TVRIPapua.in">
+    <display-name>TVRI Papua</display-name>
+    <icon src="https://iili.io/JmF1822.png"/>
+  </channel>
+  <channel id="TVRIPapuaBarat.in">
+    <display-name>TVRI Papua Barat</display-name>
+    <icon src="https://iili.io/d9HAivV.png"/>
+  </channel>
+  <channel id="TVRIRiau.in">
+    <display-name>TVRI Riau</display-name>
+    <icon src="https://iili.io/JmF1S7S.png"/>
+  </channel>
+  <channel id="TVRISulawesiBarat.in">
+    <display-name>TVRI Sulawesi Barat</display-name>
+    <icon src="https://iili.io/JmF1PLb.png"/>
+  </channel>
+  <channel id="TVRISulawesiSelatan.in">
+    <display-name>TVRI Sulawesi Selatan</display-name>
+    <icon src="https://iili.io/JmF16hu.png"/>
+  </channel>
+  <channel id="TVRISulawesiTengah.in">
+    <display-name>TVRI Sulawesi Tengah</display-name>
+    <icon src="https://iili.io/JmF1t2V.png"/>
+  </channel>
+  <channel id="TVRISulawesiTenggara.in">
+    <display-name>TVRI Sulawesi Tenggara</display-name>
+    <icon src="https://iili.io/JmF1Kbe.png"/>
+  </channel>
+  <channel id="TVRISulawesiUtara.in">
+    <display-name>TVRI Sulawesi Utara</display-name>
+    <icon src="https://iili.io/JmF1Fe9.png"/>
+  </channel>
+  <channel id="TVRISumateraBarat.in">
+    <display-name>TVRI Sumatera Barat</display-name>
+    <icon src="https://iili.io/JmF1357.png"/>
+  </channel>
+  <channel id="TVRISumateraSelatan.in">
+    <display-name>TVRI Sumatera Selatan</display-name>
+    <icon src="https://iili.io/JmF12JS.png"/>
+  </channel>
+  <channel id="TVRISumateraUtara.in">
+    <display-name>TVRI Sumatera Utara</display-name>
+    <icon src="https://iili.io/JmF1oqx.png"/>
+  </channel>
+  <channel id="TVRIYogyakarta.in">
+    <display-name>TVRI Yogyakarta</display-name>
+    <icon src="https://iili.io/JmF1Csj.png"/>
+  </channel>
+  <channel id="AhsanTV.id@SD">
+    <display-name>Ahsan TV</display-name>
+    <icon src="https://i.imgur.com/dZdUbYd.png"/>
+  </channel>
+  <channel id="AlBahjahTV.id@SD">
+    <display-name>Al-Bahjah TV</display-name>
+    <icon src="https://i.imgur.com/52dlDZk.png"/>
+  </channel>
+  <channel id="AlWafaTarim.id@SD">
+    <display-name>Alwafa Tarim TV (Am Media)</display-name>
+    <icon src="https://i.ibb.co/3yfMjmf/logo-3.png"/>
+  </channel>
+  <channel id="AshillTV.in">
+    <display-name>AshillTV</display-name>
+    <icon src="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AshiilTV.png"/>
+  </channel>
+  <channel id="DMITV.id@SD">
+    <display-name>DMI TV (576i)</display-name>
+    <icon src="https://static.promediateknologi.id/promedia/network/1167/desktop/images/logo.png"/>
+  </channel>
+  <channel id="IAmChannel.id@SD">
+    <display-name>I Am Channel</display-name>
+    <icon src="https://i.imgur.com/Gg6OcGT.png"/>
+  </channel>
+  <channel id="IzzahTV.id@SD">
+    <display-name>Izzah TV</display-name>
+    <icon src="https://i.imgur.com/my7aqLc.png"/>
+  </channel>
+  <channel id="LIVEMADINAH1.in">
+    <display-name>LIVE MADINAH 1</display-name>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTajg7WlbiXuj2CvNtHRJNzOnsQ16MsVyd3A&amp;s"/>
+  </channel>
+  <channel id="MGITV.id@SD">
+    <display-name>MGI TV (720p) [Geo-blocked]</display-name>
+    <icon src="https://i.imgur.com/xrNtabe.png"/>
+  </channel>
+  <channel id="MQTV.id@SD">
+    <display-name>MQTV (720p) [Not 24/7]</display-name>
+    <icon src="https://i.imgur.com/d8dQo6E.png"/>
+  </channel>
+  <channel id="MadaniTV.id@SD">
+    <display-name>Madani TV</display-name>
+    <icon src="https://i.imgur.com/8aonQ0v.png"/>
+  </channel>
+  <channel id="MaduTV.in">
+    <display-name>Madu TV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/id/a/a8/Logo_Madu_TV_2021.png"/>
+  </channel>
+  <channel id="NaajiyaTV.id@SD">
+    <display-name>Naajiya TV</display-name>
+    <icon src="https://i.postimg.cc/Z5YTHPV8/KUbqm-Lq-Rx-Y-70-Ilj-LU4uyerh-Qz-PZ66-DVYoqm-BNDAT7-TSfk-G3-Fu015-Lxv-Ss-Esma6-VD3r-NYu0-Yw-s900-c-k-c0x00ffffff-no-r.png"/>
+  </channel>
+  <channel id="NabawiTV.id@SD">
+    <display-name>Nabawi TV</display-name>
+    <icon src="https://i.imgur.com/O8WONFB.png"/>
+  </channel>
+  <channel id="RODJATV2.in">
+    <display-name>RODJA TV 2</display-name>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLPKzuSGXnuJG5gOA1AGIknytvyxTCq9kQRw&amp;s"/>
+  </channel>
+  <channel id="RodjaTV.in">
+    <display-name>RodjaTV</display-name>
+    <icon src="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Rodja_TV.png"/>
+  </channel>
+  <channel id="SalamTV.id@SD">
+    <display-name>Salam TV</display-name>
+    <icon src="https://i.imgur.com/00Ifzgo.png"/>
+  </channel>
+  <channel id="SurauTV.in">
+    <display-name>SurauTV</display-name>
+    <icon src="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SurauTV.png"/>
+  </channel>
+  <channel id="TV10.in">
+    <display-name>TV 10</display-name>
+  </channel>
+  <channel id="TVMUI.in">
+    <display-name>TV MUI</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/id/thumb/0/0d/TV_MUI.png/640px-TV_MUI.png"/>
+  </channel>
+  <channel id="TV9.in">
+    <display-name>TV9</display-name>
+  </channel>
+  <channel id="TVMU.in">
+    <display-name>TVMU</display-name>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS67qwW1u1F-sEku-oDwde7WLWIykjwyu3uOA&amp;s"/>
+  </channel>
+  <channel id="UChannel.id@SD">
+    <display-name>U Channel</display-name>
+    <icon src="https://i.imgur.com/qxkb0cy.png"/>
+  </channel>
+  <channel id="WesalTV.in">
+    <display-name>WesalTV</display-name>
+    <icon src="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Wesal_TV.png"/>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name>KARTUN ANAK: Cartoon Network</display-name>
+    <icon src="https://www.pngall.com/wp-content/uploads/13/Cartoon-Network-Logo-PNG-Image.png"/>
+  </channel>
+  <channel id="Cartoonito">
+    <display-name>KARTUN ANAK: Cartoonito</display-name>
+    <icon src="https://i.pinimg.com/736x/7b/ae/af/7baeafff7f408e5be7136eb1e62d60a8.jpg"/>
+  </channel>
+  <channel id="DreamWorks">
+    <display-name>KARTUN ANAK: Dreamworks HD</display-name>
+    <icon src="https://e7.pngegg.com/pngimages/393/234/png-clipart-dreamworks-animation-animated-film-logo-dreamworks-poppy-text-film.png"/>
+  </channel>
+  <channel id="Fun Planet">
+    <display-name>KARTUN ANAK: FunPlanet</display-name>
+    <icon src="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_funplanet.png"/>
+  </channel>
+  <channel id="Horee!">
+    <display-name>KARTUN ANAK: Horee!</display-name>
+    <icon src="https://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png/revision/latest?cb=20180705160440"/>
+  </channel>
+  <channel id="556893">
+    <display-name>KARTUN ANAK: Kartoon Channel!</display-name>
+    <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358834'&amp;EntityType='Item'&amp;EntityId='556893'&amp;Width=350&amp;Height=250"/>
+  </channel>
+  <channel id="My Kidz">
+    <display-name>KARTUN ANAK: MyKidz</display-name>
+    <icon src="https://www.mncvision.id/userfiles/image/ARTIKEL%20MNC%20VISION/MY%20KIDS.png"/>
+  </channel>
+  <channel id="556877">
+    <display-name>KARTUN ANAK: TG Junior</display-name>
+    <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358838'&amp;EntityType='Item'&amp;EntityId='556877'&amp;Width=264&amp;Height=250"/>
+  </channel>
+  <channel id="MAXSports.id@SD">
+    <display-name>MAX Sports</display-name>
+    <icon src="https://images.maxstream.tv/sites/default/files/entry/0_1u20u1ok/landscape_carousel_xxhdpi.webp"/>
+  </channel>
+  <channel id="NASIONALANTV.in">
+    <display-name>NASIONAL: ANTV</display-name>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeiWv-pfeDr-OZkVvMbwEcryrWApBmLYMZQy6rUefZWQQxB1oOVnzR6WX3&amp;s=10"/>
+  </channel>
+  <channel id="NASIONALCNNINDONESIA.in">
+    <display-name>NASIONAL: CNN INDONESIA</display-name>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGEpKvlHZcwAFE34gPBhZVN0fJuORa_WCheTC_LGH0-6D8itD-rSOA3cw&amp;s=10"/>
+  </channel>
+  <channel id="GARUDATV.id">
+    <display-name>NASIONAL: Garuda TV HD</display-name>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmNB9OGzinChxmzFzLV0VlS6qsNMtGsO5hTGVYjn4Sf_zB2M6UF8neicI&amp;s=10"/>
+  </channel>
+  <channel id="NASIONALHanacarakaTV.in">
+    <display-name>NASIONAL: Hanacaraka TV</display-name>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEIqiNP_vC2rYguT1LCtr-LbfkBWrBiP_poCAVHf9tIwEfVlKMs_AkI4E&amp;s=10"/>
+  </channel>
+  <channel id="Channel Jowo.id">
+    <display-name>NASIONAL: JOWO</display-name>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoqH3ju4SqhG-ydex6u2LmqPRpxsrBHvw6OQ&amp;s"/>
+  </channel>
+  <channel id="NASIONALMNCTV.in">
+    <display-name>NASIONAL: MNCTV</display-name>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN5reR_YAbbtGqawoaCyr1EMcDnthW8l2D3w&amp;s"/>
+  </channel>
+  <channel id="NASIONALRTV.in">
+    <display-name>NASIONAL: RTV</display-name>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0cmLNfnjtUjShk7v8vlIFAGslOiKmXdoJ7iza4ZT_luchZt0FLTUHb80&amp;s=10"/>
+  </channel>
+  <channel id="NASIONALSINPOTV.in">
+    <display-name>NASIONAL: SINPO TV</display-name>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9Uj3cD2zvKeJV4bBN4Z7SepFf9a58Au2xDNPBsWi4Shi66Kn20X7wVxo&amp;s=10"/>
+  </channel>
+  <channel id="Moji">
+    <display-name>NASIONAL: moji</display-name>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ce0PQeFODBCLQQhNy11k8FuVHZrrmm8Ehw&amp;s"/>
+  </channel>
+  <channel id="NASIONALtvOne.in">
+    <display-name>NASIONAL: tvOne</display-name>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS9GE4fjMIst8JYbkpr40OcAnRmfa565rG_XwoyhZfzFFbKD4JweqGvStQ&amp;s=10"/>
+  </channel>
+  <channel id="PREMIUMMOVIEAVAFamily.in">
+    <display-name>PREMIUM MOVIE: AVA Family</display-name>
+    <icon src="https://i.imgur.com/QwBGLzK.png"/>
+  </channel>
+  <channel id="PREMIUMMOVIEAXN.in">
+    <display-name>PREMIUM MOVIE: AXN</display-name>
+    <icon src="https://github.com/Qingtvnew/test/raw/main/axn.png"/>
+  </channel>
+  <channel id="PREMIUMMOVIEAndPictures.in">
+    <display-name>PREMIUM MOVIE: And Pictures</display-name>
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HivVrdof.png"/>
+  </channel>
+  <channel id="PREMIUMMOVIECCM.in">
+    <display-name>PREMIUM MOVIE: CCM</display-name>
+    <icon src="https://iili.io/FsyZuff.md.png"/>
+  </channel>
+  <channel id="cinemaxasia.sg">
+    <display-name>PREMIUM MOVIE: CINEMAX</display-name>
+    <icon src="https://dl.dropbox.com/scl/fi/zsbacg5t7lorej9vx5lsa/Cinemax-hometv.png?rlkey=pe3s86fk2p7k4q9w0eoij7jzl&amp;dl=0"/>
+  </channel>
+  <channel id="PREMIUMMOVIEGOLDMINESMOVIES.in">
+    <display-name>PREMIUM MOVIE: GOLDMINES MOVIES</display-name>
+    <icon src="https://i.imgur.com/DxPzIxt.png"/>
+  </channel>
+  <channel id="PREMIUMMOVIEGalaxy.in">
+    <display-name>PREMIUM MOVIE: Galaxy</display-name>
+    <icon src="https://github.com/Qingtvnew/test/raw/main/galaxy.png"/>
+  </channel>
+  <channel id="PREMIUMMOVIEGalaxyPremium.in">
+    <display-name>PREMIUM MOVIE: Galaxy Premium</display-name>
+    <icon src="https://github.com/Qingtvnew/test/raw/main/galaxy-premium.png"/>
+  </channel>
+  <channel id="hbo.br">
+    <display-name>PREMIUM MOVIE: HBO</display-name>
+    <icon src="https://i.imgur.com/U5LrKAW.png"/>
+  </channel>
+  <channel id="PREMIUMMOVIEHBO2.in">
+    <display-name>PREMIUM MOVIE: HBO 2</display-name>
+    <icon src="https://i.imghippo.com/files/tAB9753SDI.png"/>
+  </channel>
+  <channel id="hbohitsasia.sg">
+    <display-name>PREMIUM MOVIE: HBO Hits</display-name>
+    <icon src="https://dl.dropbox.com/scl/fi/n7pewdemieoz3zbs39tbx/hbohits.png?rlkey=e748k2slpje7h5xy2q9pos5a3&amp;dl=0"/>
+  </channel>
+  <channel id="PREMIUMMOVIEHBOMundi.in">
+    <display-name>PREMIUM MOVIE: HBO Mundi</display-name>
+    <icon src="https://geo.edge.pontiscloud.com:9002/images/107/CH_LOGO/160/160/0/0/61157416071448.png"/>
+  </channel>
+  <channel id="Canal.HBO.Pop.mx">
+    <display-name>PREMIUM MOVIE: HBO Pop</display-name>
+    <icon src="https://i.imgur.com/Y6164V7.png"/>
+  </channel>
+  <channel id="hbosignatureasia.sg">
+    <display-name>PREMIUM MOVIE: HBO Signature</display-name>
+    <icon src="https://dl.dropbox.com/scl/fi/rpfe8l6bizfcn3hkvkow6/hbo-signature.png?rlkey=dano4jnm0214i6163flo4akb6&amp;dl=0"/>
+  </channel>
+  <channel id="PREMIUMMOVIEHBOXTREME.in">
+    <display-name>PREMIUM MOVIE: HBO XTREME</display-name>
+    <icon src="https://i.imghippo.com/files/cnB4307w.jpg"/>
+  </channel>
+  <channel id="hbofamilyasia.sg">
+    <display-name>PREMIUM MOVIE: HBO family</display-name>
+    <icon src="https://dl.dropbox.com/scl/fi/huvb654fboyfnebvnzghn/hbo_family.png?rlkey=sr0deor1pxp0bxgm3x6wve1cz&amp;dl=0"/>
+  </channel>
+  <channel id="PREMIUMMOVIEHBO.in">
+    <display-name>PREMIUM MOVIE: HBO+</display-name>
+    <icon src="https://i.imgur.com/VGBP9wj.png"/>
+  </channel>
+  <channel id="PREMIUMMOVIEHBOMAXPREMIERE1.in">
+    <display-name>PREMIUM MOVIE: HBOMAX PREMIERE 1</display-name>
+    <icon src="http://picon.tivi-ott.net:25461/picon/Poland/PL OD HBO MAX/OD HBO MAX.png"/>
+  </channel>
+  <channel id="PREMIUMMOVIEHBOMAXPREMIERE10.in">
+    <display-name>PREMIUM MOVIE: HBOMAX PREMIERE 10</display-name>
+    <icon src="http://picon.tivi-ott.net:25461/picon/Poland/PL OD HBO MAX/OD HBO MAX.png"/>
+  </channel>
+  <channel id="PREMIUMMOVIEHBOMAXPREMIERE2.in">
+    <display-name>PREMIUM MOVIE: HBOMAX PREMIERE 2</display-name>
+    <icon src="http://picon.tivi-ott.net:25461/picon/Poland/PL OD HBO MAX/OD HBO MAX.png"/>
+  </channel>
+  <channel id="PREMIUMMOVIEHBOMAXPREMIERE3.in">
+    <display-name>PREMIUM MOVIE: HBOMAX PREMIERE 3</display-name>
+    <icon src="http://picon.tivi-ott.net:25461/picon/Poland/PL OD HBO MAX/OD HBO MAX.png"/>
+  </channel>
+  <channel id="PREMIUMMOVIEHBOMAXPREMIERE4.in">
+    <display-name>PREMIUM MOVIE: HBOMAX PREMIERE 4</display-name>
+    <icon src="http://picon.tivi-ott.net:25461/picon/Poland/PL OD HBO MAX/OD HBO MAX.png"/>
+  </channel>
+  <channel id="PREMIUMMOVIEHBOMAXPREMIERE5.in">
+    <display-name>PREMIUM MOVIE: HBOMAX PREMIERE 5</display-name>
+    <icon src="http://picon.tivi-ott.net:25461/picon/Poland/PL OD HBO MAX/OD HBO MAX.png"/>
+  </channel>
+  <channel id="PREMIUMMOVIEHITS.in">
+    <display-name>PREMIUM MOVIE: HITS</display-name>
+    <icon src="https://github.com/Qingtvnew/test/raw/main/hits.png"/>
+  </channel>
+  <channel id="PREMIUMMOVIEHITSMovies.in">
+    <display-name>PREMIUM MOVIE: HITS Movies</display-name>
+    <icon src="https://github.com/Qingtvnew/test/raw/main/HITSMOVIES.png"/>
+  </channel>
+  <channel id="PREMIUMMOVIEKIX.in">
+    <display-name>PREMIUM MOVIE: KIX</display-name>
+    <icon src="https://github.com/Qingtvnew/test/raw/main/kix.png"/>
+  </channel>
+  <channel id="PREMIUMMOVIEMNPlus.in">
+    <display-name>PREMIUM MOVIE: MN Plus</display-name>
+    <icon src="https://get.perfecttv.net/logo/mnplus.png"/>
+  </channel>
+  <channel id="PREMIUMMOVIEMNXHD.in">
+    <display-name>PREMIUM MOVIE: MNX HD</display-name>
+    <icon src="https://get.perfecttv.net/logo/mnx.png"/>
+  </channel>
+  <channel id="MyCinemaEurope.ch">
+    <display-name>PREMIUM MOVIE: MY CINEMA EUROPE</display-name>
+    <icon src="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502977_tvchannels_v1.jpg"/>
+  </channel>
+  <channel id="PREMIUMMOVIEMoviesNow.in">
+    <display-name>PREMIUM MOVIE: Movies Now</display-name>
+    <icon src="https://www.pngkey.com/png/full/107-1070590_movies-now-movies-now-logo-png.png"/>
+  </channel>
+  <channel id="PREMIUMMOVIERockAction.in">
+    <display-name>PREMIUM MOVIE: Rock Action</display-name>
+    <icon src="https://bit.ly/3jPj9HC"/>
+  </channel>
+  <channel id="PREMIUMMOVIERockEntertainment.in">
+    <display-name>PREMIUM MOVIE: Rock Entertainment</display-name>
+    <icon src="https://bit.ly/3GDKsO7"/>
+  </channel>
+  <channel id="PREMIUMMOVIERuntimeTerror.in">
+    <display-name>PREMIUM MOVIE: Runtime Terror</display-name>
+    <icon src="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/runtime.png"/>
+  </channel>
+  <channel id="PREMIUMMOVIESONYMAX.in">
+    <display-name>PREMIUM MOVIE: SONY MAX</display-name>
+    <icon src="https://i.imgur.com/2ISQ4oJ.png"/>
+  </channel>
+  <channel id="PREMIUMMOVIESONYPIX.in">
+    <display-name>PREMIUM MOVIE: SONY PIX</display-name>
+    <icon src="https://i.imgur.com/SZXa8nf.png"/>
+  </channel>
+  <channel id="1304">
+    <display-name>PREMIUM MOVIE: TAP MOVIES</display-name>
+    <icon src="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134117906.png"/>
+  </channel>
+  <channel id="PREMIUMMOVIETVN.in">
+    <display-name>PREMIUM MOVIE: TVN</display-name>
+    <icon src="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tvn.png"/>
+  </channel>
+  <channel id="TVN MOVIES">
+    <display-name>PREMIUM MOVIE: TVN MOVIES</display-name>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzplC68PhjEepXf9THtdelWYaNWbodgJMVd6dhJ2aqVg&amp;s"/>
+  </channel>
+  <channel id="PREMIUMMOVIEThrill.in">
+    <display-name>PREMIUM MOVIE: Thrill</display-name>
+    <icon src="https://github.com/Qingtvnew/test/raw/main/Thrill.png"/>
+  </channel>
+  <channel id="99991621">
+    <display-name>PREMIUM MOVIE: Universal Movies</display-name>
+    <icon src="https://image.xumo.com/v1/channels/channel/99991621/168x168.png?type=color_onBlack"/>
+  </channel>
+  <channel id="zee-anoml-cinema">
+    <display-name>PREMIUM MOVIE: Zee Anmol Cinema</display-name>
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/diYkUOnX.png"/>
+  </channel>
+  <channel id="PREMIUMMOVIEZeeBioskop.in">
+    <display-name>PREMIUM MOVIE: Zee Bioskop</display-name>
+    <icon src="https://github.com/Qingtvnew/test/raw/main/ZEE-B.png"/>
+  </channel>
+  <channel id="zee-bollywood">
+    <display-name>PREMIUM MOVIE: Zee Bollywood</display-name>
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/EqDlflgi.png"/>
+  </channel>
+  <channel id="PREMIUMSPORTASPOR.in">
+    <display-name>PREMIUM SPORT: A SPOR</display-name>
+    <icon src="https://i.ibb.co/xSjB51j/aspor.png"/>
+  </channel>
+  <channel id="Cazetv2.br">
+    <display-name>PREMIUM SPORT: CAZÉ TV 2</display-name>
+    <icon src="https://i.postimg.cc/tT9ygxb9/CAZE-TV.png"/>
+  </channel>
+  <channel id="PREMIUMSPORTCCTV16.in">
+    <display-name>PREMIUM SPORT: CCTV16</display-name>
+    <icon src="https://live.fanmingming.cn/tv/CCTV16.png"/>
+  </channel>
+  <channel id="PREMIUMSPORTCCTV5.in">
+    <display-name>PREMIUM SPORT: CCTV5</display-name>
+    <icon src="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/CCTV6.png"/>
+  </channel>
+  <channel id="PREMIUMSPORTCCTV52.in">
+    <display-name>PREMIUM SPORT: CCTV5+</display-name>
+    <icon src="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/CCTV5+.png"/>
+  </channel>
+  <channel id="PREMIUMSPORTMono29.in">
+    <display-name>PREMIUM SPORT: Mono 29</display-name>
+    <icon src="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png"/>
+  </channel>
+  <channel id="PrimaSport4.ro">
+    <display-name>PREMIUM SPORT: Prima Sport 4</display-name>
+    <icon src="https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_4_new.svg/revision/latest/scale-to-width-down/150?cb=20230126050947"/>
+  </channel>
+  <channel id="PREMIUMSPORTSportv1.in">
+    <display-name>PREMIUM SPORT: Sportv 1</display-name>
+    <icon src="https://i.postimg.cc/bv8DVRPR/images-(4).jpg"/>
+  </channel>
+  <channel id="SPORTHDESPN2HD.in">
+    <display-name>SPORT HD: ESPN 2 HD</display-name>
+    <icon src="https://i.imgur.com/ZAHnoPh.png"/>
+  </channel>
+  <channel id="SPORTHDESPN3HD.in">
+    <display-name>SPORT HD: ESPN 3 HD</display-name>
+    <icon src="https://i.imgur.com/VCPTlBD.png"/>
+  </channel>
+  <channel id="SPORTHDESPN4HD.in">
+    <display-name>SPORT HD: ESPN 4 HD</display-name>
+    <icon src="https://i.imgur.com/ErWFVO3.png"/>
+  </channel>
+  <channel id="SPORTHDESPN5HD.in">
+    <display-name>SPORT HD: ESPN 5 HD</display-name>
+    <icon src="https://i.imgur.com/Zz2VFpL.png"/>
+  </channel>
+  <channel id="SPORTHDESPN6HD.in">
+    <display-name>SPORT HD: ESPN 6 HD</display-name>
+    <icon src="https://i.imgur.com/yOgmmCy.png"/>
+  </channel>
+  <channel id="SPORTHDESPNSD.in">
+    <display-name>SPORT HD: ESPN SD</display-name>
+    <icon src="https://i.imgur.com/CkoAvYH.png"/>
+  </channel>
+  <channel id="SPOTV.id@SD">
+    <display-name>SPOTV</display-name>
+    <icon src="https://i.imgur.com/HaoVsm5.png"/>
+  </channel>
+  <channel id="SPOTV2.id@SD">
+    <display-name>SPOTV 2</display-name>
+    <icon src="https://i.imgur.com/YD8fbTH.png"/>
+  </channel>
+  <channel id="LIVE">
+    <display-name>WHATSAPP: 085333640016</display-name>
+    <icon src="https://i.postimg.cc/XNKPdJJf/images.jpg"/>
+  </channel>
+  <channel id="MAXReels.id@SD">
+    <display-name>MAX Reels</display-name>
+    <icon src="https://images.maxstream.tv/sites/default/files/entry/0_psqdb637/landscape_carousel_xxhdpi.webp"/>
+  </channel>
+  <channel id="MyCinema.id@SD">
+    <display-name>My Cinema [Geo-blocked]</display-name>
+    <icon src="https://i.imgur.com/BTmcTQO.png"/>
+  </channel>
+  <channel id="AntaraTV.id@SD">
+    <display-name>Antara TV</display-name>
+    <icon src="https://thumbor.prod.vidiocdn.com/GZLOFeCtplhuW5-hl6yePAuO5G8=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/909905/antaratv-90a879.jpg"/>
+  </channel>
+  <channel id="BTV.id@SD">
+    <display-name>BTV [Geo-blocked]</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/960px-BTV_%28Indonesia%29_logo_%282025%29.svg.png"/>
+  </channel>
+  <channel id="HumaBetangTV.id@SD">
+    <display-name>Huma Betang TV (720p) [Not 24/7]</display-name>
+    <icon src="https://i.imgur.com/xBTqOEu.png"/>
+  </channel>
+  <channel id="JakartaGlobeNewsChannel.id@SD">
+    <display-name>Jakarta Globe News Channel</display-name>
+    <icon src="https://i.postimg.cc/B6GFBy9C/In_Shot_20260121_203812695.png"/>
+  </channel>
+  <channel id="KompasTV.id@SD">
+    <display-name>Kompas TV [Geo-blocked]</display-name>
+    <icon src="https://i.imgur.com/bD6UHeZ.png"/>
+  </channel>
+  <channel id="SindoNewsTV.id@SD">
+    <display-name>Sindo News TV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/SindoNewsTV_2023.png/960px-SindoNewsTV_2023.png"/>
+  </channel>
+  <channel id="NickJrIndonesia.id@SD">
+    <display-name>Nick Jr. Indonesia</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/960px-Nick_Jr._logo_2023_%28outline%29.svg.png"/>
+  </channel>
+  <channel id="OnlineTVNusantara.id@SD">
+    <display-name>Online TV Nusantara (720p) [Not 24/7]</display-name>
+    <icon src="https://i.imgur.com/E9CCIpP.jpg"/>
+  </channel>
+  <channel id="SaliraTV.id@SD">
+    <display-name>Salira TV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Salira_TV.png"/>
+  </channel>
+  <channel id="TheIndonesiaChannel.id@SD">
+    <display-name>The Indonesia Channel</display-name>
+    <icon src="https://i.imgur.com/jAAPgpV.png"/>
+  </channel>
+  <channel id="DensKnowledge.id@SD">
+    <display-name>Dens Learning &amp; Knowledge [Geo-blocked]</display-name>
+    <icon src="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701335417_tvchannels_v1.jpg"/>
+  </channel>
+  <channel id="RinjaniTV.id@SD">
+    <display-name>Rinjani TV</display-name>
+    <icon src="https://lombokindustries.com/assunnah/zone/img/rinjanitv.png"/>
+  </channel>
+  <channel id="DensShowBiz.id@SD">
+    <display-name>Dens ShowBiz [Geo-blocked]</display-name>
+    <icon src="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg"/>
+  </channel>
+  <channel id="FicomChannel.id@SD">
+    <display-name>Ficom Channel</display-name>
+  </channel>
+  <channel id="MAXStreak.id@SD">
+    <display-name>MAX Streak</display-name>
+    <icon src="https://images.maxstream.tv/sites/default/files/entry/0_720wy4x6/landscape_carousel_xxhdpi.webp"/>
+  </channel>
+  <channel id="NewTVComprehensive.id@SD">
+    <display-name>New TV Comprehensive</display-name>
+    <icon src="https://images.maxstream.tv/sites/default/files/entry/0_wz2sim1e/landscape_carousel_xxhdpi.webp"/>
+  </channel>
+  <channel id="NewTVFinance.id@SD">
+    <display-name>New TV Finance</display-name>
+    <icon src="https://images.maxstream.tv/sites/default/files/entry/0_2xlnqlst/landscape_carousel_xxhdpi.webp"/>
+  </channel>
+  <channel id="NewTVVariety.id@SD">
+    <display-name>New TV Variety</display-name>
+    <icon src="https://images.maxstream.tv/sites/default/files/entry/0_emchwlj8/landscape_carousel_xxhdpi.webp"/>
+  </channel>
+  <channel id="MyFamily.id@SD">
+    <display-name>My Family [Geo-blocked]</display-name>
+    <icon src="https://i.imgur.com/IaCmCt9.png"/>
+  </channel>
+  <channel id="AFBTVKupang.id@SD">
+    <display-name>AFBTV Kupang (1080p) [Not 24/7]</display-name>
+    <icon src="https://i.postimg.cc/bJpyzPbB/afbtv.png"/>
+  </channel>
+  <channel id="AKTV.id@SD">
+    <display-name>AKTV (1080p) [Not 24/7]</display-name>
+    <icon src="https://i.imgur.com/DUY5WXf.png"/>
+  </channel>
+  <channel id="AsthaTV.id@HD">
+    <display-name>Astha TV (1080p) [Not 24/7]</display-name>
+    <icon src="https://asthatv.com/wp-content/uploads/2026/02/Logo-Astha.png"/>
+  </channel>
+  <channel id="AstroBlitarTV.id@SD">
+    <display-name>Astro Blitar TV</display-name>
+    <icon src="https://i.imgur.com/rORKbGw.png"/>
+  </channel>
+  <channel id="AtambuaTV.id@HD">
+    <display-name>Atambua TV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/7/72/Atambua_TV.png"/>
+  </channel>
+  <channel id="BRTV.id@SD">
+    <display-name>BRTV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/id/1/1f/Logo_BRTV.png"/>
+  </channel>
+  <channel id="BiznetAdventure.id@SD">
+    <display-name>Biznet Adventure</display-name>
+    <icon src="https://i.imgur.com/ZREy4zM.png"/>
+  </channel>
+  <channel id="CarubanTV.id@HD">
+    <display-name>Caruban TV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/3/3a/CarubanTV%28Low-res%29.png"/>
+  </channel>
+  <channel id="CelebesTV.id@SD">
+    <display-name>Celebes TV [Not 24/7]</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/id/8/81/Logo_Celebes_TV_2020.png"/>
+  </channel>
+  <channel id="ChannelJowo.id@SD">
+    <display-name>Channel Jowo [Geo-blocked]</display-name>
+    <icon src="https://i.imgur.com/fksxiaS.png"/>
+  </channel>
+  <channel id="DMTVMalang.id@SD">
+    <display-name>DM TV Malang</display-name>
+    <icon src="https://i.imgur.com/3iC41QX.png"/>
+  </channel>
+  <channel id="DavikaTV.id@SD">
+    <display-name>Davika TV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/id/6/60/Logo_Davika_TV.png"/>
+  </channel>
+  <channel id="EfarinaTV.id@SD">
+    <display-name>Efarina TV</display-name>
+    <icon src="https://i.imgur.com/iYTimXh.png"/>
+  </channel>
+  <channel id="JTV.id@Kediri">
+    <display-name>JTV Kediri</display-name>
+    <icon src="https://i.imgur.com/mIDWIQk.png"/>
+  </channel>
+  <channel id="JTV.id@Madiun">
+    <display-name>JTV Madiun</display-name>
+    <icon src="https://i.imgur.com/mIDWIQk.png"/>
+  </channel>
+  <channel id="JTV.id@Madura">
+    <display-name>JTV Madura (480p) [Not 24/7]</display-name>
+    <icon src="https://i.imgur.com/mIDWIQk.png"/>
+  </channel>
+  <channel id="JTV.id@Malang">
+    <display-name>JTV Malang</display-name>
+    <icon src="https://i.imgur.com/mIDWIQk.png"/>
+  </channel>
+  <channel id="JakTV.id@SD">
+    <display-name>Jak TV</display-name>
+    <icon src="https://i.imgur.com/xyLLLOi.png"/>
+  </channel>
+  <channel id="JawaPosTV.id@Bali">
+    <display-name>Jawa Pos TV Bali</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/960px-Jawa_Pos_TV_2024.svg.png"/>
+  </channel>
+  <channel id="JawaPosTV.id@Jakarta">
+    <display-name>Jawa Pos TV Jakarta</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/960px-Jawa_Pos_TV_2024.svg.png"/>
+  </channel>
+  <channel id="JawaPosTV.id@Madiun">
+    <display-name>Jawa Pos TV Madiun</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/960px-Jawa_Pos_TV_2024.svg.png"/>
+  </channel>
+  <channel id="JawaPosTV.id@Magelang">
+    <display-name>Jawa Pos TV Magelang</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/960px-Jawa_Pos_TV_2024.svg.png"/>
+  </channel>
+  <channel id="JawaPosTV.id@Semarang">
+    <display-name>Jawa Pos TV Semarang</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/960px-Jawa_Pos_TV_2024.svg.png"/>
+  </channel>
+  <channel id="JekTV.id@SD">
+    <display-name>Jek TV (720p) [Not 24/7]</display-name>
+    <icon src="https://i.imgur.com/wh75d1f.png"/>
+  </channel>
+  <channel id="JogjaIstimewaTV.id@SD">
+    <display-name>Jogja Istimewa TV</display-name>
+    <icon src="https://i.imgur.com/VEqQfTu.png"/>
+  </channel>
+  <channel id="KTV.id@SD">
+    <display-name>KTV</display-name>
+    <icon src="https://i.imgur.com/j3wtaDc.png"/>
+  </channel>
+  <channel id="KawanuaTV.id@SD">
+    <display-name>Kawanua TV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logo_kawanua_tv.png"/>
+  </channel>
+  <channel id="KilisuciTV.id@SD">
+    <display-name>Kilisuci TV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/id/e/e4/Kilisuci_TV_NEW_LOGO_2016.png"/>
+  </channel>
+  <channel id="MGSTV.id@SD">
+    <display-name>MGSTV (360p) [Not 24/7]</display-name>
+    <icon src="https://i.imgur.com/MYU7dsZ.png"/>
+  </channel>
+  <channel id="MagnaTV.id">
+    <display-name>Magna TV</display-name>
+    <icon src="https://i.imgur.com/xkCrfHz.jpeg"/>
+  </channel>
+  <channel id="MatrixTVYogyakarta.id@HD">
+    <display-name>Matrix TV Yogyakarta</display-name>
+    <icon src="https://stream.matrixtv.id/logo"/>
+  </channel>
+  <channel id="Moji.id@SD">
+    <display-name>Moji [Geo-blocked]</display-name>
+    <icon src="https://i.imgur.com/mM9zapJ.png"/>
+  </channel>
+  <channel id="PJTV.id@SD">
+    <display-name>PJTV</display-name>
+    <icon src="https://i.imgur.com/jxdLWpC.png"/>
+  </channel>
+  <channel id="PKTV.id@SD">
+    <display-name>PKTV</display-name>
+    <icon src="https://i.imgur.com/mldv8Sf.png"/>
+  </channel>
+  <channel id="PONTV.id@SD">
+    <display-name>PONTV</display-name>
+    <icon src="https://i.imgur.com/P5erWzm.png"/>
+  </channel>
+  <channel id="PujaTVAceh.id@SD">
+    <display-name>Puja TV Aceh (1080p) [Not 24/7]</display-name>
+    <icon src="https://i.imgur.com/0TqABCL.png"/>
+  </channel>
+  <channel id="RadarLampungTV.id@SD">
+    <display-name>Radar Lampung TV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/id/4/42/Logo_RadarTV_Lampung.png"/>
+  </channel>
+  <channel id="RadarTasikmalayaTV.id@SD">
+    <display-name>Radar Tasikmalaya TV (720p) [Not 24/7]</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo_Radar_Tasikmalaya_TV.png"/>
+  </channel>
+  <channel id="RajawaliTV.id@SD">
+    <display-name>Rajawali TV (576i)</display-name>
+    <icon src="https://i.imgur.com/dlsv1sl.png"/>
+  </channel>
+  <channel id="RakyatBengkuluTV.id@SD">
+    <display-name>Rakyat Bengkulu TV</display-name>
+    <icon src="https://i.imgur.com/5L2q081.png"/>
+  </channel>
+  <channel id="RodjaTV.id@SD">
+    <display-name>Rodja TV</display-name>
+    <icon src="https://i.imgur.com/XwCeHlC.png"/>
+  </channel>
+  <channel id="SCTV.id@SD">
+    <display-name>SCTV [Geo-blocked]</display-name>
+    <icon src="https://i.imgur.com/EMmOvnQ.png"/>
+  </channel>
+  <channel id="SMTV.id@SD">
+    <display-name>SMTV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/id/6/6e/Logo_SMTV_Sumedang.png"/>
+  </channel>
+  <channel id="STV.id@SD">
+    <display-name>STV (720p) [Not 24/7]</display-name>
+    <icon src="https://i.imgur.com/EIrXgT8.png"/>
+  </channel>
+  <channel id="SampitTV.id@SD">
+    <display-name>Sampit TV (720p) [Not 24/7]</display-name>
+    <icon src="https://i.imgur.com/8cFJa8G.png"/>
+  </channel>
+  <channel id="SangajiTV.id@SD">
+    <display-name>Sangaji TV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/d/df/SANGAJI_TV_JOGJA.jpg"/>
+  </channel>
+  <channel id="SelaparangTV.id@SD">
+    <display-name>Selaparang TV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/id/c/ce/Logo_Selaparang_TV.png"/>
+  </channel>
+  <channel id="Simpang5TV.id@SD">
+    <display-name>Simpang5 TV (360p) [Not 24/7]</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Simpang5_TV.png"/>
+  </channel>
+  <channel id="SoccerChannel.id@SD">
+    <display-name>Soccer Channel</display-name>
+    <icon src="https://i.imgur.com/wuduAXD.png"/>
+  </channel>
+  <channel id="StaraTV.id@SumedangMajalengka">
+    <display-name>Stara TV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png"/>
+  </channel>
+  <channel id="StaraTV.id@Bandung">
+    <display-name>Stara TV Bandung</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png"/>
+  </channel>
+  <channel id="StaraTV.id@Bojonegoro">
+    <display-name>Stara TV Bojonegoro</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png"/>
+  </channel>
+  <channel id="StaraTV.id@Cianjur">
+    <display-name>Stara TV Cianjur</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png"/>
+  </channel>
+  <channel id="StaraTV.id@Jakarta">
+    <display-name>Stara TV Jakarta</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png"/>
+  </channel>
+  <channel id="StaraTV.id@Malang">
+    <display-name>Stara TV Malang</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png"/>
+  </channel>
+  <channel id="StaraTV.id@Parahyangan">
+    <display-name>Stara TV Parahyangan</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png"/>
+  </channel>
+  <channel id="SultraTV.id@SD">
+    <display-name>Sultra TV (720p) [Not 24/7]</display-name>
+    <icon src="https://i.imgur.com/cmpbNJz.png"/>
+  </channel>
+  <channel id="SurauTV.id@SD">
+    <display-name>Surau TV</display-name>
+    <icon src="https://i.imgur.com/CKoxcWL.png"/>
+  </channel>
+  <channel id="TATV.id@SD">
+    <display-name>TATV (720p) [Not 24/7]</display-name>
+    <icon src="https://i.imgur.com/1f0EC7t.png"/>
+  </channel>
+  <channel id="TVMUI.id@SD">
+    <display-name>TV MUI</display-name>
+    <icon src="https://i.imgur.com/vWtViyC.png"/>
+  </channel>
+  <channel id="TVRI.id@SD">
+    <display-name>TVRI (480p) [Geo-blocked]</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png"/>
+  </channel>
+  <channel id="TVRI.id@Riau">
+    <display-name>TVRI Riau (720p) [Not 24/7]</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png"/>
+  </channel>
+  <channel id="TegarTVLampung.id@SD">
+    <display-name>Tegar TV Lampung (480p) [Not 24/7] [Geo-blocked]</display-name>
+    <icon src="https://i.imgur.com/0Vp3f2J.png"/>
+  </channel>
+  <channel id="WesalTV.id@SD">
+    <display-name>Wesal TV (720p) [Not 24/7]</display-name>
+    <icon src="https://i.imgur.com/Uv8RWks.png"/>
+  </channel>
+  <channel id="ZeeBioskop.id@SD">
+    <display-name>Zee Bioskop</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Zee_Bioskop_(2025).svg/960px-Zee_Bioskop_(2025).svg.png"/>
+  </channel>
+  <channel id="dTVi.id@SD">
+    <display-name>dTVi</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/9/90/Logo_DTVI.png"/>
+  </channel>
+  <channel id="tvOne.id@SD">
+    <display-name>tvOne [Geo-blocked]</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/960px-TvOne_2023.svg.png"/>
+  </channel>
+  <channel id="HanacarakaTV.in">
+    <display-name>Hanacaraka TV</display-name>
+    <icon src="https://www.lyngsat.com/logo/tv/hh/hanacaraka-tv-id.png"/>
+  </channel>
+  <channel id="RRINet.id@SD">
+    <display-name>RRI Net</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RRI_NET_2023.svg/960px-RRI_NET_2023.svg.png"/>
+  </channel>
+  <channel id="TVKU.id@SD">
+    <display-name>TVKU</display-name>
+    <icon src="https://i.imgur.com/BAklJGy.png"/>
+  </channel>
+  <channel id="TVRParlemen.id@SD">
+    <display-name>TVR Parlemen (720p) [Not 24/7]</display-name>
+    <icon src="https://i.imgur.com/2XYpmHL.png"/>
+  </channel>
+  <channel id="BiznetKids.id@SD">
+    <display-name>Biznet Kids</display-name>
+    <icon src="https://i.imgur.com/J5QNqJ0.png"/>
+  </channel>
+  <channel id="KidsTV.id@SD">
+    <display-name>Kids TV</display-name>
+    <icon src="https://i.imgur.com/B5YiUIP.png"/>
+  </channel>
+  <channel id="MAXKids.id@SD">
+    <display-name>MAX Kids</display-name>
+    <icon src="https://images.maxstream.tv/sites/default/files/entry/0_ynh2anw4/landscape_carousel_xxhdpi.webp"/>
+  </channel>
+  <channel id="MyKidz.id@SD">
+    <display-name>My Kidz</display-name>
+    <icon src="https://i.imgur.com/qzZFU6d.png"/>
+  </channel>
+  <channel id="BiznetLifestyle.id@SD">
+    <display-name>Biznet Lifestyle</display-name>
+    <icon src="https://i.imgur.com/XqUfQKA.png"/>
+  </channel>
+  <channel id="DensFoodChannel.id@SD">
+    <display-name>Dens Food Channel [Geo-blocked]</display-name>
+    <icon src="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg"/>
+  </channel>
+  <channel id="DensLifeStyle.id@SD">
+    <display-name>Dens Life &amp; Style [Geo-blocked]</display-name>
+    <icon src="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501284_tvchannels_v1.jpg"/>
+  </channel>
+  <channel id="DensPlay.id@SD">
+    <display-name>Dens Play [Geo-blocked]</display-name>
+    <icon src="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg"/>
+  </channel>
+  <channel id="MAXEats.id@SD">
+    <display-name>MAX Eats</display-name>
+    <icon src="https://images.maxstream.tv/sites/default/files/entry/0_z7t4c568/landscape_carousel_xxhdpi.webp"/>
+  </channel>
+  <channel id="MusicInformationChannel.id@SD">
+    <display-name>Music Information Channel</display-name>
+    <icon src="https://i.imgur.com/OUPGCWG.png"/>
+  </channel>
+  <channel id="Prambors.id@SD">
+    <display-name>Prambors</display-name>
+    <icon src="https://images.maxstream.tv/sites/default/files/entry/0_e59etfmm/landscape_carousel_xxhdpi.webp"/>
+  </channel>
+</tv>
