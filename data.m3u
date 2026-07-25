@@ -47,26 +47,8 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
 #EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://i.imgur.com/BGBn0uW.jpeg" group-title="INDONESIA;NASIONAL",ANTV
 https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=dash
 
-#EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHrRRqImnkd9qU4rJ9HNFuEWskwvRD0hOZdg&s" group-title="INDONESIA;NASIONAL",tvOne
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c1Nykgw.jpeg" tvg-id="itzplay.id" group-title="Indonesia;Lainnya;General",TvOne
 https://op-flashcon-digdayahd-1.dens.tv/h/h40/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vl3hQsO.jpeg" tvg-id="itzplay.id" group-title="Indonesia;Lainnya;General",TvOne (Max Stream TV)
-https://cdnbal1.indihometv.com/atm/DASH/tvone/tvone-avc1_2500000=7-3277707030000000.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/28beVbU.jpeg" tvg-id="itzplay.id" group-title="Indonesia;Lainnya;General",TvOne (TransVision)
-https://cdnjkt913.transvision.co.id:1000/live/master/108/2c9f9082998232e0019b35e58e2f5b62/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K31rMbd.jpeg" tvg-id="itzplay.id" group-title="Indonesia;Lainnya;General",TvOne (Vidio)
-https://nextgenz.my.id/event/pidio/play.mpd?id=783&type=dash
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kixyq0o.jpeg" tvg-id="itzplay.id" group-title="Indonesia;Lainnya;General", TvOne (Vision+)
-https://ayo.maling.pl/Vision/index.mpd?id=12
-
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://i.imgur.com/nZkEVmb.jpeg" group-title="INDONESIA;NASIONAL",Trans TV
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
