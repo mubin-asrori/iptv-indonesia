@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- File pelengkap: definisi channel Indonesia (nama + logo) yang belum tercakup -->
-<!-- di EPG utama https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml -->
-<!-- Jadwal acara (programme) sesungguhnya diambil dari EPG utama tsb via url-tvg ganda. -->
-<!-- File ini TIDAK berisi data jadwal acara palsu/karangan. -->
 <tv generator-info-name="iptv-indonesia" generator-info-url="https://github.com/mubin-asrori/iptv-indonesia">
   <channel id="TVRI.id">
     <display-name>TVRI Nasional</display-name>
