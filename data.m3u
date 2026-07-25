@@ -855,7 +855,7 @@ https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 #EXTVLCOPT:http-referrer=https://sangajitv.co.id/
 https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9nGJaOL.jpeg" tvg-id="itzplay.id" group-title="Indonesia;Lainnya;General",SCTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9nGJaOL.jpeg" tvg-id="itzplay.id" group-title="Indonesia;Lainnya;General",NEX
 http://202.169.224.202:8800/udp/239.9.1.29:1234
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yP5KO96.jpeg" tvg-id="itzplay.id" group-title="Indonesia;Lainnya;General", SCTV (TransVision)
