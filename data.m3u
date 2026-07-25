@@ -68,14 +68,24 @@ https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
 
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_metrotv.png" group-title="INDONESIA;NASIONAL",Metro TV (Alt 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
-
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/KOMPAS_TV_%282017%29.svg/200px-KOMPAS_TV_%282017%29.svg.png" group-title="INDONESIA;NASIONAL",Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tv1OIsG.jpeg" tvg-id="itzplay.id" group-title="Indonesia;Lainnya;General",Kompas TV
+https://op-flashcon-digdayahd-1.dens.tv/h/h234/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WYPWQHg.jpeg" tvg-id="itzplay.id" group-title="Indonesia;Lainnya;General",Kompas TV (Max Stream TV)
+https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/KOMPAS_TV-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sz64GWK.jpeg" tvg-id="itzplay.id" group-title="Indonesia;Lainnya;General",Kompas TV (TransVision)
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce2a0d83c16/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qct1cte.jpeg" tvg-id="itzplay.id" group-title="Indonesia;Lainnya;General",Kompas TV (Vidio)
+https://nextgenz.my.id/event/pidio/play.mpd?id=874&type=dash
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d4p7RBy.jpeg" tvg-id="itzplay.id" group-title="Indonesia;Lainnya;General",Kompas TV (Vision+)
+https://ayo.maling.pl/Vision/index.mpd?id=13
 
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kompastv.png" group-title="INDONESIA;NASIONAL",Kompas TV (Alt 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
