@@ -31,9 +31,6 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="INDONESIA;NASIONAL",SCTV
 https://beetv.my.id/stream/vd.m3u8?ch=sctv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LIXv99J.jpeg" tvg-id="itzplay.id" group-title="Indonesia;Lainnya;General",SCTV (Vidio)
-https://beetv.my.id/stream/vd.m3u8?ch=sctv
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SjCylM5.jpeg" tvg-id="Indosiar.id" group-title="Indonesia;Lainnya;General",Indosiar
 http://202.169.224.202:8800/udp/239.9.1.25:1234
 
@@ -43,7 +40,7 @@ https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SjCylM5.jpeg" tvg-id="itzplay.id" group-title="International;Digital Sports", Indosiar Digital
 https://s.id/Shareext_liga1_m3u8
 
-#EXTINF:-1 tvg-id="Moji.id" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_moji.png" group-title="INDONESIA;NASIONAL",Moji (Alt 3)
+#EXTINF:-1 tvg-id="Moji.id" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_moji.png" group-title="INDONESIA;NASIONAL",Moji
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
 
@@ -54,6 +51,22 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c1Nykgw.jpeg" tvg-id="itzplay.id" group-title="Indonesia;Lainnya;General",TvOne
+https://op-flashcon-digdayahd-1.dens.tv/h/h40/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vl3hQsO.jpeg" tvg-id="itzplay.id" group-title="Indonesia;Lainnya;General",TvOne (Max Stream TV)
+https://cdnbal1.indihometv.com/atm/DASH/tvone/tvone-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/28beVbU.jpeg" tvg-id="itzplay.id" group-title="Indonesia;Lainnya;General",TvOne (TransVision)
+https://cdnjkt913.transvision.co.id:1000/live/master/108/2c9f9082998232e0019b35e58e2f5b62/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K31rMbd.jpeg" tvg-id="itzplay.id" group-title="Indonesia;Lainnya;General",TvOne (Vidio)
+https://nextgenz.my.id/event/pidio/play.mpd?id=783&type=dash
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kixyq0o.jpeg" tvg-id="itzplay.id" group-title="Indonesia;Lainnya;General", TvOne (Vision+)
+https://ayo.maling.pl/Vision/index.mpd?id=12
+
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://i.imgur.com/nZkEVmb.jpeg" group-title="INDONESIA;NASIONAL",Trans TV
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
