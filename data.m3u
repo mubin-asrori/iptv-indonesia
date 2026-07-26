@@ -32,14 +32,10 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
 https://cdnjkt913.transvision.co.id:1000/live/master/108/2c9f9082998232e0019b35e7220c5b63/manifest.mpd
 #EXTINF:-1 tvg-id="tvOne.id"tvg-logo="https://i.imgur.com/c1Nykgw.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",TvOne
 https://op-flashcon-digdayahd-1.dens.tv/h/h40/01.m3u8
-#EXTINF:-1 tvg-id="tvOne.id"tvg-logo="https://i.imgur.com/vl3hQsO.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",TvOne
-https://cdnbal1.indihometv.com/atm/DASH/tvone/tvone-avc1_2500000=7-3277707030000000.mpd
 #EXTINF:-1 tvg-id="TransTV.id"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_Trans_TV.png"group-title="Indonesia;Nasional":http-referrer="https://20.detik.com/":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",Trans TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://20.detik.com/
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TransTV.id"tvg-logo="https://i.imgur.com/D6hasMz.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",Trans 7
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 #EXTINF:-1 tvg-id="Trans7.id"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png"group-title="Indonesia;Nasional":http-referrer="https://20.detik.com/":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",Trans 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://20.detik.com/
@@ -49,114 +45,38 @@ https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MetroTV.id"tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_metrotv.png"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",Metro TV (Alt 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
-#EXTINF:-1 tvg-id="MetroTV.id"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/LogoMetroTVsince2010.svg/250px-LogoMetroTVsince2010.svg.png"group-title="Indonesia;Nasional":http-referrer="http://dens.tv":http-user-agent="DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",Metro TV
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
-#EXTINF:-1 tvg-id="MetroTV.id"tvg-logo="https://i.imgur.com/2R5ie25.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",Metro TV (Alt 2)
-https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8?
-#EXTINF:-1 tvg-id="itzplay.id"tvg-logo="https://i.imgur.com/uIiR0jf.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",MetroTV
-https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e548c62390/manifest.mpd
-#EXTINF:-1 tvg-id="itzplay.id"tvg-logo="https://i.imgur.com/IsAZUtl.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",MetroTV (Alt 2)
-https://nextgenz.my.id/event/pidio/play.mpd?id=777&type=dash
-#EXTINF:-1 tvg-id="itzplay.id"tvg-logo="https://i.imgur.com/29uePqf.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",MetroTV (Alt 3)
-https://ayo.maling.pl/Vision/index.mpd?id=14
-#EXTINF:-1 tvg-id="MetroTV.id"tvg-logo="https://i.imgur.com/7f7M7zl.png"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",Metro TV
-https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
-#EXTINF:-1 tvg-id="MetroTV.id"tvg-logo="https://i.imgur.com/BqS8BHi.png"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",Metro TV
-https://s.emisoras.tv:8081/metrotv/index.m3u8
-#EXTINF:-1 tvg-id="MetroTV.id"tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Metro_TV.png"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",Metro TV
-https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8
-#EXTINF:-1 tvg-id="itzplay.id"tvg-logo="https://i.imgur.com/WYPWQHg.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",Kompas TV (Max Stream TV)
+#EXTINF:-1 tvg-id="KompasTV.id"tvg-logo="https://i.imgur.com/WYPWQHg.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",Kompas TV
 https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/KOMPAS_TV-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="KompasTV.id@SD"tvg-logo="https://i.imgur.com/bD6UHeZ.png"group-title="Indonesia;Nasional":http-referrer="https://www.dens.tv/":http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",Kompas TV [Geo-blocked]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
-#EXTINF:-1 tvg-id="KompasTV.id"tvg-logo="https://i.imgur.com/tv1OIsG.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",Kompas TV
-https://op-flashcon-digdayahd-1.dens.tv/h/h234/index.m3u8
-#EXTINF:-1 tvg-id="KompasTV.id"tvg-logo="https://i.imgur.com/Sz64GWK.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",Kompas TV (Alt 3)
-https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce2a0d83c16/manifest.mpd
-#EXTINF:-1 tvg-id="KompasTV.id"tvg-logo="https://i.imgur.com/qct1cte.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",Kompas TV (Alt 4)
-https://nextgenz.my.id/event/pidio/play.mpd?id=874&type=dash
-#EXTINF:-1 tvg-id="KompasTV.id"tvg-logo="https://i.imgur.com/d4p7RBy.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",Kompas TV (Alt 5)
-https://ayo.maling.pl/Vision/index.mpd?id=13
 #EXTINF:-1 tvg-id="MDTV.id"tvg-logo="https://i.imgur.com/N19eGsM.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",MDTV
 https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8
 #EXTINF:-1 tvg-id="MDTV.id"tvg-logo="https://i.imgur.com/oaBCedP.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",MDTV
 http://202.150.161.212:5000/live/channel31/playlist.m3u8
-#EXTINF:-1 tvg-id="MDTV.id"tvg-logo="https://i.imgur.com/gnV06vF.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",MDTV (Alt 2)
-https://ayo.maling.pl/Vision/index.mpd?id=23
-#EXTINF:-1 tvg-id="MDTV.id"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/512px-MDTV_logo.svg.png"group-title="Indonesia;Nasional":http-referrer="https://www.dens.tv/":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",MDTV (Alt 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
-#EXTINF:-1 tvg-id="itzplay.id"tvg-logo="https://i.imgur.com/GJCmtRS.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",MDTV (BN Channel)
-http://157.15.187.3:25092/hls/44/44.m3u8
-#EXTINF:-1 tvg-id="RTV.id"tvg-logo="https://i.imgur.com/v80bOUj.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",RTV
-https://nextgenz.my.id/event/pidio/play.mpd?id=1561&type=dash
 #EXTINF:-1 tvg-id="RTV.id"tvg-logo="https://i.imgur.com/RygqpXd.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",RTV
 https://op-flashcon-digdayahd-1.dens.tv/h/h10/01.m3u8
-#EXTINF:-1 tvg-id="RTV.id"tvg-logo="https://i.imgur.com/AzYrHs1.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",RTV (Alt 2)
-https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce4a1343c17/manifest.mpd
-#EXTINF:-1 tvg-id="RTV.id"tvg-logo="https://i.imgur.com/v80bOUj.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",RTV (Alt 3)
-https://beetv.my.id/stream/vd.m3u8?ch=rtv
-#EXTINF:-1 tvg-id="RTV.id"tvg-logo="https://i.imgur.com/zmUwSVr.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",RTV (Alt 4)
-https://ayo.maling.pl/Vision/index.mpd?id=11
 #EXTINF:-1 tvg-id="RTV.at@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/RTV_OOE_Logo.png"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",RTV (1080p) [Not 24/7]
 http://iptv.rtv-ooe.at/stream.m3u8
-#EXTINF:-1 tvg-id="RTV.id"tvg-logo="https://i.imgur.com/yu8ugqt.png"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",RTV
-https://bozztv.com/rongo/rongo-RTV/index.m3u8
-#EXTINF:-1 tvg-id="RTV.id"tvg-logo="https://i.imgur.com/Vhp7yR7.png"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",RTV
-https://rtv-stream2.a04f922e9e85c8d25ebfeae3dfd22a67.com/rtv/rtv.m3u8
-#EXTINF:-1 tvg-id="BTV.id"tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_btv.png"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",BTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://op-flashcon-digdayaxenkoda.dens.tv/e6550891-6bef-42e1-bab9-13bf4af739ce/stream.m3u8?app_type=web&userid=lite&chname=BTV
-#EXTINF:-1 tvg-id="BTV.id@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/960px-BTV_%28Indonesia%29_logo_%282025%29.svg.png"group-title="Indonesia;Nasional":http-referrer="https://www.dens.tv/":http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",BTV [Geo-blocked]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8
 #EXTINF:-1 tvg-id="BTV.id"tvg-logo="https://i.imgur.com/f6VdpxF.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",BTV
 https://op-flashcon-digdayaxenkoda.dens.tv/e6550891-6bef-42e1-bab9-13bf4af739ce/v0/stream.m3u8
 #EXTINF:-1 tvg-id="BTV.id"tvg-logo="https://i.imgur.com/zCbm66c.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",BTV (Alt 2)
 https://cdnbal1.indihometv.com/atm/DASH/beritasatu/beritasatu-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="BTV.id"tvg-logo="https://i.imgur.com/gY3Sg9d.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",BTV (Alt 3)
-https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c80f0d63bfc/manifest.mpd
-#EXTINF:-1 tvg-id="BTV.id"tvg-logo="https://i.imgur.com/IA4QotS.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",BTV (Alt 4)
-https://ayo.maling.pl/Vision/index.mpd?id=15
 #EXTINF:-1 tvg-id="BTV.id"tvg-logo="https://i.imgur.com/l47z7gw.png"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",BTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a03w
-#EXTINF:-1 tvg-id="BTV.id"tvg-logo="https://i.imgur.com/AeplGsP.png"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",BTV
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/AeplGsP.png"group-title="International;SPORTS":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",BTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/35/index.m3u8
-#EXTINF:-1 tvg-id="BPlusTV.rw@SD"tvg-logo="https://i.ibb.co/WzLwj3X/IMG-20230703-155036.jpg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",B+ TV
+#EXTINF:-1 tvg-id="BPlusTV.rw@SD"tvg-logo="https://i.ibb.co/WzLwj3X/IMG-20230703-155036.jpg"group-title="":http-referrer="":http-user-agent="",B+ TV
 https://tv.btnrwanda.com:3432/live/bpluslive.m3u8
-#EXTINF:-1 tvg-id="BTV.id"tvg-logo="https://i.imgur.com/rcHZ1al.png"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",BTV
-https://streamfi-alphadgtl1.zettawiseroutes.com:8181/hls/stream.m3u8
 #EXTINF:-1 tvg-id="CNNIndonesia.id"tvg-logo="https://download.logo.wine/logo/CNN/CNN-Logo.wine.png"group-title="Indonesia;Nasional":http-referrer="https://www.cnnindonesia.com/":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",CNN Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CNNIndonesia.id"tvg-logo="https://i.imgur.com/PfH7DFq.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",CNN Indonesia
-http://202.169.224.202:8800/udp/239.4.1.3:1234
-#EXTINF:-1 tvg-id="CNNIndonesia.id"tvg-logo="https://i.imgur.com/OOgOYsz.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",CNN Indonesia (Alt 2)
-https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685651d7bcc01651f0e4ce10098/manifest.mpd
-#EXTINF:-1 tvg-id="CNBCIndonesia.id"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/CNBC_Indonesia_2025.svg/960px-CNBC_Indonesia_2025.svg.png"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",CNBC Indonesia (Alt 2)
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-id="CNBCIndonesia.id"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzkYJ6pIswJ939aAjKZ0VERVaLGs0YD4q41g&s"group-title="Indonesia;Nasional":http-referrer="https://www.cnbcindonesia.com/":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",CNBC Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.cnbcindonesia.com/
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CNBCIndonesia.id"tvg-logo="https://i.imgur.com/65DVl7A.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",CNBC Indonesia
-http://rezofoot.tv/CNBC/index.m3u8
-#EXTINF:-1 tvg-id="GarudaTV.id"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwkACcHNc4xZJyvtvGndGHVjfknCJZz4EakA&s"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",Garuda TV
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 #EXTINF:-1 tvg-id="GarudaTV.id"tvg-logo="https://i.imgur.com/sXsAcZ3.png"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",Garuda TV
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
-#EXTINF:-1 tvg-id="GarudaTV.id"tvg-logo="https://i.imgur.com/6neZd9n.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",Garuda TV (Alt 2)
-https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6859645ee4801965cf102264bf3/manifest.mpd
 #EXTINF:-1 tvg-id="NusantaraTV.id"tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_nusantaratv.png"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",Nusantara TV (Alt 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h37/index.m3u8
