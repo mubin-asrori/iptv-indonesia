@@ -1,4 +1,4 @@
-﻿#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://raw.githubusercontent.com/mubin-asrori/iptv-indonesia/main/indonesia.xml"
+﻿#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 #EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="INDONESIA;NASIONAL",TVRI Nasional
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
@@ -34,7 +34,7 @@ https://beetv.my.id/stream/vd.m3u8?ch=sctv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SjCylM5.jpeg" tvg-id="Indosiar.id" group-title="Indonesia;Lainnya;General",Indosiar
 http://202.169.224.202:8800/udp/239.9.1.25:1234
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Indonesia;Lainnya;NASIONAL",INDOSIAR ID
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Indonesia;Nasional",INDOSIAR ID
 https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SjCylM5.jpeg" tvg-id="itzplay.id" group-title="International;Digital Sports", Indosiar Digital
@@ -55,7 +55,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h40/01.m3u8
 #EXTVLCOPT:http-referrer=https://20.detik.com/
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png" group-title="Indonesia;Lainnya;General", Trans 7
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png" group-title="Indonesia;Nasional", Trans 7
 #EXTVLCOPT:http-origin=https://20.detik.com/
 #EXTVLCOPT:http-referrer=https://20.detik.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
@@ -4744,7 +4744,7 @@ https://ip.pdtvhd.com/LiveApp/streams/btv.m3u8
 https://ip.pdtvhd.com/Khmer/streams/bayon.m3u8
 
 #EXTINF:-1 tvg-id="itzplay.id" tvg-logo="https://i.imgur.com/sDqnK8p.jpeg" group-title="CAMBODIA;NASIONAL",TV5 Cambodia
-httpss://live.kh.malimarcdn.com/live/tv5.stream/playlist.m3u8
+https://live.kh.malimarcdn.com/live/tv5.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BTVNews.kh@SD" tvg-logo="https://i.imgur.com/sUHiRj3.png" group-title="CAMBODIA;NEWS",BTV News
 https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
@@ -22579,8 +22579,6 @@ https://opplextv.cyou:8080/nasir6160/nasir/346243
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&userid=lite&chname=Motorvision%2B
 
-#EXTINF:-1 tvg-id="itzplay.id" tvg-logo="non" group-title="INTERNATIONAL;SPORTS",MotoGP
-httpsVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="MotorvisionTV.in" tvg-logo="https://motorvision.tv/wp-content/uploads/2023/09/MV_Plus_Logo_1920x1080.png" group-title="INTERNATIONAL;SPORTS",Motorvision TV
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
