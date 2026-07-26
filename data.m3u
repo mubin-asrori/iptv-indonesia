@@ -21,26 +21,10 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
-#EXTINF:-1 tvg-id="SCTV.id"tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",SCTV
-https://beetv.my.id/stream/vd.m3u8?ch=sctv
 #EXTINF:-1 tvg-id="SCTV.id"tvg-logo="https://i.imgur.com/9nGJaOL.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",SCTV
 http://202.169.224.202:8800/udp/239.9.1.29:1234
-#EXTINF:-1 tvg-id="SCTV.id"tvg-logo="https://i.imgur.com/yP5KO96.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",SCTV (Alt 2)
-https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd
-#EXTINF:-1 tvg-id="SCTV.id@SD"tvg-logo="https://i.imgur.com/EMmOvnQ.png"group-title="Indonesia;Nasional":http-referrer="https://www.dens.tv/":http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",SCTV [Geo-blocked]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 #EXTINF:-1 tvg-id="Indosiar.id"tvg-logo="https://i.imgur.com/SjCylM5.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",Indosiar
 http://202.169.224.202:8800/udp/239.9.1.25:1234
-#EXTINF:-1 tvg-id="Indosiar.id"tvg-logo="https://i.imgur.com/KmQfExr.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",Indosiar (Alt 2)
-https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
-#EXTINF:-1 tvg-id="Indosiar.id"tvg-logo="https://i.imgur.com/exHEZba.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",Indosiar (Alt 3)
-https://beetv.my.id/stream/vd.m3u8?ch=indosiar
-#EXTINF:-1 tvg-id="Indosiar.id"tvg-logo="https://i.imgur.com/Sq4o7Q1.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",Indosiar (Alt 4)
-https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
-#EXTINF:-1 tvg-id="Indosiar.id"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",INDOSIAR ID
-https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd
 #EXTINF:-1 tvg-id="Moji.id"tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_moji.png"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",Moji
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
