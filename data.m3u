@@ -55,14 +55,12 @@ http://202.150.161.212:5000/live/channel31/playlist.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h10/01.m3u8
 #EXTINF:-1 tvg-id="RTV.at@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/RTV_OOE_Logo.png"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",RTV (1080p) [Not 24/7]
 http://iptv.rtv-ooe.at/stream.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/f6VdpxF.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",BTV
-https://op-flashcon-digdayaxenkoda.dens.tv/e6550891-6bef-42e1-bab9-13bf4af739ce/v0/stream.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/zCbm66c.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",BTV (Alt 2)
+#EXTINF:-1 tvg-id="BTV.id"tvg-logo="https://i.imgur.com/zCbm66c.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",BTV (Alt 2)
 https://cdnbal1.indihometv.com/atm/DASH/beritasatu/beritasatu-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/l47z7gw.png"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",BTV
+#EXTINF:-1 tvg-id="BTV.id"tvg-logo="https://i.imgur.com/l47z7gw.png"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",BTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a03w
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/AeplGsP.png"group-title="International;SPORTS":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",BTV
+#EXTINF:-1 tvg-id="BTV.id"tvg-logo="https://i.imgur.com/AeplGsP.png"group-title="International;SPORTS":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",BTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/35/index.m3u8
 #EXTINF:-1 tvg-id="BPlusTV.rw@SD"tvg-logo="https://i.ibb.co/WzLwj3X/IMG-20230703-155036.jpg"group-title="":http-referrer="":http-user-agent="",B+ TV
@@ -84,41 +82,13 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h37/index.m3u8
 http://40.160.24.55/TV_ONE/index.m3u8
 #EXTINF:-1 tvg-id="NusantaraTV.id"tvg-logo="https://i.imgur.com/EzirkhZ.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="NusantaraTV.id"tvg-logo="https://i.imgur.com/DY4H3t9.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",Nusantara TV (Alt 2)
-https://cdnbal1.indihometv.com/atm/DASH/nusantaratv/nusantaratv-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="BTV.id"tvg-logo="https://i.imgur.com/PE8YCX1.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",BeritaSatu
-https://op-flashcon-digdayaxenkoda.dens.tv/3118a881-f091-4bd1-b479-3096e823e3ec/v0/stream.m3u8
-#EXTINF:-1 tvg-id="BTV.id"tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-satu-news-channel-id.png"group-title="Indonesia;Nasional":http-referrer="https://www.dens.tv/":http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",BeritaSatu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8?app_type=web&userid=lite&chname=Berita_Sat
-#EXTINF:-1 tvg-id="BTV.id"tvg-logo="https://i.imgur.com/8SZNwKw.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",BeritaSatu (Alt 2)
-https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6859645ee4801965cd06bed442f/manifest.mpd
-#EXTINF:-1 tvg-id="BTV.id"tvg-logo="https://i.ibb.co.com/jyJ1TG0/latest-1.png"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",BeritaSatu
-http://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
 #EXTINF:-1 tvg-id="DAAITV.id"tvg-logo="https://i.imgur.com/YC7JCHo.png"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",DAAI TV
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
-#EXTINF:-1 tvg-id="DAAITV.id"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsESlZzrBmSfJgLESkGisoFXxwQRGlqzIDDA&s"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",DAAI TV
-https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mediampd/DAAITV.mpd
 #EXTINF:-1 tvg-id="MentariTV.id"tvg-logo="https://i.imgur.com/eXkztpM.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",Mentari TV
 https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C80nmAc3kfgfnlJ4q2odTO7M/ts
-#EXTINF:-1 tvg-id="MentariTV.id"tvg-logo="https://i.imgur.com/QTJzCUJ.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",Mentari TV
-https://aspaltvpasti.top/11111/8237.mpd
-#EXTINF:-1 tvg-id="MENTARITV1.in"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPJKWUxYUQeWs-g3hBQHHFC9w9QaIyy7iw4w&s"group-title="Indonesia;Nasional":http-referrer="https://www.visionplustv.id/":http-user-agent="",MENTARI TV (1)
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
-#EXTINF:-1 tvg-id="MENTARITV2.in"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPJKWUxYUQeWs-g3hBQHHFC9w9QaIyy7iw4w&s"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",MENTARI TV (2)
-https://shorter.me/n8flj
-#EXTINF:-1 tvg-id="MagnaChannel.id@SD"tvg-logo="https://i.imgur.com/tfJo0SO.png"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",Magna Channel (1080p) [Not 24/7]
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BNChannel.id"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/BN_Channel.png/960px-BN_Channel.png"group-title="Indonesia;Nasional":http-referrer="https://youtv.live/":http-user-agent="",BN Channel
 #EXTVLCOPT:http-referrer=https://youtv.live/
 https://flv.intechmedia.net/live/ch112.m3u8
-#EXTINF:-1 tvg-id="BNChannel.id"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/BN_Channel.png"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0",BN Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
-#EXTINF:-1 tvg-id="BNChannel.id"tvg-logo="https://i.imgur.com/wkTC2SN.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",BN Channel (Alt 2)
-http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 #EXTINF:-1 tvg-id="VTV.id"tvg-logo="https://i.imgur.com/WlXlnto.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",VTV
 http://157.15.187.3:25092/hls/47/47.m3u8
 #EXTINF:-1 tvg-id="VTV.id"tvg-logo="https://i.imgur.com/WlXlnto.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",VTV (Alt 2)
