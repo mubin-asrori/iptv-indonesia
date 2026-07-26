@@ -9,47 +9,18 @@ https://cdnbal1.indihometv.com/atm/DASH/tvriworld/tvriworld-avc1_2500000=7-32777
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
-#EXTINF:-1 tvg-id="RCTI.id"tvg-logo="https://i.imgur.com/SXPdO7L.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",RCTI
-https://cdnbal1.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="RCTI.id"tvg-logo="https://i.imgur.com/dEDy7im.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",RCTI (Alt 2)
-https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd
-#EXTINF:-1 tvg-id="RCTI.id"tvg-logo="https://i.imgur.com/K6mshLr.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",RCTI (Alt 3)
-http://tvratu.my.id/nissa/index.mpd?id=665&type=dash
 #EXTINF:-1 tvg-id="MNCTV.id"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/MNCTV_MNC-Group.png"group-title="Indonesia;Nasional":http-referrer="https://www.rctiplus.com/":http-user-agent="android-R+",MNCTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
-#EXTINF:-1 tvg-id="MNCTV.id"tvg-logo="https://i.imgur.com/4euv3TX.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",MNCTV
-https://cdnbal1.indihometv.com/atm/DASH/mnctv/mnctv-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="MNCTV.id"tvg-logo="https://i.imgur.com/p7OVJRd.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",MNCTV (Alt 2)
-https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd
-#EXTINF:-1 tvg-id="MNCTV.id"tvg-logo="https://i.imgur.com/gQwrWns.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",MNCTV (Alt 3)
-http://tvratu.my.id/nissa/index.mpd?id=870&type=dash
 #EXTINF:-1 tvg-id="GTV.id"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png"group-title="Indonesia;Nasional":http-referrer="https://www.rctiplus.com/":http-user-agent="android-R+",GTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
-#EXTINF:-1 tvg-id="GTV.id"tvg-logo="https://i.imgur.com/hCjYsYV.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",GTV
-https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="GTV.id"tvg-logo="https://i.imgur.com/GHZ2OWX.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",GTV (Alt 2)
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.mpd
-#EXTINF:-1 tvg-id="GTV.id"tvg-logo="https://i.imgur.com/L0yy1tX.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",GTV (Alt 3)
-http://tvratu.my.id/index.mpd?id=778&type=dash
-#EXTINF:-1 tvg-id="GTV.id"tvg-logo="https://i.imgur.com/tUUuRZR.png"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",GTV
-https://lbgo.bozztv.com/ssh101/ssh101/guadalupetv/playlist.m3u8
-#EXTINF:-1 tvg-id="GTV.id"tvg-logo="https://i.imgur.com/5cFLWKO.png"group-title="Indonesia;Nasional":http-referrer="https://liveghanatv.com/":http-user-agent="",GTV
-#EXTVLCOPT:http-referrer=https://liveghanatv.com/
-https://g2qd3exjy7an-hls-live.5centscdn.com/gtvghana/ghanaweb.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="GTV.ph@SD"tvg-logo="https://i.imgur.com/rWhamwh.png"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",GTV (480p) [Not 24/7]
-https://streams.comclark.com/pknsd/gtv/playlist.m3u8
 #EXTINF:-1 tvg-id="iNews.id"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png"group-title="Indonesia;Nasional":http-referrer="https://www.rctiplus.com/":http-user-agent="android-R+",iNews
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
-#EXTINF:-1 tvg-id="iNews.id"tvg-logo="https://i.imgur.com/Uh6DXoh.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",iNews
-https://ratuvidio.nissa/index.mpd?id=5409&type=dash
-#EXTINF:-1 tvg-id="INews.in@SD"tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/I_News.png"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",INews
-https://cdn-1.pishow.tv/live/411/master.m3u8
 #EXTINF:-1 tvg-id="SCTV.id"tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",SCTV
 https://beetv.my.id/stream/vd.m3u8?ch=sctv
 #EXTINF:-1 tvg-id="SCTV.id"tvg-logo="https://i.imgur.com/9nGJaOL.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",SCTV
@@ -3558,6 +3529,8 @@ http://103.72.101.252:8080/live/585.m3u8
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-id="Zoom.in@Global"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png"group-title="India;MUSIC":http-referrer="":http-user-agent="",Zoom Global
 https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
+#EXTINF:-1 tvg-id="INews.in@SD"tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/I_News.png"group-title="India;NEWS":http-referrer="":http-user-agent="",INews
+https://cdn-1.pishow.tv/live/411/master.m3u8
 #EXTINF:-1 tvg-id="10TV.in@SD"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_10TV/images/LOGO_HD/image.png"group-title="India;NEWS":http-referrer="":http-user-agent="",10 TV
 https://mumbai-edge.smartplaytv.in/10TV/index.m3u8
 #EXTINF:-1 tvg-id="22ScopeNews.in@SD"tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/22Scope_News.png"group-title="India;NEWS":http-referrer="":http-user-agent="",22Scope News
