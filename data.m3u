@@ -28,51 +28,17 @@ http://202.169.224.202:8800/udp/239.9.1.25:1234
 #EXTINF:-1 tvg-id="Moji.id"tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_moji.png"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",Moji
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
-#EXTINF:-1 tvg-id="Moji.id"tvg-logo="https://i.imgur.com/rtylD4X.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",Moji
-http://202.150.161.212:5000/live/channel39/playlist.m3u8
-#EXTINF:-1 tvg-id="Moji.id"tvg-logo="https://i.imgur.com/cfJQljk.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",Moji (Alt 2)
-http://tvratu.my.id/nissa/index.mpd?id=206&type=dash
-#EXTINF:-1 tvg-id="Moji.id"tvg-logo="https://i.imgur.com/TQSo7aU.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",Moji (Alt 3)
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2f1c4190dcf045c9aafc447d54ef7c91/index.mpd
-#EXTINF:-1 tvg-id="Moji.id@SD"tvg-logo="https://i.imgur.com/mM9zapJ.png"group-title="Indonesia;Nasional":http-referrer="https://www.dens.tv/":http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",Moji [Geo-blocked]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
-#EXTINF:-1 tvg-id="ANTV.id"tvg-logo="https://i.imgur.com/BGBn0uW.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",ANTV
-https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=dash
 #EXTINF:-1 tvg-id="ANTV.id"tvg-logo="https://i.imgur.com/39OgfY9.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",ANTV
 https://cdnjkt913.transvision.co.id:1000/live/master/108/2c9f9082998232e0019b35e7220c5b63/manifest.mpd
-#EXTINF:-1 tvg-id="ANTV.id"tvg-logo="https://i.imgur.com/kPWs50J.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",ANTV (Alt 3)
-https://ayo.maling.pl/Vision/index.mpd?id=10
-#EXTINF:-1 tvg-id="ANTV.id"tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1a/ANTV_2023.png/revision/latest/scale-to-width-down/512?path-prefix=vi"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",ANTV
-https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8
-#EXTINF:-1 tvg-id="itzplay.id"tvg-logo="https://i.imgur.com/c1Nykgw.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",TvOne
+#EXTINF:-1 tvg-id="tvOne.id"tvg-logo="https://i.imgur.com/c1Nykgw.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",TvOne
 https://op-flashcon-digdayahd-1.dens.tv/h/h40/01.m3u8
-#EXTINF:-1 tvg-id="itzplay.id"tvg-logo="https://i.imgur.com/vl3hQsO.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",TvOne
+#EXTINF:-1 tvg-id="tvOne.id"tvg-logo="https://i.imgur.com/vl3hQsO.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",TvOne
 https://cdnbal1.indihometv.com/atm/DASH/tvone/tvone-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="tvOne.id"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHrRRqImnkd9qU4rJ9HNFuEWskwvRD0hOZdg&s"group-title="Indonesia;Nasional":http-referrer="http://dens.tv":http-user-agent="DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",tvOne
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
-#EXTINF:-1 tvg-id="itzplay.id"tvg-logo="https://i.imgur.com/28beVbU.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",TvOne (Alt 2)
-https://cdnjkt913.transvision.co.id:1000/live/master/108/2c9f9082998232e0019b35e58e2f5b62/manifest.mpd
-#EXTINF:-1 tvg-id="itzplay.id"tvg-logo="https://i.imgur.com/K31rMbd.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",TvOne (Alt 3)
-https://nextgenz.my.id/event/pidio/play.mpd?id=783&type=dash
-#EXTINF:-1 tvg-id="itzplay.id"tvg-logo="https://i.imgur.com/kixyq0o.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",TvOne (Alt 4)
-https://ayo.maling.pl/Vision/index.mpd?id=12
-#EXTINF:-1 tvg-id="tvOne.id@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/960px-TvOne_2023.svg.png"group-title="Indonesia;Nasional":http-referrer="https://www.dens.tv/":http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",tvOne [Geo-blocked]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
-#EXTINF:-1 tvg-id="tvOne.id"tvg-logo="https://i.imgur.com/qkbRslf.png"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",tvOne
-http://92.114.85.72:8000/play/a070
-#EXTINF:-1 tvg-id="TVOne.us@SD"tvg-logo="https://i.imgur.com/tthm8Q5.png"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",TV One
-http://40.160.24.55/TV_ONE/index.m3u8
 #EXTINF:-1 tvg-id="TransTV.id"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_Trans_TV.png"group-title="Indonesia;Nasional":http-referrer="https://20.detik.com/":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",Trans TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://20.detik.com/
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="itzplay.id"tvg-logo="https://i.imgur.com/D6hasMz.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",Trans 7
+#EXTINF:-1 tvg-id="TransTV.id"tvg-logo="https://i.imgur.com/D6hasMz.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",Trans 7
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 #EXTINF:-1 tvg-id="Trans7.id"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png"group-title="Indonesia;Nasional":http-referrer="https://20.detik.com/":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",Trans 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
@@ -194,6 +160,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6859645ee4801965cf10
 #EXTINF:-1 tvg-id="NusantaraTV.id"tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_nusantaratv.png"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",Nusantara TV (Alt 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h37/index.m3u8
+#EXTINF:-1 tvg-id="TVOne.us@SD"tvg-logo="https://i.imgur.com/tthm8Q5.png"group-title="United Kingdom;NEWS":http-referrer="":http-user-agent="",TV One
+http://40.160.24.55/TV_ONE/index.m3u8
 #EXTINF:-1 tvg-id="NusantaraTV.id"tvg-logo="https://i.imgur.com/EzirkhZ.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="NusantaraTV.id"tvg-logo="https://i.imgur.com/DY4H3t9.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",Nusantara TV (Alt 2)
