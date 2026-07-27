@@ -9,10 +9,6 @@ https://cdnbal1.indihometv.com/atm/DASH/tvriworld/tvriworld-avc1_2500000=7-32777
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
-#EXTINF:-1 tvg-id="SinPoTV.id"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/500px-Sin_Po_TV.svg.png"group-title="Indonesia;Lainnya;NASIONAL":http-referrer="":http-user-agent="",Sinpo TV
-https://cdnbal1.indihometv.com/atm/DASH/sinpotv/sinpotv-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="SinPoTV.id"tvg-logo="https://i.imgur.com/5ADGyWF.jpeg"group-title="Indonesia;Lainnya;GENERAL":http-referrer="":http-user-agent="",Sinpo TV
-https://ratu77.adptv.workers.dev/index.mpd?id=19046&type=dash
 #EXTINF:-1 tvg-id="MNCTV.id"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/MNCTV_MNC-Group.png"group-title="Indonesia;Nasional":http-referrer="https://www.rctiplus.com/":http-user-agent="android-R+",MNCTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -76,6 +72,8 @@ https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h37/index.m3u8
 #EXTINF:-1 tvg-id="NusantaraTV.id"tvg-logo="https://i.imgur.com/EzirkhZ.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="SinPoTV.id"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/500px-Sin_Po_TV.svg.png"group-title="Indonesia;Lainnya;NASIONAL":http-referrer="":http-user-agent="",Sinpo TV
+https://cdnbal1.indihometv.com/atm/DASH/sinpotv/sinpotv-avc1_2500000=7-3277707030000000.mpd
 #EXTINF:-1 tvg-id="DAAITV.id"tvg-logo="https://i.imgur.com/YC7JCHo.png"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",DAAI TV
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 #EXTINF:-1 tvg-id="MentariTV.id"tvg-logo="https://i.imgur.com/eXkztpM.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",Mentari TV
