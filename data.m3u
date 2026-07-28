@@ -325,10 +325,10 @@ https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 #EXTINF:-1 tvg-id="JogjaTV.in" tvg-logo="https://iili.io/Jbto3jS.png" group-title="Indonesia;Lokal - Jawa Tengah & DI Yogyakarta" http-referrer="" http-user-agent="",Jogja TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 
-#EXTINF:-1 tvg-id="TATV.in" tvg-logo="https://iili.io/Jbtnakl.png" group-title="Indonesia;Lokal - Jawa Tengah & DI Yogyakarta" http-referrer="" http-user-agent="",TATV
+#EXTINF:-1 tvg-id="MTATV.id" tvg-logo="https://iili.io/Jbtnakl.png" group-title="Indonesia;Lokal - Jawa Tengah & DI Yogyakarta" http-referrer="" http-user-agent="",TATV
 https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TATV.id" tvg-logo="https://i.imgur.com/1f0EC7t.png" group-title="Indonesia;Lokal - Jawa Tengah & DI Yogyakarta" http-referrer="" http-user-agent="",TATV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="MTATV.id" tvg-logo="https://i.imgur.com/1f0EC7t.png" group-title="Indonesia;Lokal - Jawa Tengah & DI Yogyakarta" http-referrer="" http-user-agent="",TATV (720p) [Not 24/7]
 https://v2.siar.us/tatv/live.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SemarangTV.id" tvg-logo="https://i.imgur.com/KFC2WSB.png" group-title="Indonesia;Lokal - Jawa Tengah & DI Yogyakarta" http-referrer="" http-user-agent="",Semarang TV
@@ -742,7 +742,7 @@ https://indihuy.streamized.net/atm/DASH/useeprime/manifest.mpd
 #EXTVLCOPT:http-referrer=maxstream.tv/tv-channels
 https://indihuy.streamized.net/atm/DASH/useesport/manifest.mpd
 
-#EXTINF:-1 tvg-id="MAXStreak.id" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_720wy4x6/landscape_carousel_xxhdpi.webp" group-title="Indonesia;Lainnya;ENTERTAINMENT" http-referrer="maxstream.tv/tv-channels" http-user-agent="",MAX Streak
+#EXTINF:-1 tvg-id="Maxstream.id" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_720wy4x6/landscape_carousel_xxhdpi.webp" group-title="Indonesia;Lainnya;ENTERTAINMENT" http-referrer="maxstream.tv/tv-channels" http-user-agent="",MAX Streak
 #EXTVLCOPT:http-referrer=maxstream.tv/tv-channels
 https://indihuy.streamized.net/atm/DASH/maxstreak/manifest.mpd
 
@@ -3653,7 +3653,7 @@ http://103.72.101.252:8080/live/420.m3u8
 #EXTINF:-1 tvg-id="JayaTV.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JAYA_TV/images/LOGO_HD/image.png" group-title="India;CULTURE" http-referrer="" http-user-agent="",Jaya TV
 http://103.72.101.252:8080/live/419.m3u8
 
-#EXTINF:-1 tvg-id="OdishaTV.in" tvg-logo="https://dtil.tmsimg.com/assets/s143639_ld_h15_aa.png?lock=720x540" group-title="India;CULTURE" http-referrer="" http-user-agent="",Odisha TV
+#EXTINF:-1 tvg-id="Disha.tv.in" tvg-logo="https://dtil.tmsimg.com/assets/s143639_ld_h15_aa.png?lock=720x540" group-title="India;CULTURE" http-referrer="" http-user-agent="",Odisha TV
 https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SanskarTV.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANSKAR/images/LOGO_HD/image.png" group-title="India;CULTURE" http-referrer="" http-user-agent="",Sanskar TV
@@ -3686,10 +3686,10 @@ http://103.72.101.252:8080/live/400.m3u8
 #EXTINF:-1 tvg-id="EVidya10.in" tvg-logo="https://i.imgur.com/0sz6t9F.png" group-title="India;EDUCATION" http-referrer="" http-user-agent="",E-Vidya 10
 http://103.72.101.252:8080/live/411.m3u8
 
-#EXTINF:-1 tvg-id="EVidya11.in" tvg-logo="https://i.imgur.com/0sz6t9F.png" group-title="India;EDUCATION" http-referrer="" http-user-agent="",E-Vidya 11
+#EXTINF:-1 tvg-id="PM.e.Vidya.11.in" tvg-logo="https://i.imgur.com/0sz6t9F.png" group-title="India;EDUCATION" http-referrer="" http-user-agent="",E-Vidya 11
 http://103.72.101.252:8080/live/1410.m3u8
 
-#EXTINF:-1 tvg-id="EVidya12.in" tvg-logo="https://i.imgur.com/0sz6t9F.png" group-title="India;EDUCATION" http-referrer="" http-user-agent="",E-Vidya 12
+#EXTINF:-1 tvg-id="PM.e.Vidya.12.in" tvg-logo="https://i.imgur.com/0sz6t9F.png" group-title="India;EDUCATION" http-referrer="" http-user-agent="",E-Vidya 12
 http://103.72.101.252:8080/live/1532.m3u8
 
 #EXTINF:-1 tvg-id="EVidya2.in" tvg-logo="https://i.imgur.com/0sz6t9F.png" group-title="India;EDUCATION" http-referrer="" http-user-agent="",E-Vidya 2
@@ -3716,7 +3716,7 @@ http://103.72.101.252:8080/live/409.m3u8
 #EXTINF:-1 tvg-id="EVidya9.in" tvg-logo="https://i.imgur.com/0sz6t9F.png" group-title="India;EDUCATION" http-referrer="" http-user-agent="",E-Vidya 9
 http://103.72.101.252:8080/live/410.m3u8
 
-#EXTINF:-1 tvg-id="Gyandarshan.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GYANDARSHAN/images/LOGO_HD/image.png" group-title="India;EDUCATION" http-referrer="" http-user-agent="",Gyandarshan
+#EXTINF:-1 tvg-id="DD.Gyandarshan.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GYANDARSHAN/images/LOGO_HD/image.png" group-title="India;EDUCATION" http-referrer="" http-user-agent="",Gyandarshan
 https://cdn-6.pishow.tv/live/14/master.m3u8
 
 #EXTINF:-1 tvg-id="KITE.VICTERS.in" tvg-logo="https://i.imgur.com/kj4OEsb.png" group-title="India;EDUCATION" http-referrer="" http-user-agent="",KITE Victers (Kerala) (720p) [Not 24/7]
@@ -3918,7 +3918,7 @@ https://trs1.aynaott.com/e24/index.m3u8
 #EXTINF:-1 tvg-id="EETTV.in" tvg-logo="https://i.imgur.com/rMldFW8.png" group-title="India;ENTERTAINMENT" http-referrer="" http-user-agent="",EET TV (1080p) [Not 24/7]
 https://live.streamjo.com/eetlive/eettv.m3u8
 
-#EXTINF:-1 tvg-id="Enterr10Bangla.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ENTERR10_BANGLA/images/LOGO_HD/image.png" group-title="India;ENTERTAINMENT" http-referrer="" http-user-agent="",Enterr 10 Bangla (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ENTER10.BANGLA.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ENTERR10_BANGLA/images/LOGO_HD/image.png" group-title="India;ENTERTAINMENT" http-referrer="" http-user-agent="",Enterr 10 Bangla (720p) [Not 24/7]
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EPIC.TV.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_EPIC/images/LOGO_HD/image.png" group-title="India;ENTERTAINMENT" http-referrer="" http-user-agent="",Epic TV
@@ -4247,7 +4247,7 @@ http://103.72.101.252:8080/live/1209.m3u8
 #EXTINF:-1 tvg-id="Kaumudy.TV.in" tvg-logo="https://dtil.tmsimg.com/assets/s143259_ld_h15_aa.png?lock=720x540" group-title="India;GENERAL" http-referrer="" http-user-agent="",Kaumudy TV
 https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KTVBangla.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/2f8e3b371c660faa2f43a7f0942948a4.png" group-title="India;GENERAL" http-referrer="" http-user-agent="",KTV Bangla
+#EXTINF:-1 tvg-id="NK.TV.Bangla.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/2f8e3b371c660faa2f43a7f0942948a4.png" group-title="India;GENERAL" http-referrer="" http-user-agent="",KTV Bangla
 https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
 
 #EXTINF:-1 tvg-id="Makkal.TV.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MAKKAL_TV/images/LOGO_HD/image.png" group-title="India;GENERAL" http-referrer="" http-user-agent="",Makkal TV (576i)
@@ -4550,7 +4550,7 @@ https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
 #EXTINF:-1 tvg-id="RomedyNow.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ROMEDY_NOW/images/LOGO_HD/image.png" group-title="India;MOVIES" http-referrer="" http-user-agent="",Romedy Now
 http://103.157.248.140:8000/play/a015/index.m3u8
 
-#EXTINF:-1 tvg-id="ShemarooFilmiGaane.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/0d5b07555b2d4415aa9f145273095ed7.png" group-title="India;MOVIES" http-referrer="" http-user-agent="",Shemaroo Filmi Gaane
+#EXTINF:-1 tvg-id="Shemaroo.Filmy.Gaane.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/0d5b07555b2d4415aa9f145273095ed7.png" group-title="India;MOVIES" http-referrer="" http-user-agent="",Shemaroo Filmi Gaane
 http://103.213.31.109:90/ShemarooFilmiGaane/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ShemarooJosh.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00297P3E.png?lock=720x540" group-title="India;MOVIES" http-referrer="" http-user-agent="",Shemaroo Josh
@@ -4862,7 +4862,7 @@ https://yupprestreamliveus.akamaized.net/vglive-sk-355289/majha/master.m3u8
 #EXTINF:-1 tvg-id="ABP.NEWS.in" tvg-logo="https://dtil.tmsimg.com/assets/s158138_ld_h15_aa.png?lock=720x540" group-title="India;NEWS" http-referrer="" http-user-agent="",ABP News
 https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-472500/abpnews/master.m3u8
 
-#EXTINF:-1 tvg-id="AKDCalcuttaNews.in" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Calcutta%20News.png" group-title="India;NEWS" http-referrer="" http-user-agent="",AKD Calcutta News
+#EXTINF:-1 tvg-id="Calcutta.News.in" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Calcutta%20News.png" group-title="India;NEWS" http-referrer="" http-user-agent="",AKD Calcutta News
 https://live.legitpro.co.in/cnnnews/index.m3u8
 
 #EXTINF:-1 tvg-id="AmarUjala.in" tvg-logo="https://i.imgur.com/ndQ8LZp.png" group-title="India;NEWS" http-referrer="" http-user-agent="",AmarUjala
@@ -5148,13 +5148,13 @@ https://n18syndication.akamaized.net/bpk-tv/News18_Kannada_NW18_MOB/output01/mas
 #EXTINF:-1 tvg-id="News18Kerala.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_KERALA/images/LOGO_HD/image.png" group-title="India;NEWS" http-referrer="" http-user-agent="",News18 Kerala
 https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/master.m3u8
 
-#EXTINF:-1 tvg-id="News18MadhyaPradeshChhattisgarh.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_MADHYA_PRADESH_CHHATTISGARH/images/LOGO_HD/image.png" group-title="India;NEWS" http-referrer="" http-user-agent="",News18 Madhya Pradesh/Chhattisgarh
+#EXTINF:-1 tvg-id="Zee.Madhya.Pradesh.Chhattisgarh.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_MADHYA_PRADESH_CHHATTISGARH/images/LOGO_HD/image.png" group-title="India;NEWS" http-referrer="" http-user-agent="",News18 Madhya Pradesh/Chhattisgarh
 https://n18syndication.akamaized.net/bpk-tv/News18_MP_Chhattisgarh_NW18_MOB/output01/master.m3u8
 
 #EXTINF:-1 tvg-id="News18Marathi.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_LOKMAT/images/LOGO_HD/image.png" group-title="India;NEWS" http-referrer="" http-user-agent="",News18 Marathi
 https://n18syndication.akamaized.net/bpk-tv/News18_Lokmat_NW18_MOB/output01/master.m3u8
 
-#EXTINF:-1 tvg-id="News18Odia.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_ODIA/images/LOGO_HD/image.png" group-title="India;NEWS" http-referrer="" http-user-agent="",News18 Odia
+#EXTINF:-1 tvg-id="News.8.Odia.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_ODIA/images/LOGO_HD/image.png" group-title="India;NEWS" http-referrer="" http-user-agent="",News18 Odia
 https://n18syndication.akamaized.net/bpk-tv/News18_Odia_NW18_MOB/output01/master.m3u8
 
 #EXTINF:-1 tvg-id="News18.Punjab.Haryana.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_PUNJAB_HARYANA/images/LOGO_HD/image.png" group-title="India;NEWS" http-referrer="" http-user-agent="",News18 Punjab/Haryana/Himachal
@@ -5169,7 +5169,7 @@ https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/
 #EXTINF:-1 tvg-id="News18Urdu.in" tvg-logo="https://i.imgur.com/8xnwMRR.png" group-title="India;NEWS" http-referrer="" http-user-agent="",News18 Urdu
 https://n18syndication.akamaized.net/bpk-tv/News18_Urdu_NW18_MOB/output01/master.m3u8
 
-#EXTINF:-1 tvg-id="News18UttarPradeshUttarakhand.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_UTTAR_PRADESH_UTTARAKHAND/images/LOGO_HD/image.png" group-title="India;NEWS" http-referrer="" http-user-agent="",News18 Uttar Pradesh Uttarakhand
+#EXTINF:-1 tvg-id="Zee.News.Uttar.Pradesh.Uttrakhand.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_UTTAR_PRADESH_UTTARAKHAND/images/LOGO_HD/image.png" group-title="India;NEWS" http-referrer="" http-user-agent="",News18 Uttar Pradesh Uttarakhand
 https://n18syndication.akamaized.net/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/master.m3u8
 
 #EXTINF:-1 tvg-id="News.1.India.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_1_INDIA/images/LOGO_HD/image.png" group-title="India;NEWS" http-referrer="" http-user-agent="",News 1 India
@@ -5181,7 +5181,7 @@ https://cdn-3.pishow.tv/live/268/master.m3u8
 #EXTINF:-1 tvg-id="News24.in" tvg-logo="https://dtil.tmsimg.com/assets/s90009_ld_h15_aa.png?lock=720x540" group-title="India;NEWS" http-referrer="" http-user-agent="",News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="News7Tamil.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS7_TAMIL/images/LOGO_HD/image.png" group-title="India;NEWS" http-referrer="" http-user-agent="",News 7 Tamil
+#EXTINF:-1 tvg-id="News7.Tamil.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS7_TAMIL/images/LOGO_HD/image.png" group-title="India;NEWS" http-referrer="" http-user-agent="",News 7 Tamil
 https://segment.yuppcdn.net/240122/news7/playlist.m3u8
 
 #EXTINF:-1 tvg-id="News9Live.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS9/images/LOGO_HD/image.png" group-title="India;NEWS" http-referrer="" http-user-agent="",News9Live
@@ -5480,7 +5480,7 @@ https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Aastha.Telugu.in" tvg-logo="https://dtil.tmsimg.com/assets/s158136_ld_h15_aa.png?lock=720x540" group-title="India;RELIGION" http-referrer="" http-user-agent="",Aastha Telugu
 https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AdhyatmTV.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Adhyatam_TV.png" group-title="India;RELIGION" http-referrer="" http-user-agent="",Adhyatm TV
+#EXTINF:-1 tvg-id="Adhyatam.TV.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Adhyatam_TV.png" group-title="India;RELIGION" http-referrer="" http-user-agent="",Adhyatm TV
 https://mumbai-edge.smartplaytv.in/AdhyatmTV/index.m3u8
 
 #EXTINF:-1 tvg-id="Anand.TV.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Anand_TV.png" group-title="India;RELIGION" http-referrer="" http-user-agent="",Anand TV
@@ -5553,7 +5553,7 @@ https://cdn-4.pishow.tv/live/229/master.m3u8
 #EXTINF:-1 tvg-id="CVR.OM.Spiritual.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CVR_OM_Spiritual.png" group-title="India;RELIGION" http-referrer="" http-user-agent="",CVR OM Spiritual
 https://cdn-1.pishow.tv/live/957/master.m3u8
 
-#EXTINF:-1 tvg-id="DharmSandesh.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Arihant_TV.png" group-title="India;RELIGION" http-referrer="" http-user-agent="",Dharm Sandesh
+#EXTINF:-1 tvg-id="Dharma.Sandesh.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Arihant_TV.png" group-title="India;RELIGION" http-referrer="" http-user-agent="",Dharm Sandesh
 https://cdn-2.pishow.tv/live/1455/master.m3u8
 
 #EXTINF:-1 tvg-id="DharsanTV.in" tvg-logo="https://play-lh.googleusercontent.com/brn76ZzRlqS8ylZVVcc5ZFWcqUp36iJ82WyzwiQ8-Nqi_8pIZZ_gsMCXNn6YiLhOEQ" group-title="India;RELIGION" http-referrer="" http-user-agent="",Dharsan TV
@@ -5571,7 +5571,7 @@ https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8
 #EXTINF:-1 tvg-id="GOODNESS.TV.in" tvg-logo="https://dtil.tmsimg.com/assets/s143091_ld_h15_aa.png?lock=720x540" group-title="India;RELIGION" http-referrer="" http-user-agent="",Goodness TV
 https://mumt02.tangotv.in/GOODNESSTV/index.m3u8
 
-#EXTINF:-1 tvg-id="GoodNewsTV.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOODNEWS_TV/images/LOGO_HD/image.png" group-title="India;RELIGION" http-referrer="" http-user-agent="",GoodNews TV
+#EXTINF:-1 tvg-id="GOODNESS.TV.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOODNEWS_TV/images/LOGO_HD/image.png" group-title="India;RELIGION" http-referrer="" http-user-agent="",GoodNews TV
 https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GospelTVIndia.in" tvg-logo="https://i.ibb.co/xhbZvzt/cropped-final-logo-300x127.png" group-title="India;RELIGION" http-referrer="" http-user-agent="",Gospel TV India
@@ -5613,7 +5613,7 @@ https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8
 #EXTINF:-1 tvg-id="MadhaTV.in" tvg-logo="https://dtil.tmsimg.com/assets/s143287_ld_h15_aa.png?lock=720x540" group-title="India;RELIGION" http-referrer="" http-user-agent="",Madha TV
 https://cdn-3.pishow.tv/live/1265/master.m3u8
 
-#EXTINF:-1 tvg-id="MahaaBhakti.in" tvg-logo="https://yt3.googleusercontent.com/OWECRvCVJh-dXU2MTRZhMRIDvFvcWan0YMoWWfXsM5_WEHobQy2QoHQbGr7AZUXzMOByTMAXbg=s900-c-k-c0x00ffffff-no-rj" group-title="India;RELIGION" http-referrer="" http-user-agent="",Mahaa Bhakti
+#EXTINF:-1 tvg-id="Mahaa.Bhakthi.in" tvg-logo="https://yt3.googleusercontent.com/OWECRvCVJh-dXU2MTRZhMRIDvFvcWan0YMoWWfXsM5_WEHobQy2QoHQbGr7AZUXzMOByTMAXbg=s900-c-k-c0x00ffffff-no-rj" group-title="India;RELIGION" http-referrer="" http-user-agent="",Mahaa Bhakti
 https://mumbai-edge.smartplaytv.in/MahaBhakthi/index.m3u8
 
 #EXTINF:-1 tvg-id="Mercy.TV.in" tvg-logo="https://i.imgur.com/klNH4tV.png" group-title="India;RELIGION" http-referrer="" http-user-agent="",Mercy TV
@@ -5671,7 +5671,7 @@ https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="Shubhsandesh.TV.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHUBHSANDESH_TV/images/LOGO_HD/image.png" group-title="India;RELIGION" http-referrer="" http-user-agent="",Shubhsandesh TV (720p) [Not 24/7]
 https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
 
-#EXTINF:-1 tvg-id="SubhavaarthaTV.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUBHAVAARTHA/images/LOGO_HD/image.png" group-title="India;RELIGION" http-referrer="" http-user-agent="",Subhavaartha TV
+#EXTINF:-1 tvg-id="Subhavartha.TV.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUBHAVAARTHA/images/LOGO_HD/image.png" group-title="India;RELIGION" http-referrer="" http-user-agent="",Subhavaartha TV
 https://2mk9qae4rwyb-hls-live.wmncdn.net/shubhavartha/live.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SVBC2.in" tvg-logo="https://dtil.tmsimg.com/assets/s143890_ld_h9_aa.png?lock=720x540" group-title="India;RELIGION" http-referrer="" http-user-agent="",SVBC 2
@@ -6533,7 +6533,7 @@ https://nl.utako.moe/neco/index.m3u8
 #EXTINF:-1 tvg-id="NHK.BS8K.jp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWnkaw5dSRTNX0Kur2DIasWP_J9TDj2AaBCg&s" group-title="Japan;GENERAL" http-referrer="" http-user-agent="",NHK BS
 https://nl.utako.moe/NHK_BS/index.m3u8
 
-#EXTINF:-1 tvg-id="NHKBS4K.ja" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWnkaw5dSRTNX0Kur2DIasWP_J9TDj2AaBCg&s" group-title="Japan;GENERAL" http-referrer="" http-user-agent="",NHK BS4K
+#EXTINF:-1 tvg-id="NHK.BSP4K.jp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWnkaw5dSRTNX0Kur2DIasWP_J9TDj2AaBCg&s" group-title="Japan;GENERAL" http-referrer="" http-user-agent="",NHK BS4K
 https://nl.utako.moe/bsp4k/index.m3u8
 
 #EXTINF:-1 tvg-id="NHKE.ja" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWnkaw5dSRTNX0Kur2DIasWP_J9TDj2AaBCg&s" group-title="Japan;GENERAL" http-referrer="" http-user-agent="",NHK E
@@ -8064,7 +8064,7 @@ https://aloula-redirect.vercel.app/2/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSaudiyaAlaan.sa" tvg-logo="https://i.imgur.com/sEOjApe.png" group-title="Saudi Arabia;GENERAL" http-referrer="" http-user-agent="",Al Saudiya Alaan
 https://aloula-redirect.vercel.app/17/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BigTimePlus.sa" tvg-logo="https://shahid.mbc.net/mediaObject/4e042cb6-500b-4e4c-a8ca-21a5a7a7a71b" group-title="Saudi Arabia;GENERAL" http-referrer="" http-user-agent="",Big Time Plus
+#EXTINF:-1 tvg-id="EN:.Big.Time.Plus.sa" tvg-logo="https://shahid.mbc.net/mediaObject/4e042cb6-500b-4e4c-a8ca-21a5a7a7a71b" group-title="Saudi Arabia;GENERAL" http-referrer="" http-user-agent="",Big Time Plus
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/index.m3u8
 
 #EXTINF:-1 tvg-id="DrPalTV.sa" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Dr%20Pal%20TV.jpeg" group-title="Saudi Arabia;GENERAL" http-referrer="" http-user-agent="",Dr Pal TV
@@ -8099,10 +8099,10 @@ https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8
 #EXTINF:-1 tvg-id="MBCPlusDrama.sa" tvg-logo="https://i.imgur.com/lxWdjXG.png" group-title="Saudi Arabia;MOVIES" http-referrer="" http-user-agent="",MBC+ Drama
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
 
-#EXTINF:-1 tvg-id="MBCMasrDrama.sa" tvg-logo="https://media0070.elcinema.com/tvguide/1399_1.png" group-title="Saudi Arabia;MOVIES" http-referrer="" http-user-agent="",MBC Masr Drama
+#EXTINF:-1 tvg-id="EN:.MBC.Masr.Drama.sa" tvg-logo="https://media0070.elcinema.com/tvguide/1399_1.png" group-title="Saudi Arabia;MOVIES" http-referrer="" http-user-agent="",MBC Masr Drama
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8
 
-#EXTINF:-1 tvg-id="MoviesAction.sa" tvg-logo="https://i.imgur.com/NIVhISa.png" group-title="Saudi Arabia;MOVIES" http-referrer="" http-user-agent="",Movies Action
+#EXTINF:-1 tvg-id="EN:.Movies.Action.sa" tvg-logo="https://i.imgur.com/NIVhISa.png" group-title="Saudi Arabia;MOVIES" http-referrer="" http-user-agent="",Movies Action
 https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MoviesThriller.sa" tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Saudi Arabia;MOVIES" http-referrer="" http-user-agent="",Movies Thriller
@@ -8123,7 +8123,7 @@ https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-id="ThikrayatTV.sa" tvg-logo="https://i.imgur.com/AKa1X9d.png" group-title="Saudi Arabia;MOVIES" http-referrer="" http-user-agent="",Thikrayat TV
 https://aloula-redirect.vercel.app/3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AbdulmajeedAbdullah.sa" tvg-logo="https://assets.mbcmood.com/channels/1720184087Abdullah%20Majeed%20Abdullah%20banner.png" group-title="Saudi Arabia;MUSIC" http-referrer="" http-user-agent="",Abdulmajeed Abdullah
+#EXTINF:-1 tvg-id="EN:.Abdul.Majeed.Abdullah.sa" tvg-logo="https://assets.mbcmood.com/channels/1720184087Abdullah%20Majeed%20Abdullah%20banner.png" group-title="Saudi Arabia;MUSIC" http-referrer="" http-user-agent="",Abdulmajeed Abdullah
 https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8
 
 #EXTINF:-1 tvg-id="Fairuz.sa" tvg-logo="https://shahid.mbc.net/mediaObject/f809d51c-e83d-43c9-8236-78731c2216ad?type=png" group-title="Saudi Arabia;MUSIC" http-referrer="" http-user-agent="",Fairuz
@@ -8132,7 +8132,7 @@ https://shd-amg-fast.edgenextcdn.net/tx029/playlist.m3u8
 #EXTINF:-1 tvg-id="JeddahRadio.sa" tvg-logo="https://aloula.faulio.com/storage/mediagallery/bd/f5/fullhd_527bf54a5adb56ac17f572ac2cd0801304db3baf.png" group-title="Saudi Arabia;MUSIC" http-referrer="" http-user-agent="",Jeddah Radio
 https://aloula-redirect.vercel.app/15/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MajidAlMohandis.sa" tvg-logo="https://i.discogs.com/Fk9Bm8gTYJYeVXIJKX-EOGmYQ90sVQPtkIW5ZK4fydo/rs:fit/g:sm/q:90/h:372/w:412/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2OTY4/MzMtMTU2ODk0NjI5/MC01Njk2LmpwZWc.jpeg" group-title="Saudi Arabia;MUSIC" http-referrer="" http-user-agent="",Majid Al Mohandis
+#EXTINF:-1 tvg-id="EN:.Majid.Almohandis.sa" tvg-logo="https://i.discogs.com/Fk9Bm8gTYJYeVXIJKX-EOGmYQ90sVQPtkIW5ZK4fydo/rs:fit/g:sm/q:90/h:372/w:412/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2OTY4/MzMtMTU2ODk0NjI5/MC01Njk2LmpwZWc.jpeg" group-title="Saudi Arabia;MUSIC" http-referrer="" http-user-agent="",Majid Al Mohandis
 https://shd-amg-fast.edgenextcdn.net/tx019/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MBCMood.sa" tvg-logo="https://shahid.mbc.net/mediaObject/c2b6a882-458b-446e-b0fe-f97f7992149a?height=auto&width=144&croppingPoint=&version=1&type=png" group-title="Saudi Arabia;MUSIC" http-referrer="" http-user-agent="",MBC Mood
@@ -8150,7 +8150,7 @@ https://aloula-redirect.vercel.app/14/playlist.m3u8
 #EXTINF:-1 tvg-id="PanoramaFM.sa" tvg-logo="https://i.imgur.com/JkDD3bK.png" group-title="Saudi Arabia;MUSIC" http-referrer="" http-user-agent="",Panorama FM
 https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8
 
-#EXTINF:-1 tvg-id="RabehSaqer.sa" tvg-logo="https://shahid.mbc.net/mediaObject/b98b0635-c8ed-4a7c-9efa-5856e278f54b?type=png" group-title="Saudi Arabia;MUSIC" http-referrer="" http-user-agent="",Rabeh Saqer
+#EXTINF:-1 tvg-id="EN:.Rabeh.Saqer.sa" tvg-logo="https://shahid.mbc.net/mediaObject/b98b0635-c8ed-4a7c-9efa-5856e278f54b?type=png" group-title="Saudi Arabia;MUSIC" http-referrer="" http-user-agent="",Rabeh Saqer
 https://shd-amg-fast.edgenextcdn.net/tx004/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RashidAlMajed.sa" tvg-logo="https://assets.mbcmood.com/channels/1720177618Rashid%20AlMajed.webp" group-title="Saudi Arabia;MUSIC" http-referrer="" http-user-agent="",Rashid AlMajed
@@ -9081,7 +9081,7 @@ http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="WomanTV.tr" tvg-logo="https://i.imgur.com/f2zGoV3.png" group-title="Türkiye;CULTURE" http-referrer="" http-user-agent="",Woman TV
 https://embedlp.becdn.net/womantv.m3u8
 
-#EXTINF:-1 tvg-id="CGTNDocumentary.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/CGTN_Documentary_logo.png/960px-CGTN_Documentary_logo.png" group-title="Türkiye;DOCUMENTARY" http-referrer="" http-user-agent="",CGTN Documentary
+#EXTINF:-1 tvg-id="CGTN.9.DOCUMENTARY.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/CGTN_Documentary_logo.png/960px-CGTN_Documentary_logo.png" group-title="Türkiye;DOCUMENTARY" http-referrer="" http-user-agent="",CGTN Documentary
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GEMNature.tr" tvg-logo="https://i.imgur.com/ENvOMDQ.png" group-title="Türkiye;DOCUMENTARY" http-referrer="" http-user-agent="",GEM Nature
@@ -9456,7 +9456,7 @@ https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 tvg-id="UUTV2.tr" tvg-logo="https://i.imgur.com/FjFjdY5.png" group-title="Türkiye;GENERAL" http-referrer="" http-user-agent="",ÜÜ TV Üsküdar Üniversitesi TV (1080p) [Not 24/7]
 https://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TYTTurk.tr" tvg-logo="https://tytturk.com/upload/tyt-logo.png" group-title="Türkiye;GENERAL" http-referrer="" http-user-agent="",TYT Turk
+#EXTINF:-1 tvg-id="TYT.TÜRK.tr" tvg-logo="https://tytturk.com/upload/tyt-logo.png" group-title="Türkiye;GENERAL" http-referrer="" http-user-agent="",TYT Turk
 https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8
 
 #EXTINF:-1 tvg-id="UrfaNatikTV.tr" tvg-logo="https://i.imgur.com/8KO0uxn.png" group-title="Türkiye;GENERAL" http-referrer="" http-user-agent="",Urfa Natik TV
@@ -9480,7 +9480,7 @@ https://ca-rt.onetv.app/gemjunior/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="GEMKids.tr" tvg-logo="https://i.imgur.com/ArkjaFk.png" group-title="Türkiye;KIDS" http-referrer="" http-user-agent="",GEM Kids
 https://ca-rt.onetv.app/gemkids/index-0.m3u8?token=onetv202
 
-#EXTINF:-1 tvg-id="MinikaCocuk.tr" tvg-logo="https://i.imgur.com/VCywMTv.png" group-title="Türkiye;KIDS" http-referrer="" http-user-agent="",Minika Cocuk
+#EXTINF:-1 tvg-id="MİNİKA.ÇOCUK.tr" tvg-logo="https://i.imgur.com/VCywMTv.png" group-title="Türkiye;KIDS" http-referrer="" http-user-agent="",Minika Cocuk
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
 
 #EXTINF:-1 tvg-id="MİNİKA.GO.tr" tvg-logo="https://i.imgur.com/qIoipDq.png" group-title="Türkiye;KIDS" http-referrer="" http-user-agent="",Minika Go
@@ -9540,7 +9540,7 @@ https://ca-rt.onetv.app/gemseries/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="GEMSeriesPlus.tr" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_33.png" group-title="Türkiye;MOVIES" http-referrer="" http-user-agent="",GEM Series Plus
 https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8?token=onetv202
 
-#EXTINF:-1 tvg-id="GEMTV.tr" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_16.png" group-title="Türkiye;MOVIES" http-referrer="" http-user-agent="",GEM TV
+#EXTINF:-1 tvg-id="EM.TV.tr" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_16.png" group-title="Türkiye;MOVIES" http-referrer="" http-user-agent="",GEM TV
 https://ca-rt.onetv.app/gem/index-0.m3u8?token=onetv202
 
 #EXTINF:-1 tvg-id="GEMTVPlus.tr" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_17.png" group-title="Türkiye;MOVIES" http-referrer="" http-user-agent="",GEM TV Plus
@@ -9811,7 +9811,7 @@ https://svs.itworkscdn.net/pulse95live/pulse96/playlist.m3u8
 #EXTINF:-1 tvg-id="Sharjah.Radio.ae" tvg-logo="https://i.imgur.com/q7GGALe.png" group-title="United Arab Emirates;GENERAL" http-referrer="" http-user-agent="",Sharjah Radio
 https://svs.itworkscdn.net/smcradiolive/smcradiolive/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WatarRadio.ae" tvg-logo="https://sbauae.faulio.com/storage/mediagallery/d2/ad/fullhd_48adf2291d08266c05ed1b0c24f326c86b1095b7.png" group-title="United Arab Emirates;GENERAL" http-referrer="" http-user-agent="",Watar Radio
+#EXTINF:-1 tvg-id="Qatar.Radio.ae" tvg-logo="https://sbauae.faulio.com/storage/mediagallery/d2/ad/fullhd_48adf2291d08266c05ed1b0c24f326c86b1095b7.png" group-title="United Arab Emirates;GENERAL" http-referrer="" http-user-agent="",Watar Radio
 https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SpacetoonArabic.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="United Arab Emirates;KIDS" http-referrer="" http-user-agent="",Spacetoon Arabic
@@ -9982,7 +9982,7 @@ https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sport.uz" tvg-logo="https://i.imgur.com/2WJE9CM.png" group-title="Uzbekistan;SPORTS" http-referrer="" http-user-agent="",Sport
 https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="TraVinhTV.vn" tvg-logo="https://i.imgur.com/F12VdKO.png" group-title="Viet Nam;CULTURE" http-referrer="" http-user-agent="",Vĩnh Long TV5 (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Vĩnh.Long.5.vn" tvg-logo="https://i.imgur.com/F12VdKO.png" group-title="Viet Nam;CULTURE" http-referrer="" http-user-agent="",Vĩnh Long TV5 (1080p) [Geo-blocked]
 https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Cần.Thơ.TV2.vn" tvg-logo="https://i.ibb.co/JjVvkMsf/cantho2-2025.png" group-title="Viet Nam;EDUCATION" http-referrer="" http-user-agent="",Cần Thơ TV2
@@ -9991,13 +9991,13 @@ https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8
 #EXTINF:-1 tvg-id="HTV.Key.(HD).vn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_HTV_Key.png" group-title="Viet Nam;EDUCATION" http-referrer="" http-user-agent="",HTV Key
 https://liveh12.vtvprime.vn/hls/HTVKey/index.m3u8
 
-#EXTINF:-1 tvg-id="AnGiangTV2.vn" tvg-logo="https://i.imgur.com/efrauLr.png" group-title="Viet Nam;ENTERTAINMENT" http-referrer="" http-user-agent="",An Giang TV2 (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="An.Giang.2.vn" tvg-logo="https://i.imgur.com/efrauLr.png" group-title="Viet Nam;ENTERTAINMENT" http-referrer="" http-user-agent="",An Giang TV2 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8
 
 #EXTINF:-1 tvg-id="AnGiangTV3.vn" tvg-logo="https://i.imgur.com/gZUV4z8.png" group-title="Viet Nam;ENTERTAINMENT" http-referrer="" http-user-agent="",An Giang TV3 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 
-#EXTINF:-1 tvg-id="AnGiangTV1.vn" tvg-logo="https://i.imgur.com/mgp6RAU.png" group-title="Viet Nam;GENERAL" http-referrer="" http-user-agent="",An Giang TV1 (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="An.Giang.1.vn" tvg-logo="https://i.imgur.com/mgp6RAU.png" group-title="Viet Nam;GENERAL" http-referrer="" http-user-agent="",An Giang TV1 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 
 #EXTINF:-1 tvg-id="Cao.Bằng.TV.vn" tvg-logo="https://i.imgur.com/dGonewm.png" group-title="Viet Nam;GENERAL" http-referrer="" http-user-agent="",Cao Bằng TV
@@ -10063,7 +10063,7 @@ https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u
 #EXTINF:-1 tvg-id="QPVN.(HD).vn" tvg-logo="https://i.imgur.com/GQO7UNu.png" group-title="Viet Nam;GENERAL" http-referrer="" http-user-agent="",QPVN
 https://liveh12.vtvprime.vn/hls/QPTV/index.m3u8
 
-#EXTINF:-1 tvg-id="QuangNgaiTV.vn" tvg-logo="https://i.imgur.com/QckiN3H.png" group-title="Viet Nam;GENERAL" http-referrer="" http-user-agent="",Quảng Ngãi TV1
+#EXTINF:-1 tvg-id="QuangNgaiTV1.vn" tvg-logo="https://i.imgur.com/QckiN3H.png" group-title="Viet Nam;GENERAL" http-referrer="" http-user-agent="",Quảng Ngãi TV1
 https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="SCTV2.vn" tvg-logo="https://i.imgur.com/8i5DXIg.png" group-title="Viet Nam;GENERAL" http-referrer="" http-user-agent="",SCTV2
@@ -10084,7 +10084,7 @@ https://live-hq.evgcdn.net/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3
 #EXTINF:-1 tvg-id="Vietnam.Today.vn" tvg-logo="https://i.imgur.com/xW9rY7s.png" group-title="Viet Nam;GENERAL" http-referrer="" http-user-agent="",Vietnam Today
 https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
 
-#EXTINF:-1 tvg-id="VinhLongTV1.vn" tvg-logo="https://i.imgur.com/5YFsqPx.png" group-title="Viet Nam;GENERAL" http-referrer="" http-user-agent="",Vĩnh Long TV1 (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Vĩnh.Long.1.HD.vn" tvg-logo="https://i.imgur.com/5YFsqPx.png" group-title="Viet Nam;GENERAL" http-referrer="" http-user-agent="",Vĩnh Long TV1 (1080p) [Geo-blocked]
 https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="VTV1.HD.vn" tvg-logo="https://i.imgur.com/vZYlGIW.png" group-title="Viet Nam;GENERAL" http-referrer="" http-user-agent="",VTV1
@@ -10108,10 +10108,10 @@ https://live-a.fptplay53.net/live/media/vtv4/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="VTV5.HD.vn" tvg-logo="https://i.imgur.com/Vnnna1C.png" group-title="Viet Nam;GENERAL" http-referrer="" http-user-agent="",VTV5
 https://live-a.fptplay53.net/live/media/vtv5/live247-hls-avc/index.m3u8
 
-#EXTINF:-1 tvg-id="VTV5TayNamBo.vn" tvg-logo="https://i.imgur.com/xiuHjEQ.png" group-title="Viet Nam;GENERAL" http-referrer="" http-user-agent="",VTV5 Tay Nam Bo
+#EXTINF:-1 tvg-id="VTV5.Tây.Nam.Bộ.(HD).vn" tvg-logo="https://i.imgur.com/xiuHjEQ.png" group-title="Viet Nam;GENERAL" http-referrer="" http-user-agent="",VTV5 Tay Nam Bo
 https://live-a.fptplay53.net/live/media/vtv5tnb/live-hls-avc/index.m3u8
 
-#EXTINF:-1 tvg-id="VTV5TayNguyen.vn" tvg-logo="https://i.imgur.com/Hlcnqqt.png" group-title="Viet Nam;GENERAL" http-referrer="" http-user-agent="",VTV5 Tay Nguyen
+#EXTINF:-1 tvg-id="VTV5.Tây.Nguyên.(HD).vn" tvg-logo="https://i.imgur.com/Hlcnqqt.png" group-title="Viet Nam;GENERAL" http-referrer="" http-user-agent="",VTV5 Tay Nguyen
 https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/index.m3u8
 
 #EXTINF:-1 tvg-id="VTV7.HD.vn" tvg-logo="https://i.imgur.com/ZwoP823.png" group-title="Viet Nam;GENERAL" http-referrer="" http-user-agent="",VTV7
@@ -10559,7 +10559,7 @@ https://mirtv.club/live/mirtv/index.m3u8
 #EXTINF:-1 tvg-id="Televizija5.ba" tvg-logo="https://i.imgur.com/znpvJys.png" group-title="Bosnia and Herzegovina;GENERAL" http-referrer="" http-user-agent="",Televizija 5
 https://balkanmedia.dynu.net/hls/tv5web.m3u8
 
-#EXTINF:-1 tvg-id="TelevizijaM.ba" tvg-logo="https://i.imgur.com/jT95ZEI.png" group-title="Bosnia and Herzegovina;GENERAL" http-referrer="" http-user-agent="",Televizija M
+#EXTINF:-1 tvg-id="Televizija.Hema.ba" tvg-logo="https://i.imgur.com/jT95ZEI.png" group-title="Bosnia and Herzegovina;GENERAL" http-referrer="" http-user-agent="",Televizija M
 https://live.tv-m.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="TVSlonExtra.ba" tvg-logo="https://i.imgur.com/AohYgH1.png" group-title="Bosnia and Herzegovina;GENERAL" http-referrer="" http-user-agent="",TV Slon Extra (1080p) [Not 24/7]
@@ -11028,7 +11028,7 @@ https://www.rtmplus.cz/live/1-playlist.m3u8
 #EXTINF:-1 tvg-id="ČT1.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C4%8CT1_logo_2012.svg/960px-%C4%8CT1_logo_2012.svg.png" group-title="Czechia;GENERAL" http-referrer="" http-user-agent="",ČT 1
 http://88.212.15.19/live/test_ct1_25p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TelevizePrerov.cz" tvg-logo="https://i.imgur.com/opuhDX9.png" group-title="Czechia;GENERAL" http-referrer="https://tvprerov.cz/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 OPR/132.0.0.0",Televize Prerov (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Televize.Přerov.cz" tvg-logo="https://i.imgur.com/opuhDX9.png" group-title="Czechia;GENERAL" http-referrer="https://tvprerov.cz/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 OPR/132.0.0.0",Televize Prerov (1080p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 OPR/132.0.0.0
 #EXTVLCOPT:http-referrer=https://tvprerov.cz/
 https://173.212.247.21/live/tvprerov.m3u8
@@ -11039,7 +11039,7 @@ http://88.212.15.19/live/test_seznam_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="ÚTV.cz" tvg-logo="https://i.imgur.com/ulfeIwM.png" group-title="Czechia;GENERAL" http-referrer="" http-user-agent="",ÚTV
 https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
 
-#EXTINF:-1 tvg-id="TVBarrandov.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_TV_Barrandov.png/960px-Logo_TV_Barrandov.png" group-title="Czechia;GENERAL" http-referrer="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",TV Barrandov
+#EXTINF:-1 tvg-id="Barrandov.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_TV_Barrandov.png/960px-Logo_TV_Barrandov.png" group-title="Czechia;GENERAL" http-referrer="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",TV Barrandov
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/test_barrandov/playlist.m3u8
 
@@ -11283,7 +11283,7 @@ https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8
 #EXTINF:-1 tvg-id="YLE.TV2.fi" tvg-logo="https://i.imgur.com/4xkc6PL.png" group-title="Finland;GENERAL" http-referrer="" http-user-agent="",YLE TV 2 (1080p) [Not 24/7]
 https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8
 
-#EXTINF:-1 tvg-id="YleTeemaFem.fi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yle_Teema_%26_Fem.svg/960px-Yle_Teema_%26_Fem.svg.png" group-title="Finland;GENERAL" http-referrer="" http-user-agent="",YLE TV Teema & Fem (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="Yle.Teema.Fem.fi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yle_Teema_%26_Fem.svg/960px-Yle_Teema_%26_Fem.svg.png" group-title="Finland;GENERAL" http-referrer="" http-user-agent="",YLE TV Teema & Fem (1080p) [Not 24/7]
 https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/index.m3u8
 
 #EXTINF:-1 tvg-id="Hero.fi" tvg-logo="https://i.imgur.com/4t5JQLY.png" group-title="Finland;MOVIES" http-referrer="" http-user-agent="",Hero (720p) [Not 24/7]
@@ -11401,7 +11401,7 @@ https://4afghls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AlpedHuezTV.fr" tvg-logo="https://i.imgur.com/090tCQ5.png" group-title="France;GENERAL" http-referrer="" http-user-agent="",Alpe d’Huez TV (720p) [Not 24/7]
 https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
 
-#EXTINF:-1 tvg-id="AngersTele.fr" tvg-logo="https://i.imgur.com/CMKKbaP.png" group-title="France;GENERAL" http-referrer="" http-user-agent="",Angers Tele
+#EXTINF:-1 tvg-id="Angers.télé.fr" tvg-logo="https://i.imgur.com/CMKKbaP.png" group-title="France;GENERAL" http-referrer="" http-user-agent="",Angers Tele
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/angerstele.m3u8
 
 #EXTINF:-1 tvg-id="AntenneReunion.fr" tvg-logo="https://i.imgur.com/EPIMMaB.png" group-title="France;GENERAL" http-referrer="" http-user-agent="",Antenne Réunion (720p) [Not 24/7]
@@ -11463,7 +11463,7 @@ http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Men's.Up.TV.fr" tvg-logo="https://i.imgur.com/5BZwRFs.png" group-title="France;GENERAL" http-referrer="" http-user-agent="",Men's UP TV
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mensuptv.m3u8
 
-#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-logo="https://i.imgur.com/ily4bEm.png" group-title="France;GENERAL" http-referrer="" http-user-agent="",Paris Premiere
+#EXTINF:-1 tvg-id="Paris.Première.fr" tvg-logo="https://i.imgur.com/ily4bEm.png" group-title="France;GENERAL" http-referrer="" http-user-agent="",Paris Premiere
 http://cdn.haititivi.com/PARIS-PREMIERE/index.m3u8
 
 #EXTINF:-1 tvg-id="Puissance.TV.fr" tvg-logo="https://pbs.twimg.com/profile_images/1274572654016675842/A6v8Qo_X_400x400.jpg" group-title="France;GENERAL" http-referrer="" http-user-agent="",Puissance TV
@@ -11475,7 +11475,7 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radi
 #EXTINF:-1 tvg-id="RFM.TV.fr" tvg-logo="https://i.imgur.com/FVDTJxW.png" group-title="France;GENERAL" http-referrer="" http-user-agent="",RFM TV [Not 24/7]
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/1038/index.m3u8
 
-#EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/960px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="France;GENERAL" http-referrer="" http-user-agent="",RMC Decouverte
+#EXTINF:-1 tvg-id="RMC.Découverte.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/960px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="France;GENERAL" http-referrer="" http-user-agent="",RMC Decouverte
 http://41.205.77.102/RMCDECOUVERTE/index.m3u8
 
 #EXTINF:-1 tvg-id="RMCStory.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_RMC_Story_2025.png/960px-Logo_RMC_Story_2025.png" group-title="France;GENERAL" http-referrer="" http-user-agent="",RMC Story
@@ -11494,7 +11494,7 @@ http://99.27.51.147:8080/SYFY/index.m3u8
 #EXTINF:-1 tvg-id="T18.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_la_chaine_T18.svg/500px-Logo_de_la_chaine_T18.svg.png" group-title="France;GENERAL" http-referrer="" http-user-agent="",T18
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
 
-#EXTINF:-1 tvg-id="Telenantes.fr" tvg-logo="https://i.imgur.com/G1SCqNI.png" group-title="France;GENERAL" http-referrer="" http-user-agent="",Telenantes
+#EXTINF:-1 tvg-id="Télénantes.fr" tvg-logo="https://i.imgur.com/G1SCqNI.png" group-title="France;GENERAL" http-referrer="" http-user-agent="",Telenantes
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/telenantes.m3u8
 
 #EXTINF:-1 tvg-id="Teva.fr" tvg-logo="https://i.imgur.com/kDW0hN5.png" group-title="France;GENERAL" http-referrer="" http-user-agent="",Teva
@@ -11616,7 +11616,7 @@ https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07a
 #EXTINF:-1 tvg-id="HANDICAPTV.fr" tvg-logo="https://i.imgur.com/vXbAeD0.png" group-title="France;LIFESTYLE" http-referrer="" http-user-agent="",HANDICAP TV France
 https://srv.webtvmanager.fr:3697/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="MaisonTravauxTV.fr" tvg-logo="https://i.imgur.com/uYpc6nE.png" group-title="France;LIFESTYLE" http-referrer="" http-user-agent="",Maison & Travaux TV
+#EXTINF:-1 tvg-id="Maison.and.Travaux.TV.fr" tvg-logo="https://i.imgur.com/uYpc6nE.png" group-title="France;LIFESTYLE" http-referrer="" http-user-agent="",Maison & Travaux TV
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/maisonettravaux.m3u8
 
 #EXTINF:-1 tvg-id="MonteCarloDigitalTelevision.fr" tvg-logo="https://i.imgur.com/99h8F1y.jpeg" group-title="France;LIFESTYLE" http-referrer="" http-user-agent="",Monte Carlo Digital Television
@@ -11634,14 +11634,14 @@ http://rezofoot.tv/Action/index.m3u8
 #EXTINF:-1 tvg-id="CANAL+CINEMA.S.fr" tvg-logo="https://i.imgur.com/fvPoNEa.jpeg" group-title="France;MOVIES" http-referrer="" http-user-agent="",Canal+ Cinemas
 http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-logo="https://i.imgur.com/y2zeLS3.jpeg" group-title="France;MOVIES" http-referrer="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",Cine+ Classic
+#EXTINF:-1 tvg-id="Ciné+.Classic.fr" tvg-logo="https://i.imgur.com/y2zeLS3.jpeg" group-title="France;MOVIES" http-referrer="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",Cine+ Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://99.27.51.147/CineClassic/index.m3u8
 
-#EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-logo="https://i.imgur.com/upYjPvc.jpeg" group-title="France;MOVIES" http-referrer="" http-user-agent="",Cine+ Emotion
+#EXTINF:-1 tvg-id="Ciné+.Emotion.fr" tvg-logo="https://i.imgur.com/upYjPvc.jpeg" group-title="France;MOVIES" http-referrer="" http-user-agent="",Cine+ Emotion
 http://145.239.5.177/337/index.m3u8
 
-#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-logo="https://i.imgur.com/MwFtbnR.jpeg" group-title="France;MOVIES" http-referrer="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",Cine+ Frisson
+#EXTINF:-1 tvg-id="Ciné+.Frisson.fr" tvg-logo="https://i.imgur.com/MwFtbnR.jpeg" group-title="France;MOVIES" http-referrer="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",Cine+ Frisson
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://99.27.51.147:8080/CineFrisson/index.m3u8
 
@@ -11886,7 +11886,7 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?end=END&start=LI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?end=END&start=LIVE
 
-#EXTINF:-1 tvg-id="BFMCotedAzur.fr" tvg-logo="https://i.imgur.com/iiVFvIw.png" group-title="France;NEWS" http-referrer="" http-user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",BFM Nice Côte d'Azur
+#EXTINF:-1 tvg-id="BFM.NICE.COTE.D'AZUR.fr" tvg-logo="https://i.imgur.com/iiVFvIw.png" group-title="France;NEWS" http-referrer="" http-user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",BFM Nice Côte d'Azur
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?end=END&start=LIVE
 
@@ -11938,13 +11938,13 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="France;NEWS" http-referrer="" http-user-agent="",Euronews Spanish
 https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8
 
-#EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="France;NEWS" http-referrer="" http-user-agent="",France 24 Arabic
+#EXTINF:-1 tvg-id="France.24.Arabe.fr" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="France;NEWS" http-referrer="" http-user-agent="",France 24 Arabic
 https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
 
 #EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="France;NEWS" http-referrer="" http-user-agent="",France 24 English
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 
-#EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="France;NEWS" http-referrer="" http-user-agent="",France 24 Español
+#EXTINF:-1 tvg-id="France.24.Espanol.fr" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="France;NEWS" http-referrer="" http-user-agent="",France 24 Español
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 
 #EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="France;NEWS" http-referrer="" http-user-agent="",France 24 French
@@ -13572,7 +13572,7 @@ https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8
 #EXTINF:-1 tvg-id="HSE.de" tvg-logo="https://i.imgur.com/IecRNCk.png" group-title="Germany;SHOP" http-referrer="" http-user-agent="",HSE
 https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HSEExtra.de" tvg-logo="https://i.imgur.com/nvMpbip.png" group-title="Germany;SHOP" http-referrer="" http-user-agent="",HSE24 Extra
+#EXTINF:-1 tvg-id="HSE.Extra.de" tvg-logo="https://i.imgur.com/nvMpbip.png" group-title="Germany;SHOP" http-referrer="" http-user-agent="",HSE24 Extra
 https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HSETrend.de" tvg-logo="https://i.imgur.com/qwh2urX.png" group-title="Germany;SHOP" http-referrer="" http-user-agent="",HSE24 Trend
@@ -13874,7 +13874,7 @@ https://mercury.32bit.gr:19360/formediatv/720p.m3u8
 #EXTINF:-1 tvg-id="Naftemporiki.TV.gr" tvg-logo="https://i.imgur.com/9OFdMud.png" group-title="Greece;NEWS" http-referrer="" http-user-agent="",Naftemporiki TV
 https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8
 
-#EXTINF:-1 tvg-id="StarKentrikisElladas.gr" tvg-logo="https://i.imgur.com/ZBt6beo.png" group-title="Greece;NEWS" http-referrer="" http-user-agent="",Star Kentrikis Elladas
+#EXTINF:-1 tvg-id="Star.Kentrikis.Ellados.gr" tvg-logo="https://i.imgur.com/ZBt6beo.png" group-title="Greece;NEWS" http-referrer="" http-user-agent="",Star Kentrikis Elladas
 https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8
 
 #EXTINF:-1 tvg-id="START.gr" tvg-logo="https://i.ibb.co/4PrPG5j/Start-TV-Corfu-Radio-100-1-www-startmedia-gr-1.jpg" group-title="Greece;NEWS" http-referrer="" http-user-agent="",Start TV
@@ -14106,7 +14106,7 @@ http://88.212.15.19/live/test_rtl_klub_hungary_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="RTL.GOLD.hu" tvg-logo="https://i.imgur.com/PwbLDUQ.png" group-title="Hungary;GENERAL" http-referrer="" http-user-agent="",RTL Gold
 https://budapest-cache-1.antik.sk/live/test_film_plus_2_hungary_1200_atk/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTLHarom.hu" tvg-logo="https://i.imgur.com/c4Hhhzs.png" group-title="Hungary;GENERAL" http-referrer="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",RTL Harom
+#EXTINF:-1 tvg-id="RTL.HÁROM.hu" tvg-logo="https://i.imgur.com/c4Hhhzs.png" group-title="Hungary;GENERAL" http-referrer="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",RTL Harom
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/test_rtl_plus_hungary_1200_atk/playlist.m3u8
 
@@ -14150,7 +14150,7 @@ https://stream.streaming4u.hu/TriMedioTV/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/test_tv_2_hungary_1200_atk/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV2Sef.hu" tvg-logo="https://i.imgur.com/8GFj3XP.png" group-title="Hungary;GENERAL" http-referrer="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",TV2 Sef
+#EXTINF:-1 tvg-id="TV2.Séf.hu" tvg-logo="https://i.imgur.com/8GFj3XP.png" group-title="Hungary;GENERAL" http-referrer="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",TV2 Sef
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/test_lichi_tv_atk_tv/playlist.m3u8
 
@@ -14260,7 +14260,7 @@ http://hitmusic.hu/hitmusic.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/test_muzsika_hungary_1200_atk/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SlagerTV.hu" tvg-logo="https://i.imgur.com/qDNRgSQ.png" group-title="Hungary;MUSIC" http-referrer="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",Slager TV
+#EXTINF:-1 tvg-id="Sláger.TV.hu" tvg-logo="https://i.imgur.com/qDNRgSQ.png" group-title="Hungary;MUSIC" http-referrer="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",Slager TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/test_slager_tv_hungary_1200_atk/playlist.m3u8
 
@@ -14996,7 +14996,7 @@ http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://91.146.94.234:10001/play/a03o
 
-#EXTINF:-1 tvg-id="Twentyseven.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/960px-Twentyseven_logo.svg.png" group-title="Italy;MOVIES" http-referrer="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",Twentyseven
+#EXTINF:-1 tvg-id="27.Twentyseven.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/960px-Twentyseven_logo.svg.png" group-title="Italy;MOVIES" http-referrer="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",Twentyseven
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://91.146.94.234:10001/play/a08u
 
@@ -15361,7 +15361,7 @@ https://streamer20.multimedia.blue/Eltrona/PetangeTV/playlist.m3u8
 #EXTINF:-1 tvg-id="RTLWebRadioTV.lu" tvg-logo="https://i.imgur.com/qyc8LsE.png" group-title="Luxembourg;GENERAL" http-referrer="" http-user-agent="",RTL Radio Web TV
 https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTLTeleLetzebuerg.lu" tvg-logo="https://i.imgur.com/fkW5Gbl.png" group-title="Luxembourg;GENERAL" http-referrer="" http-user-agent="",RTL Télé Lëtzebuerg
+#EXTINF:-1 tvg-id="RTL.Lëtzebuerg.lu" tvg-logo="https://i.imgur.com/fkW5Gbl.png" group-title="Luxembourg;GENERAL" http-referrer="" http-user-agent="",RTL Télé Lëtzebuerg
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTL.Zwee.lu" tvg-logo="https://i.imgur.com/7SmCtyy.png" group-title="Luxembourg;GENERAL" http-referrer="" http-user-agent="",RTL Zwee
@@ -15685,7 +15685,7 @@ https://ms2.mx-cd.net/dtv-09/186-793530/Omroep_Meierij_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="OmroepOnsWestBrabant.nl" tvg-logo="https://i.imgur.com/XlWTK7s.png" group-title="Netherlands;GENERAL" http-referrer="" http-user-agent="",Omroep Ons West Brabant
 https://ms2.mx-cd.net/tv/177-710139/Ons_West_Brabant_TV.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="OmroepPeelrand.nl" tvg-logo="https://i.imgur.com/K4AhATP.png" group-title="Netherlands;GENERAL" http-referrer="" http-user-agent="",Omroep Peelrand
+#EXTINF:-1 tvg-id="Omroep.Zeeland.nl" tvg-logo="https://i.imgur.com/K4AhATP.png" group-title="Netherlands;GENERAL" http-referrer="" http-user-agent="",Omroep Peelrand
 https://ms7.mx-cd.net/dtv-11/208-1258878/Omroep_Peelrand_TV.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OmroepSudwest.nl" tvg-logo="https://i.imgur.com/XtKLmQS.png" group-title="Netherlands;GENERAL" http-referrer="" http-user-agent="",Omroep Súdwest
@@ -16665,11 +16665,11 @@ https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://i.imgur.com/J73qdb1.jpeg" group-title="Portugal;NEWS" http-referrer="" http-user-agent="",CNN Portugal
 https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDI2IDI6NDM6NDcgUE0maGFzaF92YWx1ZT1JZmZ4Mmk0NXdPQ1gzdWtMTElSdS9nPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NjRmMGJiOWUtMjEyNi00NjFkLWEyZjItNGQ1Y2EwNmI4NTJl/
 
-#EXTINF:-1 tvg-id="RTPNoticias.pt" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpnoticias_2026.png" group-title="Portugal;NEWS" http-referrer="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Noticias (504p) [Not 24/7]
+#EXTINF:-1 tvg-id="RTP.Notícias.HD.pt" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpnoticias_2026.png" group-title="Portugal;NEWS" http-referrer="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Noticias (504p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTPNoticias.pt" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpnoticias_2026.png" group-title="Portugal;NEWS" http-referrer="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Noticias (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="RTP.Notícias.HD.pt" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpnoticias_2026.png" group-title="Portugal;NEWS" http-referrer="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Noticias (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 
@@ -16942,16 +16942,16 @@ https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVR.Craiova.ro" tvg-logo="https://i.imgur.com/vxWbQiy.png" group-title="Romania;GENERAL" http-referrer="" http-user-agent="",TVR Craiova
 https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVRIasi.ro" tvg-logo="https://i.imgur.com/Kxkihds.png" group-title="Romania;GENERAL" http-referrer="" http-user-agent="",TVR Iasi (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVR.Iași.ro" tvg-logo="https://i.imgur.com/Kxkihds.png" group-title="Romania;GENERAL" http-referrer="" http-user-agent="",TVR Iasi (1080p) [Not 24/7]
 http://82.208.141.70:8778/1.m3u8
 
 #EXTINF:-1 tvg-id="TVR.International.ro" tvg-logo="https://i.imgur.com/w28wcHs.png" group-title="Romania;GENERAL" http-referrer="" http-user-agent="",TVR International
 https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVRTarguMures.ro" tvg-logo="https://i.imgur.com/9Hptdqj.png" group-title="Romania;GENERAL" http-referrer="" http-user-agent="",TVR Targu-Mures
+#EXTINF:-1 tvg-id="TVR.Târgu.Mureș.ro" tvg-logo="https://i.imgur.com/9Hptdqj.png" group-title="Romania;GENERAL" http-referrer="" http-user-agent="",TVR Targu-Mures
 https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVRTimisoara.ro" tvg-logo="https://i.imgur.com/0x6Edei.png" group-title="Romania;GENERAL" http-referrer="" http-user-agent="",TVR Timisoara
+#EXTINF:-1 tvg-id="TVR.Timișoara.ro" tvg-logo="https://i.imgur.com/0x6Edei.png" group-title="Romania;GENERAL" http-referrer="" http-user-agent="",TVR Timisoara
 https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVSat.ro" tvg-logo="https://i.imgur.com/54GHZMv.png" group-title="Romania;GENERAL" http-referrer="" http-user-agent="",TVSat (576p) [Not 24/7]
@@ -18781,7 +18781,7 @@ https://de1.dstv.cx/RTSTrezor/index.m3u8
 #EXTINF:-1 tvg-id="RTSZivot.rs" tvg-logo="https://i.imgur.com/NpFG9uy.png" group-title="Serbia;GENERAL" http-referrer="" http-user-agent="",RTS Zivot
 https://de1.dstv.cx/RTSZivot/index.m3u8
 
-#EXTINF:-1 tvg-id="TVAS.rs" tvg-logo="https://i.imgur.com/LIUtEgD.png" group-title="Serbia;GENERAL" http-referrer="" http-user-agent="",RTV AS
+#EXTINF:-1 tvg-id="TV..AS.rs" tvg-logo="https://i.imgur.com/LIUtEgD.png" group-title="Serbia;GENERAL" http-referrer="" http-user-agent="",RTV AS
 https://srv1.adriatelekom.com/TVAS/index.m3u8
 
 #EXTINF:-1 tvg-id="RTVBap.rs" tvg-logo="https://i.imgur.com/TBAtPH6.png" group-title="Serbia;GENERAL" http-referrer="" http-user-agent="",RTV Bap
@@ -19435,7 +19435,7 @@ https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8
 #EXTINF:-1 tvg-id="Huelva.TV.es" tvg-logo="https://i.imgur.com/hEnpvKj.png" group-title="Spain;GENERAL" http-referrer="" http-user-agent="",Huelva TV
 https://5d8d85cf2c308.streamlock.net:1936/huelvatv/htvdirecto/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ImasTV.es" tvg-logo="https://i.imgur.com/a9hgTmM.png" group-title="Spain;GENERAL" http-referrer="" http-user-agent="",Imás TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="Imas.TV.es" tvg-logo="https://i.imgur.com/a9hgTmM.png" group-title="Spain;GENERAL" http-referrer="" http-user-agent="",Imás TV (1080p) [Not 24/7]
 https://secure3.todostreaming.es/live/imastv-livestream.m3u8
 
 #EXTINF:-1 tvg-id="InteralmeriaTV.es" tvg-logo="https://i.imgur.com/ulSkAjZ.png" group-title="Spain;GENERAL" http-referrer="" http-user-agent="",Interalmeria TV
@@ -19581,7 +19581,7 @@ https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8
 #EXTINF:-1 tvg-id="TelevisionAranda.es" tvg-logo="https://i.imgur.com/FwIIdKG.png" group-title="Spain;GENERAL" http-referrer="" http-user-agent="",Televisión Aranda
 https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8
 
-#EXTINF:-1 tvg-id="TelevisionCanaria.es" tvg-logo="https://rtvc.es/archivos/2020/03/logo-mobilretina.png" group-title="Spain;GENERAL" http-referrer="" http-user-agent="",Television Canaria
+#EXTINF:-1 tvg-id="TelevisiónCanaria.es" tvg-logo="https://rtvc.es/archivos/2020/03/logo-mobilretina.png" group-title="Spain;GENERAL" http-referrer="" http-user-agent="",Television Canaria
 https://d1oyt3v08gcy18.cloudfront.net/index-events.m3u8
 
 #EXTINF:-1 tvg-id="TitoTV.es" tvg-logo="https://tvomix.com/Logos/Titotv.png" group-title="Spain;GENERAL" http-referrer="" http-user-agent="",Tito TV
@@ -19958,7 +19958,7 @@ https://amg01821-lovetvchannels-lovemagazineuk-samsungse-p1sf1.amagi.tv/playlist
 #EXTINF:-1 tvg-id="3CatInfo.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/3CatInfo_logo.svg/960px-3CatInfo_logo.svg.png" group-title="Spain;PUBLIC" http-referrer="" http-user-agent="",3CatInfo
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="APunt.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotip_d%27%C3%80_Punt_%282017-%29.svg/960px-Logotip_d%27%C3%80_Punt_%282017-%29.svg.png" group-title="Spain;PUBLIC" http-referrer="" http-user-agent="",A Punt
+#EXTINF:-1 tvg-id="À.Punt.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotip_d%27%C3%80_Punt_%282017-%29.svg/960px-Logotip_d%27%C3%80_Punt_%282017-%29.svg.png" group-title="Spain;PUBLIC" http-referrer="" http-user-agent="",A Punt
 https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTY0Nzk0MDgzMDMwNDUifQ.o6wb_VA-TVxl3ERgr7FKLlaTjY7smErmsf73QAydySE/playlist-hls-dvr.m3u8
 
 #EXTINF:-1 tvg-id="AragonTVInternacional.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Arag%C3%B3n_Internacional.png/revision/latest/scale-to-width-down/512" group-title="Spain;PUBLIC" http-referrer="" http-user-agent="",Aragon TV Internacional (720p) [Not 24/7]
@@ -19973,13 +19973,13 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="24HorasCanarias.es" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="Spain;PUBLIC" http-referrer="" http-user-agent="",Canal 24 Horas Canarias
 https://ztnr.rtve.es/ztnr/5473142.m3u8
 
-#EXTINF:-1 tvg-id="24HorasCatalunya.es" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="Spain;PUBLIC" http-referrer="" http-user-agent="",Canal 24 Horas Catalunya
+#EXTINF:-1 tvg-id="Canal.24.horas.Cataluña.es" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="Spain;PUBLIC" http-referrer="" http-user-agent="",Canal 24 Horas Catalunya
 https://ztnr.rtve.es/ztnr/4952053.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Sur.Andalucía.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Canal_Sur_2_-_2017_logo.png/500px-Canal_Sur_2_-_2017_logo.png" group-title="Spain;PUBLIC" http-referrer="" http-user-agent="",Canal Sur Andalucía 2
 https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-logo="https://i.imgur.com/lznnA4v.png" group-title="Spain;PUBLIC" http-referrer="" http-user-agent="",Canal Sur Andalucia
+#EXTINF:-1 tvg-id="Canal.Sur.Andalucía.es" tvg-logo="https://i.imgur.com/lznnA4v.png" group-title="Spain;PUBLIC" http-referrer="" http-user-agent="",Canal Sur Andalucia
 https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
 
 #EXTINF:-1 tvg-id="CanalSurNoticias.es" tvg-logo="https://i.imgur.com/A3JscwS.png" group-title="Spain;PUBLIC" http-referrer="" http-user-agent="",Canal Sur Noticias
@@ -21921,7 +21921,7 @@ https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4
 #EXTINF:-1 tvg-id="Manoto.uk" tvg-logo="https://i.imgur.com/8wE1Lbp.png" group-title="United Kingdom;ENTERTAINMENT" http-referrer="" http-user-agent="",Manoto TV
 https://ca-rt.onetv.app/manototv/index-0.m3u8?token=onetv202
 
-#EXTINF:-1 tvg-id="MTVGlobal.uk" tvg-logo="https://i.imgur.com/n2BoU7Q.png" group-title="United Kingdom;ENTERTAINMENT" http-referrer="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",MTV Global
+#EXTINF:-1 tvg-id="PTV.Global.uk" tvg-logo="https://i.imgur.com/n2BoU7Q.png" group-title="United Kingdom;ENTERTAINMENT" http-referrer="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",MTV Global
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://shift03.isp.bg/MTVEurope/index.m3u8
 
@@ -22003,7 +22003,7 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_sc
 #EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="United Kingdom;GENERAL" http-referrer="" http-user-agent="",BBC One Scotland HD (720p) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/pc_hd_abr_v2.mpd
 
-#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="United Kingdom;GENERAL" http-referrer="" http-user-agent="",BBC One South (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="BBC.One.Sth.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="United Kingdom;GENERAL" http-referrer="" http-user-agent="",BBC One South (720p) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south/pc_hd_abr_v2.mpd
 
 #EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="United Kingdom;GENERAL" http-referrer="" http-user-agent="",BBC One South East (720p) [Geo-blocked]
@@ -22114,10 +22114,10 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_n
 #EXTINF:-1 tvg-id="BBC.Two.Wal.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png" group-title="United Kingdom;GENERAL" http-referrer="" http-user-agent="",BBC Two Wales (720p) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_wales_digital/iptv_hd_abr_v1.mpd
 
-#EXTINF:-1 tvg-id="BBCUHD1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/960px-BBC_Logo_2021.svg.png" group-title="United Kingdom;GENERAL" http-referrer="" http-user-agent="",BBC UHD 1
+#EXTINF:-1 tvg-id="BBC.R1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/960px-BBC_Logo_2021.svg.png" group-title="United Kingdom;GENERAL" http-referrer="" http-user-agent="",BBC UHD 1
 https://xemzi.short.gy/1000001
 
-#EXTINF:-1 tvg-id="BBCUHD2.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/960px-BBC_Logo_2021.svg.png" group-title="United Kingdom;GENERAL" http-referrer="" http-user-agent="",BBC UHD 2
+#EXTINF:-1 tvg-id="BBC.R2.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/960px-BBC_Logo_2021.svg.png" group-title="United Kingdom;GENERAL" http-referrer="" http-user-agent="",BBC UHD 2
 https://xemzi.short.gy/1000002
 
 #EXTINF:-1 tvg-id="Brit.Asia.TV.uk" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Brit_Asia.png" group-title="United Kingdom;GENERAL" http-referrer="" http-user-agent="",Brit Asia TV
@@ -22534,13 +22534,13 @@ https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="QVC.uk" tvg-logo="https://i.imgur.com/6TWUVrh.png" group-title="United Kingdom;SHOP" http-referrer="" http-user-agent="",QVC UK
 https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
 
-#EXTINF:-1 tvg-id="QVCBeauty.uk" tvg-logo="https://i.imgur.com/ZBHtqk1.png" group-title="United Kingdom;SHOP" http-referrer="" http-user-agent="",QVC UK Beauty
+#EXTINF:-1 tvg-id="QVC.Beauty.uk" tvg-logo="https://i.imgur.com/ZBHtqk1.png" group-title="United Kingdom;SHOP" http-referrer="" http-user-agent="",QVC UK Beauty
 https://qvcuk-live.akamaized.net/hls/live/2097112/qby/master.m3u8
 
-#EXTINF:-1 tvg-id="QVCExtra.uk" tvg-logo="https://i.imgur.com/TIe5T9Z.png" group-title="United Kingdom;SHOP" http-referrer="" http-user-agent="",QVC UK Extra
+#EXTINF:-1 tvg-id="QVC.Extra.uk" tvg-logo="https://i.imgur.com/TIe5T9Z.png" group-title="United Kingdom;SHOP" http-referrer="" http-user-agent="",QVC UK Extra
 https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8
 
-#EXTINF:-1 tvg-id="QVCStyle.uk" tvg-logo="https://i.imgur.com/6HZlLL3.png" group-title="United Kingdom;SHOP" http-referrer="" http-user-agent="",QVC UK Style
+#EXTINF:-1 tvg-id="QVC.Style.HD.uk" tvg-logo="https://i.imgur.com/6HZlLL3.png" group-title="United Kingdom;SHOP" http-referrer="" http-user-agent="",QVC UK Style
 https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8
 
 #EXTINF:-1 tvg-id="TJC.uk" tvg-logo="https://i.imgur.com/fk5rEje.png" group-title="United Kingdom;SHOP" http-referrer="" http-user-agent="",TJC
@@ -26705,7 +26705,7 @@ http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
 #EXTINF:-1 tvg-id="CSIMiamienespanol.us" tvg-logo="https://images.pluto.tv/channels/632b5950b515b000079e6b81/colorLogoPNG_1731837336190.png" group-title="United States;ENTERTAINMENT" http-referrer="" http-user-agent="",CSI: Miami en español
 https://jmp2.uk/plu-632b5950b515b000079e6b81.m3u8
 
-#EXTINF:-1 tvg-id="CSINYenespanol.us" tvg-logo="https://images.pluto.tv/channels/632b606e12a67b0007c9e371/colorLogoPNG_1731837281479.png" group-title="United States;ENTERTAINMENT" http-referrer="" http-user-agent="",CSI: NY en español
+#EXTINF:-1 tvg-id="Cine.en.Español.us" tvg-logo="https://images.pluto.tv/channels/632b606e12a67b0007c9e371/colorLogoPNG_1731837281479.png" group-title="United States;ENTERTAINMENT" http-referrer="" http-user-agent="",CSI: NY en español
 https://jmp2.uk/plu-632b606e12a67b0007c9e371.m3u8
 
 #EXTINF:-1 tvg-id="DatingDisasters.us" tvg-logo="https://images.pluto.tv/channels/651f239d9c7aeb0008286823/colorLogoPNG.png" group-title="United States;ENTERTAINMENT" http-referrer="" http-user-agent="",Dating Disasters
@@ -27155,25 +27155,25 @@ https://livecdn.use1-0004.jwplive.com/live/sites/fGLyccP5/media/FoWynVnP/live.is
 #EXTINF:-1 tvg-id="ShowtimeFamilyZone.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/960px-Showtime.svg.png" group-title="United States;FAMILY" http-referrer="" http-user-agent="",Showtime Family Zone
 http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
 
-#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="United States;FAMILY" http-referrer="" http-user-agent="",The Pet Collective
+#EXTINF:-1 tvg-id="Pet.Collective.+.us" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="United States;FAMILY" http-referrer="" http-user-agent="",The Pet Collective
 https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="United States;FAMILY" http-referrer="" http-user-agent="",The Pet Collective (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Pet.Collective.+.us" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="United States;FAMILY" http-referrer="" http-user-agent="",The Pet Collective (1080p) [Geo-blocked]
 https://pb-jc9emctsujawo.akamaized.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="United States;FAMILY" http-referrer="" http-user-agent="",The Pet Collective (Alt 2)
+#EXTINF:-1 tvg-id="Pet.Collective.+.us" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="United States;FAMILY" http-referrer="" http-user-agent="",The Pet Collective (Alt 2)
 https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="United States;FAMILY" http-referrer="" http-user-agent="",The Pet Collective (Alt 3)
+#EXTINF:-1 tvg-id="Pet.Collective.+.us" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="United States;FAMILY" http-referrer="" http-user-agent="",The Pet Collective (Alt 3)
 https://6ec8627d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="United States;FAMILY" http-referrer="" http-user-agent="",The Pet Collective (Alt 4)
+#EXTINF:-1 tvg-id="Pet.Collective.+.us" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="United States;FAMILY" http-referrer="" http-user-agent="",The Pet Collective (Alt 4)
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="United States;FAMILY" http-referrer="" http-user-agent="",The Pet Collective (Alt 5)
+#EXTINF:-1 tvg-id="Pet.Collective.+.us" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="United States;FAMILY" http-referrer="" http-user-agent="",The Pet Collective (Alt 5)
 https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8
 
-#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="United States;FAMILY" http-referrer="" http-user-agent="",The Pet Collective (Alt 6)
+#EXTINF:-1 tvg-id="Pet.Collective.+.us" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="United States;FAMILY" http-referrer="" http-user-agent="",The Pet Collective (Alt 6)
 https://the-pet-collective-international-gb.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ThePetCollective.us" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="United States;FAMILY" http-referrer="" http-user-agent="",The Pet Collective International
@@ -31197,7 +31197,7 @@ https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ABNAfghanistan.us" tvg-logo="https://i.imgur.com/LI30mAt.png" group-title="United States;RELIGION" http-referrer="" http-user-agent="",ABN Afghanistan
 https://mediaserver.abnvideos.com/streams/abnafghanistan.m3u8
 
-#EXTINF:-1 tvg-id="ABNAfrica.us" tvg-logo="https://i.imgur.com/SLrX8Ef.png" group-title="United States;RELIGION" http-referrer="" http-user-agent="",ABN Africa
+#EXTINF:-1 tvg-id="TBN.Africa.us" tvg-logo="https://i.imgur.com/SLrX8Ef.png" group-title="United States;RELIGION" http-referrer="" http-user-agent="",ABN Africa
 https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
 
 #EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="United States;RELIGION" http-referrer="" http-user-agent="",ABN Bible Movies
@@ -31650,7 +31650,7 @@ https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playli
 #EXTINF:-1 tvg-id="BellatorMMA.us" tvg-logo="https://i.imgur.com/VBKoLHk.png" group-title="United States;SPORTS" http-referrer="" http-user-agent="",Bellator MMA
 https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
 
-#EXTINF:-1 tvg-id="BilliardTV.us" tvg-logo="https://i.imgur.com/BZijfKh.png" group-title="United States;SPORTS" http-referrer="" http-user-agent="",Billiard TV (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Billiards.TV.us" tvg-logo="https://i.imgur.com/BZijfKh.png" group-title="United States;SPORTS" http-referrer="" http-user-agent="",Billiard TV (1080p) [Geo-blocked]
 https://pb-wm04vonaerv0k.akamaized.net/billi.m3u8
 
 #EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="United States;SPORTS" http-referrer="" http-user-agent="",CBS Sports Golazo Network
@@ -33144,7 +33144,7 @@ http://200.194.238.229:8383/live/primer/playlist.m3u8
 #EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/ZWFxlU1.png" group-title="Brazil;GENERAL" http-referrer="" http-user-agent="",RBATV
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RCTVBrasil.br" tvg-logo="https://eswqkrogupaisirwcsys.supabase.co/storage/v1/object/public/mbc-media/canais/1776378749826-jef0fj1ekwq.png" group-title="Brazil;GENERAL" http-referrer="" http-user-agent="",RCTV Brasil
+#EXTINF:-1 tvg-id="TV.Brasil.br" tvg-logo="https://eswqkrogupaisirwcsys.supabase.co/storage/v1/object/public/mbc-media/canais/1776378749826-jef0fj1ekwq.png" group-title="Brazil;GENERAL" http-referrer="" http-user-agent="",RCTV Brasil
 https://stmv.webtvninjas.com.br/rctv/rctv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Record.TV.br" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Brazil;GENERAL" http-referrer="" http-user-agent="",Record
@@ -33333,7 +33333,7 @@ https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
 #EXTINF:-1 tvg-id="TVDiarioMacapa.br" tvg-logo="https://i.imgur.com/yAW2Z5j.jpg" group-title="Brazil;GENERAL" http-referrer="" http-user-agent="",TV Diário Macapá (1080p) [Not 24/7]
 https://5ad482a77183d.streamlock.net/marliomelohotmail.com/marliomelohotmail.com/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVECultura.br" tvg-logo="https://i.imgur.com/FpqoWcB.png" group-title="Brazil;GENERAL" http-referrer="" http-user-agent="",TVE Cultura
+#EXTINF:-1 tvg-id="TV.Cultura.br" tvg-logo="https://i.imgur.com/FpqoWcB.png" group-title="Brazil;GENERAL" http-referrer="" http-user-agent="",TVE Cultura
 http://45.190.28.50/TVE/index.m3u8
 
 #EXTINF:-1 tvg-id="TVEncontrodasAguas.br" tvg-logo="" group-title="Brazil;GENERAL" http-referrer="" http-user-agent="",TV Encontro das Aguas
@@ -33375,7 +33375,7 @@ https://v8.ciclano.io:1443/tvinterlagos/_definst_/tvinterlagos/playlist.m3u8
 #EXTINF:-1 tvg-id="TVitape.br" tvg-logo="https://i.imgur.com/XeqcwKe.png" group-title="Brazil;GENERAL" http-referrer="" http-user-agent="",TVitapé
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 
-#EXTINF:-1 tvg-id="TVJustica.br" tvg-logo="https://i.imgur.com/rOQKiMO.png" group-title="Brazil;GENERAL" http-referrer="" http-user-agent="",TV Justica
+#EXTINF:-1 tvg-id="TV.Justiça.br" tvg-logo="https://i.imgur.com/rOQKiMO.png" group-title="Brazil;GENERAL" http-referrer="" http-user-agent="",TV Justica
 http://45.162.64.114/TV_JUSTICA/index.m3u8
 
 #EXTINF:-1 tvg-id="TVLatinaSat.br" tvg-logo="https://latinasat.com.br/logo.png" group-title="Brazil;GENERAL" http-referrer="" http-user-agent="",TVLatinaSat
@@ -34761,7 +34761,7 @@ https://vs20.live.opencaster.com/panche_3c70d368/index.m3u8
 #EXTINF:-1 tvg-id="RCNHD2.co" tvg-logo="https://i.imgur.com/SrMPTfc.png" group-title="Colombia;GENERAL" http-referrer="" http-user-agent="",RCN HD2
 http://181.78.14.26:4000/play/a07m/index.m3u8
 
-#EXTINF:-1 tvg-id="SenalColombia.co" tvg-logo="https://i.imgur.com/Y9x16vl.png" group-title="Colombia;GENERAL" http-referrer="" http-user-agent="",Senal Colombia
+#EXTINF:-1 tvg-id="Señal.Colombia.co" tvg-logo="https://i.imgur.com/Y9x16vl.png" group-title="Colombia;GENERAL" http-referrer="" http-user-agent="",Senal Colombia
 http://209.14.115.253:8081/SENALCOLOMBIA/index.m3u8
 
 #EXTINF:-1 tvg-id="SoonaTV.co" tvg-logo="https://i.imgur.com/Pk8zzTL.jpeg" group-title="Colombia;GENERAL" http-referrer="" http-user-agent="",Soona TV
@@ -36471,7 +36471,7 @@ https://dayqb844napyo.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8
 #EXTINF:-1 tvg-id="Wairarapa.TV.nz" tvg-logo="https://i.imgur.com/xm4KBwE.png" group-title="New Zealand;GENERAL" http-referrer="" http-user-agent="",Wairarapa TV (1080p) [Not 24/7]
 https://stream1.np.co.nz/WAITVABR/WAITVABR/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WhakaataMaori.nz" tvg-logo="https://i.imgur.com/oT3PrHZ.png" group-title="New Zealand;GENERAL" http-referrer="" http-user-agent="",Whakaata Maori
+#EXTINF:-1 tvg-id="Whakaata.Māori.nz" tvg-logo="https://i.imgur.com/oT3PrHZ.png" group-title="New Zealand;GENERAL" http-referrer="" http-user-agent="",Whakaata Maori
 https://i.mjh.nz/.r/maori-tv.m3u8
 
 #EXTINF:-1 tvg-id="Parliament.nz" tvg-logo="https://i.imgur.com/2aHW4q7.png" group-title="New Zealand;GOVERNMENT" http-referrer="" http-user-agent="",Parliament TV
@@ -39454,7 +39454,7 @@ https://aegis-cloudfront-1.tubi.video/b82a751c-18e0-417c-92c1-d476319da423/playl
 #EXTINF:-1 tvg-id="GardeningwithMontyDon.in" tvg-logo="" group-title="International;GENERAL" http-referrer="" http-user-agent="",Gardening with Monty Don
 https://all3media-gardening-with-monty-don-us.xumo.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GarvPunjabGurbani.in" tvg-logo="" group-title="International;GENERAL" http-referrer="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",Garv Punjab Gurbani
+#EXTINF:-1 tvg-id="Garv.Punjabi.Gurbani.in" tvg-logo="" group-title="International;GENERAL" http-referrer="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",Garv Punjab Gurbani
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/garv-punjab-gurbani/index.m3u8?ads.vf=3s3toJC4g3i
 
