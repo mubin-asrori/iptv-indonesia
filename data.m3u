@@ -1,12 +1,5 @@
 ﻿#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-id="TVRI.id"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",TVRI Nasional
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-#EXTINF:-1 tvg-id="TVRISport.id"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ1VJ8fS-Oh63MRSY0_9NSxm457-gypcqjOA&s"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",TVRI Sport
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-#EXTINF:-1 tvg-id="TVRIWorld.id"tvg-logo="https://i.imgur.com/zWT1D4x.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",TVRI World
-https://cdnbal1.indihometv.com/atm/DASH/tvriworld/tvriworld-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="SCTV.id"tvg-logo="https://i.imgur.com/9nGJaOL.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",SCTV
-http://202.169.224.202:8800/udp/239.9.1.29:1234
+
 #EXTINF:-1 tvg-id="Indosiar.id"tvg-logo="https://i.imgur.com/SjCylM5.jpeg"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="",Indosiar
 http://202.169.224.202:8800/udp/239.9.1.25:1234
 #EXTINF:-1 tvg-id="Moji.id"tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_moji.png"group-title="Indonesia;Nasional":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",Moji
@@ -3264,7 +3257,7 @@ https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
 https://mumbai-edge.smartplaytv.in/10TV/index.m3u8
 #EXTINF:-1 tvg-id="22Scope.News.in"tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/22Scope_News.png"group-title="India;NEWS":http-referrer="":http-user-agent="",22Scope News
 https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="I.News.in"tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/I_News.png"group-title="India;Nasional":http-referrer="":http-user-agent="",INews
+#EXTINF:-1 tvg-id="I.News.in"tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/I_News.png"group-title="India;Nasional":http-referrer="":http-user-agent="",INews (india)
 https://cdn-1.pishow.tv/live/411/master.m3u8
 #EXTINF:-1 tvg-id="24News.in"tvg-logo="https://sund-images.sunnxt.com/202222/300x300_24News_202222_d63feca0-79ae-47ea-b75a-66c17d456f4c.png"group-title="India;NEWS":http-referrer="":http-user-agent="",24 News
 https://mumt07.tangotv.in/zHjX9OFlTWENTYFOURNEWS/index.m3u8
